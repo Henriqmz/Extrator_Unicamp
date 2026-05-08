@@ -1,4 +1,4 @@
-# Extrator_UNICAMP
+# Extrator_Unicamp
 
 Este projeto busca extrair todas as questões de provas da UNICAMP que forem colocadas nele. Se o gabarito for colocado junto, irá apontar qual é a alternativa correta também.
 
