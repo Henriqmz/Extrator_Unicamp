@@ -1,5 +1,7 @@
 # Extrator_Unicamp
 
+Trello: https://trello.com/b/ikVkMxb4/extrator-unicamp
+
 Este projeto busca extrair todas as questões de provas da UNICAMP que forem colocadas nele. Se o gabarito for colocado junto, irá apontar qual é a alternativa correta também.
 
 Saídas: 1 JSON por questão, contendo:
