@@ -16,13 +16,15 @@ Metadados:
 Conteudo:
     enunciado: str
     url_img: Optional[str] = None
+    dica: str
+    resolucao: str
     
 Especificacao: (ainda não implementado de maneira automática)
     materia: str
     tags: List[str]
     
 Alternativas:
-    Retorna todas as alternativas da questão, cada uma contendo texto, imagem (se houver) e um booleano dizendo se é a correta. Se só houverem alternativas de "a" até "d", a alternativa "e" não é criada.
+    Retorna todas as alternativas da questão, cada uma contendo texto, imagem(s) (se houver) e um booleano dizendo se é a correta. Se só houverem alternativas de "a" até "d", a alternativa "e" não é criada.
 
 E, se houver texto complementar (enunciado para x questões), cria um JSON com:
 
@@ -32,3 +34,7 @@ Metadados:
 Conteudo:
     enunciado: str
     img_url: Optional[str] = None
+
+
+
+### Atualmente, consegue extrair questões da Unicamp 2026, talvez consiga de outros anos, mas ainda não foi testado.
