@@ -1,0 +1,42 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q62",
+    "edital": "unicamp",
+    "numero": 62,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "No conto “Réplica”, que integra a coletânea No seu pescoço, \nde Chimamanda Adichie, a protagonista vive",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "o choque cultural, consequente das diásporas africanas con­\n\ntemporâneas, reelaborado pelas observações de Nkem.\n\n21",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "as contradições culturais, consequentes do processo de re­\n\ncolonização da Nigéria, expressas pelos negócios ilícitos de \nObiora.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "a opressão feminina, consequente da falência do modelo \n\nafricano de sororidade, como no relato de Ijemamaka.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "o sentimento de nacionalismo, consequente das saudades \n\nde práticas culturais, como no estranhamento dos vizinhos \nbrancos (povo oyibo).\n(ADICHIE, C. N. No seu pescoço. Tradução: Júlia Romeu. São Paulo: Companhia das Le­\ntras, 2017.)",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

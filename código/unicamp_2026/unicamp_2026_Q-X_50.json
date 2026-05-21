@@ -1,0 +1,44 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q50",
+    "edital": "unicamp",
+    "numero": 50,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A figura a seguir mostra um quadrado ABCD de lado me­\ndindo x. O ponto médio do lado AB está representado por \nM. Os pontos P e Q, pertencentes ao lado CD, são tais que \nPD = QC. O ângulo PMQ, representado por θ na figura, é tal que \ncos(θ) = 2⁄3.\n\nA\nB\nM\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p18_drawing0.png)\n\nθ\n\nD\nP\nQ\nC\n\nA área do triângulo PMQ é\n\n√2 x2\n\n√5 x2",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p18_drawing0.png"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": ".",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": ". \n\n4\n\n2",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": ".\n\n2\n\n5",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": ".\n\n√3 x2\n\n√3 x2",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

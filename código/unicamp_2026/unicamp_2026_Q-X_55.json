@@ -1,0 +1,42 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q55",
+    "edital": "unicamp",
+    "numero": 55,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Sobre a diferença que o texto estabelece entre Nós e nóix, po­\ndemos afirmar que está relacionada a uma distinção",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "sociocultural, pois esses termos se referem a grupos demar­\n\ncados distintamente: enquanto Nós é bem delimitado, nóix \ndiz respeito a uma coletividade difusa, mas marcada por \ncompartilhar vivências específicas.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "gramatical, pois esses termos não pertencem à mesma clas­\n\nse de palavras: enquanto Nós é um pronome típico da nor­\nma culta, nóix é um substantivo popular que serve à expres­\nsão da diversidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "histórica, pois esses termos caracterizam os indivíduos em \n\nfunção do seu passado: enquanto Nós abrange aqueles sem \nancestralidade, nóix reúne os que assumem os ancestrais \ncomo parte de sua história.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "política, pois esses termos revelam uma polarização na for­\n\nma de se relacionar com o poder: enquanto Nós simboliza \no apoio à opressão social, nóix caracteriza uma rejeição aos \npoderes instituídos.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

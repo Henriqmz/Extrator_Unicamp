@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q42",
+    "edital": "unicamp",
+    "numero": 42,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Uma regra estabelecida pelo papa Paulo VI, em 1970, define \nque somente cardeais com menos de 80 anos participam e vo­\ntam no conclave. Em 2025, 135 pessoas cumpriram esse critério \nde idade. O vencedor só é definido após garantir o apoio de \ndois terços dos votantes. Os últimos 3 conclaves aconteceram \nem 2005, 2013 e 2025.\n(Adaptado de https://www.nexojornal.com.br/grafico/2025/04/24/eleicao-papa-concla­\nve-quem-faz-parte-cardeais/. Acesso em 30/05/2025.)\n\nDistribuição dos cardeais votantes, por região, em cada conclave \ndesde 2005\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p16_drawing0.png)\n\n50%\n\n40%\n\n39,3% EUROPA\n\n30%\n\n20,0% ÁSIA E OCEANIA\n17,0% AMÉRICA LATINA\n13,3% ÁFRICA\n10,4% EUA e CANADÁ\n\n20%\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p16_drawing1.png)\n\n10%\n\n0\n\n2005\n2013\n2025\n\nConsiderando o gráfico anterior, é correto afirmar que, desde \n2005, em cada conclave,",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p16_drawing0.png",
+      "./imgs/unicamp_2026_Q-X_p16_drawing1.png"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "América Latina e África juntas corresponderam a mais que \n\n40% da quantidade de cardeais votantes.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Ásia, Oceania e África juntas corresponderam a mais que \n\n30% da quantidade de cardeais votantes.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Europa e África juntas corresponderam a mais que 50% da \n\nquantidade de cardeais votantes.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "Ásia, Oceania, Estados Unidos e Canadá juntos correspon­\n\nderam a 30% da quantidade de cardeais votantes.\n\n15",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

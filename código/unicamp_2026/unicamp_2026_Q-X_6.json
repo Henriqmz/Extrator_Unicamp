@@ -1,0 +1,42 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q6",
+    "edital": "unicamp",
+    "numero": 6,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Leia o resumo de um artigo científico. \n\nIncels: Masculinity in the Transition to Adulthood\n\nIncels are men who are members of an online community that \nexperiences an unmet desire for sex and blame women for \ntheir struggle. Since 2019 there have been several mass murder \nattacks committed by Incels motivated by Incel ideology \ncreating a threat of future violence. While the vast majority of \nIncels do not commit such attacks, researchers have begun to \nstudy Incels to prevent violence and uncover the true nature \nof this community. The study of Incels is incipient; therefore, \nmore knowledge about interventions to address the struggles of \ninvoluntary celibacy is needed. This paper emphasizes the \nmasculinity strain experienced by Incels who attempt to perform \nhegemonic masculinity as part of the transition to adulthood \nbut fall short because of their lack of sexual activity. This work \nproposes the creation and implementation of Incel-specific, \nonline therapeutic interventions and continued research directly \nwith the Incel community to uncover the complexities of Incel \nexperiences.\n(Adaptado de https://link.springer.com/article/10.1007/s12119-024-10201-7. Acesso \nem 16/05/2025.)\n\nDe acordo com o resumo, é correto afirmar que",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "“Incel” é uma comunidade majoritariamente constituída \n\npor homens que culpam mulheres por questionarem sua \nmasculinidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "as pesquisas sobre a comunidade “Incel” ainda são escas­\n\nsas, por isso há a necessidade de mais estudos que definam \nteoricamente a abstinência sexual.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "homens “Incel”, muitas vezes, tentam exercer uma mascu­\n\nlinidade dominante que resulta em expectativas frustradas \ndevido à inatividade sexual.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "a pesquisa propõe práticas terapêuticas que integrem ho­\n\nmens “Incel” a outros grupos sociais para melhor compre­\nender as complexidades da masculinidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

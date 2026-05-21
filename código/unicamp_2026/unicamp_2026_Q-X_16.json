@@ -1,0 +1,44 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q16",
+    "edital": "unicamp",
+    "numero": 16,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Atualmente, é comum denominar a divisão político-regional do \nmundo entre Norte e Sul Global. Essa delimitação não segue \nexatamente os pontos cardeais. Há países do Norte que estão \nno Sul e vice-versa, conforme indicado no mapa. Essa forma \nde divisão está baseada no tabuleiro geopolítico e econômico \nmundial e afastada da localização geográfica dos países.\n\nLocalização dos países do Norte e Sul Global\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p6_img0.png)\n\n(Elaboração: COMVEST, 2025.)\n\nEm relação à localização dos países do Norte e Sul Global nos \ndiferentes hemisférios, assinale, com base no mapa, a alterna­\ntiva correta.",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p6_img0.png"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Austrália e Nova Zelândia são os únicos países do Norte Glo­\n\nbal situados no hemisfério meridional e hemisfério ociden­\ntal.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Argentina, Brasil, Chile, Colômbia, Equador e Venezuela es­\n\ntão no Sul Global e têm seus territórios no hemisfério meri­\ndional e no hemisfério oriental.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Estados Unidos e Canadá são países do continente america­\n\nno no Norte Global que têm seus territórios localizados no \nhemisfério setentrional e hemisfério ocidental.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "China, Rússia, Índia e Japão, integrantes do Norte Global, \n\nestão situados no hemisfério setentrional e no hemisfério \noriental.\n\n5",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

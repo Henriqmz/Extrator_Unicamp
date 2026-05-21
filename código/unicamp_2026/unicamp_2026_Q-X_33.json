@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q33",
+    "edital": "unicamp",
+    "numero": 33,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "As imagens a seguir fazem parte da coleção International Date­\nline Collection III, exposta em um desfile internacional, organi­\nzado pela estilista brasileira Zuzu Angel, em Nova Iorque, no dia \n13 de setembro de 1971.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p12_img0.jpeg)\n\nLegenda:  Vestido de noiva idealizado por Zuzu Angel.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p13_img1.jpeg)\n\nLegenda: Desenho de quepe militar nas cores verde oliva, amarela, azulão-\nverde; com aba na cor verde direcionada para a direita. Possui inscrição do \nnúmero \"32\" a lápis e à caneta, bem como o texto \"verde oliva, amarelo, \nazulão-verde\" e a palavra \"azulão\" registrados à caneta. Desenho utilizado \nem bordado de vestido.\n\nSobre as criações de Zuzu Angel para a produção das peças e organização do desfile, é correto afirmar que a",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p12_img0.jpeg",
+      "./imgs/unicamp_2026_Q-X_p13_img1.jpeg"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "utilização de um vestido de noiva, decorado com símbolos \n\nmilitares e desenhos infantis, amenizava a percepção inter­\nnacional dos anos de chumbo do Brasil pós-AI5.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "escolha por desenhos infantis, associados aos motivos mili­\n\ntares, expressa uma denúncia do desaparecimento de pre­\nsos políticos.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": null,
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": null,
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q51",
+    "edital": "unicamp",
+    "numero": 51,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Considere\n\nA = { x∈    : |x−5| ≥ 2 e |x−11| ≤ 9 }.\n\nℕ\n\nQuantos números primos pertencem ao conjunto A?\n\n17",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "5.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "6.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "7.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "8.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

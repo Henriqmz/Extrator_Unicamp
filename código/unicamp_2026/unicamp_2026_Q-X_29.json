@@ -1,0 +1,44 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q29",
+    "edital": "unicamp",
+    "numero": 29,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A imagem e o texto a seguir têm como tema comum as práticas \nesportivas e a construção da masculinidade entre os atenienses \nno Período Clássico (séculos V e IV a.C.).\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p11_img0.jpeg)\n\nEsporte apreciado entre os helenos, o lançamento de disco exi­\ngia do atleta uma disciplina técnica, evidenciada pela harmonia \ndos movimentos corporais. No centro da imagem, há um jovem \nse preparando para o lançar o disco. A ausência da barba do \npersonagem permite afirmar que ele está sendo preparado para \no exercício da cidadania plena. A presença dos dois halteres e \ndo enxadão indica que a cena ocorre  em uma palestra: campo \nde exercício cercado de edifícios com funções diversas. Na ima­\ngem original, contamos com uma inscrição que diz \"Kléomelos \né belo\". \n(Texto e imagem adaptados de LESSA, F. de S. Corpo, Esporte e Masculinidade em Atenas. \nPHOÎNIX, Rio de Janeiro. v. 10: p. 111-132, 2004.)\n\nA partir da imagem e do texto, assinale a alternativa correta \nsobre a interpretação da imagem.",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p11_img0.jpeg"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Um atleta do lançamento de discos, esporte olímpico, ligado \n\nao trabalho manual das camadas subalternas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Distinção de classe social, já que se representa um ideário de \n\nbeleza própria ao atleta bem-nascido.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "Um cidadão ateniense maduro e despido, em pose comum \n\naos lançadores de disco já vitoriosos.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Elementos gráficos que representam a percepção social e \n\nesportiva do ápice da masculinidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

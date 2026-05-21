@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q13",
+    "edital": "unicamp",
+    "numero": 13,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Qual é o gráfico que representa a posição s (t) do motociclista \nem função do tempo t?",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "800\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p5_drawing0.png)\n\n600\n\nΙV\n\ns(t) (m)\n\n400\n\nΙ\n\nΙΙΙ\n\nΙΙ\n\n200\n\n0\n\n0\n20\n40\n60\n80\n100 120\nt (s)",
+      "url_img": [
+        "./imgs/unicamp_2026_Q-X_p5_drawing0.png"
+      ],
+      "correta": true
+    },
+    "b": {
+      "texto": "800\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p5_drawing1.png)\n\n600\n\nΙV\n\ns(t) (m)\n\n400\n\nΙ\n\nΙΙΙ\n\nΙΙ\n\n200\n\n0\n\n0\n20\n40\n60\n80\n100 120\nt (s)\n\n4",
+      "url_img": [
+        "./imgs/unicamp_2026_Q-X_p5_drawing1.png"
+      ],
+      "correta": false
+    },
+    "c": {
+      "texto": "800\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p5_drawing2.png)\n\n600\n\nΙV\n\ns(t) (m)\n\n400\n\nΙ\n\nΙΙΙ\n\nΙΙ\n\n200\n\n0\n\n0\n20\n40\n60\n80\n100 120\nt (s)",
+      "url_img": [
+        "./imgs/unicamp_2026_Q-X_p5_drawing2.png"
+      ],
+      "correta": false
+    },
+    "d": {
+      "texto": "800\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p5_drawing3.png)\n\n600\n\nΙV\n\ns(t) (m)\n\nΙΙ\n\n400\n\nΙ\n\nΙΙΙ\n\n200\n\n0\n\n0\n20\n40\n60\n80\n100 120\nt (s)",
+      "url_img": [
+        "./imgs/unicamp_2026_Q-X_p5_drawing3.png"
+      ],
+      "correta": false
+    },
+    "e": null
+  }
+}

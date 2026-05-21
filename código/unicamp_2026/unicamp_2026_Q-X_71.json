@@ -1,0 +1,42 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q71",
+    "edital": "unicamp",
+    "numero": 71,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A Agência Nacional do Petróleo (ANP) é responsável por im­\nplementar a política nacional de combustíveis e proteger os in­\nteresses dos consumidores quanto a preço, qualidade e oferta \nde produtos, além de especificar a qualidade dos derivados de \npetróleo, do gás natural e de seus derivados e dos biocombus­\ntíveis. Nesse sentido, a resolução ANP 907, de 2022, especifica \nalgumas características do Etanol Anidro Combustível (EAC), \ndo Etanol Hidratado Combustível (EHC) e do Etanol Hidratado \nCombustível Premium (EHCP). Algumas dessas características \nestão na tabela a seguir e nas alternativas.\n\nCombustível\nMassa Específica\n\nTeor Alcoólico\n\n(kg/m3)\n\n(% massa)\n\nEAC\n791,5 (a)\n99,3 (b)\n\nEHC\n(c)\nentre 92,5 e 94,6\n\nEHCP\n(d)\nentre 95,5 e 96,5\n\n(Adaptado da Resolução ANP nº 907 de 18/11/2022.)\n\nConsiderando que água e etanol formam uma mistura ideal, \npara preencher corretamente essa tabela, as letras a, b, c e d \ndevem corresponder, respectivamente, a",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "máximo; mínimo; entre 805 e 811 e entre 800 e 803.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "mínimo; máximo; entre 805 e 811 e entre 800 e 803.\n\n24",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "máximo; mínimo; entre 800 e 803 e entre 805 e 811.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "mínimo; máximo; entre 800 e 803 e entre 805 e 811.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

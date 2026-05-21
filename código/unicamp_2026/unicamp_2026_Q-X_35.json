@@ -1,0 +1,44 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q35",
+    "edital": "unicamp",
+    "numero": 35,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A bactéria Citrobacter rodentium é um patógeno que causa \naumento da profundidade das glândulas intestinais em camun­\ndongos devido à inflamação do cólon. Em um experimento, ca­\nmundongos livres de germes tiveram seus intestinos colonizados \npela microbiota de três populações humanas geograficamente \ndistintas: Estados Unidos (EUA), Ilhas Fiji (FIJI) ou Guatemala \n(GUAT). Com a colonização bem-sucedida, dois grupos foram \nestudados: controle (apenas microbiota) e infectado (microbiota \ne C. rodentium). Após 14 dias, a profundidade das glândulas \nintestinais desses animais foi avaliada, conforme figura a seguir:\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p14_drawing0.png)\n\n350\n\nControle\n\nInfectado\n\n \n\n300\n\nProfundidade da glândula\nintestinal (µm)\n\n250\n\n200\n\n150\n\n100\n\n0\nEUA\nFIJI\nGUAT\n\n(Adaptado de PORRAS, A. e colaboradores. Cell Reports, Cambridge, v. 36, p. 109457, \njul. 2021.) \n\nConsiderando as informações apresentadas, é correto afirmar \nque as diferenças geográficas na composição da microbiota in­\ntestinal podem",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p14_drawing0.png"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "impactar a sensibilidade às infecções entéricas, sendo as po­\n\npulações dos EUA e de FIJI as mais suscetíveis.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "auxiliar a digestão no trato gastrointestinal, sendo a popula­\n\nção da GUAT a mais beneficiada.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "impactar a sensibilidade às infecções entéricas, sendo a po­\n\npulação da GUAT a mais suscetível.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "auxiliar a digestão no trato gastrointestinal, sendo as popu­\n\nlações dos EUA e de FIJI as mais beneficiadas.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

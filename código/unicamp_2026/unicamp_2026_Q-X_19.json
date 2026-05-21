@@ -1,0 +1,44 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q19",
+    "edital": "unicamp",
+    "numero": 19,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Historicamente, a região do Oriente Médio vive uma série de \nconflitos envolvendo alianças e disputas por interesses econô­\nmicos, geopolíticos e religiosos. Por exemplo, o chamado eixo \nda resistência é formado por um conjunto de países e grupos \nrebeldes sob influência do Irã. Esse eixo se define por confrontar \nforças militares ocidentais, como no caso dos Estados Unidos \ne de Israel. O mapa a seguir mostra a localização dos países e \ngrupos sob influência do Irã.\n(Adaptado de https://www.bbc.com/portuguese/articles/cw4dgr9yrpvo. Acesso em \n23/05/2025.)\n\nLocalização dos países e grupos sob influência do Irã\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p7_img1.png)\n\n(Elaboração: COMVEST 2025.)\n\nA partir dessas informações, assinale a alternativa que apresen­\nta corretamente as disputas e as alianças do Irã com grupos \nétnicos, militares e religiosos dentro dos países indicados no \nmapa.\n\nDisputas\nAlianças\n\ncom a minoria sunita do \nislamismo (Iraque); com o \nEstado Islâmico (Síria).\n\ncom os Houthis (Iêmen); \ncom o Hezbollah (Líbano).",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p7_img1.png"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "com os Houthis (Iêmen); \ncom o Estado Islâmico (Sí­\nria).\n\ncom a minoria sunita do \nislamismo (Iraque); com o \nHezbollah (Líbano).",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "com a minoria sunita do \nislamismo (Iraque); com o \nHezbollah (Líbano).\n\ncom os Houthis (Iêmen); \ncom o Estado Islâmico (Sí­\nria).",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "com a minoria sunita do \nislamismo (Iraque); com o \nEstado Islâmico (Síria).",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "com os Houthis (Iêmen); \ncom o Hezbollah (Líbano).",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q64",
+    "edital": "unicamp",
+    "numero": 64,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O sineiro era um preto velho e doido. Não fazia mais que tocar \no sino da capela, para a missa, aos domingos. O resto do tem­\npo vivia calado ou resmungando. Ninguém lhe falava, embora \nfosse manso. [...] Com a razão, perdera a convivência dos mais. \nVivia entregue aos pensamentos solitários, mergulhado na in­\nconsciência e na solidão. A moça representava aos olhos dele \nalguma coisa mais do que uma simples criatura, era a sociedade \nhumana, e uma sombra de sombra da consciência antiga.\n(ASSIS, M. de. Casa Velha. Apresentação e notas de Paulo Franchetti. Campinas, SP: Edi­\ntora da UNICAMP, p. 85-86, 2023.)\n\nNo enredo de Casa Velha, é possível afirmar que a cena em que \naparece a figura do sineiro cumpre o papel de",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "mostrar a solidariedade de classe desenvolvida por Lalau \n\nque, sendo uma agregada, identifica seus interesses com os \ndo velho sineiro.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "exibir o caráter caridoso de Dona Antônia, que mantém o \n\nescravizado sob seus cuidados mesmo após deixar de ser útil \ncomo trabalhador.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "expor a Dona Antônia o sentimento existente entre Lalau e \n\nseu filho, enquanto ele observa a compaixão da moça pelo \nsineiro.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "sugerir a complexidade da organização social característica \n\nda Casa Velha, na qual se via representada toda a sociedade \nhumana.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

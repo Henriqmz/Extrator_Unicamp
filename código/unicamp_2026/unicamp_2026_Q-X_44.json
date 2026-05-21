@@ -1,0 +1,44 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q44",
+    "edital": "unicamp",
+    "numero": 44,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A figura a seguir mostra um trecho do gráfico de f (g(x)) em \nque f (x) = x3 + 2x2 + ax − 1,  g(x) = 3 − x e a é uma constante \nreal. \n\ny\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p16_drawing2.png)\n\n \n\n5\n\nx\n\n1\n\nQual é o valor da constante a ?",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p16_drawing2.png"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "−2.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "−3.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "−4.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "−5.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q2",
+    "edital": "unicamp",
+    "numero": 2,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em um vídeo publicado no canal do Youtube do The New York \nTimes, o diretor de “Ainda Estou Aqui” descreve cenas do fil­\nme. Apresenta-se, a seguir, a transcrição da fala do diretor.\n\n30 minutes into the film, before any of these scenes, everything in \nthe movie conveys a sense of normalcy. From this point onward, \nthough, this frame revolves around subtraction: of light, as the \ndrapes are shut, of sounds from the outside, of music. In this \nother one, we see the last intimacy moment between the couple, \nframed by the military officers, emphasizing a sense of suffocation \n\n1\n\nin what was once a safe place: the family house. Then, we see \nthe first of the only two close-ups in the entire film. We saved it \nfor Eunice’s last glance at Rubens. From here on, we are with her. \n“I'm Still Here” becomes her film.\n\nObserve três quadros extraídos do filme.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p2_img1.jpeg)\n\nQuadro A\nQuadro B\nQuadro C\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p2_img2.jpeg)\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p2_img3.jpeg)\n\n(Imagens e texto adaptados de https://www.youtube.com/watch?v=mtXCWXkgCFg. \nAcesso em 01/05/2025.)\n\nAssinale a alternativa que apresenta os quadros na ordem em \nque foram descritos no texto.",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p2_img1.jpeg",
+      "./imgs/unicamp_2026_Q-X_p2_img2.jpeg",
+      "./imgs/unicamp_2026_Q-X_p2_img3.jpeg"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Quadro A, Quadro C, Quadro B.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Quadro B, Quadro C, Quadro A.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "Quadro C, Quadro B, Quadro A.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Quadro B, Quadro A, Quadro C.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

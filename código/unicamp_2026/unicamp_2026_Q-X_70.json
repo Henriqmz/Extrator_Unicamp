@@ -1,0 +1,44 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q70",
+    "edital": "unicamp",
+    "numero": 70,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A produção industrial de barrilha (carbonato de sódio) é ma­\njoritariamente feita pelo processo Solvay. A barrilha é um dos \ncompostos químicos inorgânicos mais importantes globalmen­\nte, sendo vital para a fabricação de vidro, sabão, detergente, \npapel, entre muitos outros produtos. As reações envolvidas no \nprocesso Solvay, que ocorrem em fluxo contínuo, estão repre­\nsentadas esquematicamente no fluxograma a seguir.\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p25_drawing0.png)\n\nNaCl (saturado)\n\nCaCO3 (s)\n\nNH3 (g)\n\nCO2 (g)\n\nNa2CO3 (s)\n\nCaO (s)\n\nNH4Cl (aq)\n\nNaHCO3 (s)\n\nCaCl2 (s)\n\nH2O (vap)\n\n(Adaptado de ARAÚJO A. L. et al. Química Nova, v. 21, n. 1, p. 114, 1998.)\n\nNesse processo de fabricação, após o fluxo contínuo de produ­\nção ser iniciado, é necessário adicionar para sua manutenção",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p25_drawing0.png"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "salmoura e calcário, pois  a amônia é totalmente regenerada \n\ndurante o processo.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "gás carbônico e salmoura, pois  a amônia é totalmente rege­\n\nnerada durante o processo.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "calcário e amônia, pois  o gás carbônico é totalmente rege­\n\nnerado durante o processo.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "amônia e salmoura, pois  o gás carbônico é totalmente rege­\n\nnerado durante o processo.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

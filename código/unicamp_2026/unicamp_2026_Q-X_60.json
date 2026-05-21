@@ -1,0 +1,42 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q60",
+    "edital": "unicamp",
+    "numero": 60,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em seu ensaio “A vida não é útil”, Ailton Krenak elege Carlos \nDrummond de Andrade como um de seus “escudos”. Ele cita \na última estrofe de “O Homem; as Viagens”, poema publicado \nem As impurezas do Branco (1973). Reproduzimos, a seguir, a \nprimeira e a segunda estrofe desse poema:\n\n“O Homem; as Viagens\n\nO homem, bicho da Terra tão pequeno\nchateia-se na Terra\nlugar de muita miséria e pouca diversão,\nfaz um foguete, uma cápsula, um módulo\ntoca para a Lua\ndesce cauteloso na Lua\npisa na Lua\nplanta bandeirola na Lua\nexperimenta a Lua\ncoloniza a Lua\nciviliza a Lua\nhumaniza a Lua.\n\nLua humanizada: tão igual à Terra.\nO homem chateia-se na Lua.\nVamos para Marte – ordena a suas máquinas.\nElas obedecem, o homem desce em Marte\npisa em Marte\nexperimenta\ncoloniza\nciviliza\nhumaniza Marte com engenho e arte.\n\nMarte humanizado, que lugar quadrado. \n(...)”. \n\n(ANDRADE, C. D. O Homem; As viagens, As impurezas do Branco. In: Poesia Completa. \nRio de Janeiro, Editora Nova Aguilar, p. 718, 2002.)\n(KRENAK, A. A vida não é útil. Pesquisa e organização de Rita Carelli. São Paulo: Com­\npanhia das Letras, 2020.)\n\nEm relação às reflexões de Ailton Krenak, é correto afirmar que \nesse trecho do poema",
+    "url_img": [],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "responsabiliza a ciência e tecnologia, desgastadas em seus \n\nvalores, pela corrosão das relações nas sociedades contem­\nporâneas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "mostra que os Homens, guiados pela ideia de progresso, \n\nnão adotam uma postura consciente em relação ao seu es­\npaço.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "evidencia que a Terra, desgastada em seus valores, foi supe­\n\nrada pelos elementos da conquista espacial.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "identifica a aniquilação das sociedades contemporâneas nos \n\nprogramas de governos persuadidos pelo progresso.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2026_q67",
+    "edital": "unicamp",
+    "numero": 67,
+    "tipo_ou_cor": "Q-X",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Os recifes de corais são ecossistemas ricos em biodiversidade, \nsendo essenciais para a pesca e proteção costeira. Essas es­\ntruturas são formadas por pólipos com esqueleto externo de \ncarbonato de cálcio e sofrem degradação nas últimas décadas \ndevido às atividades humanas no meio ambiente. O infográ­\nfico a seguir representa o efeito da ação humana sobre um \ndos equilíbrios químicos da água dos oceanos pela emissão de \nCO2 atmosférico (CO2 atm). Dados: [CO2]atm = concentração \nde CO2 atmosférico\n\n\n\n![figura](./imgs/unicamp_2026_Q-X_p24_img0.jpeg)\n\n(Adaptado de HOEGH-GULDBERG et al. Science, v. 318, p.1737-1742, 2007.)\n\nCom base nas informações do enunciado e do infográfico apre­\nsentado, é correto afirmar que as espécies A, B e C são, respec­\ntivamente,",
+    "url_img": [
+      "./imgs/unicamp_2026_Q-X_p24_img0.jpeg"
+    ],
+    "resolucao": null,
+    "dica": null
+  },
+  "especificacao": {
+    "materia": "desconhecida",
+    "tags": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "CO2, CO3−2 e CaCO3, enquanto os eixos X e Y no infográfico \n\nrepresentam respectivamente [CO3−2] e [CO2]atm. Global­\nmente, o aumento da [CO2]atm provoca um aumento do pH \ndos oceanos e, consequentemente, uma maior degradação \ndos corais.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "CO3−2, CaCO3 e CO3−2, enquanto os eixos X e Y no infográ­\n\nfico representam respectivamente [CO2]atm e [CO3−2]. Glo­\nbalmente, o aumento da [CO2]atm provoca uma diminuição \ndo pH dos oceanos e, consequentemente, uma maior de­\ngradação dos corais.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "CO2, CaCO3 e CO3−2, enquanto os eixos X e Y no infográfico \n\nrepresentam respectivamente [CO3−2] e [CO2]atm. Global­\nmente, o aumento da [CO2]atm provoca uma diminuição do \npH dos oceanos e, consequentemente, uma menor degra­\ndação dos corais.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "CO3−2, CaCO3 e CO3−2, enquanto os eixos X e Y no infográfi­\n\nco representam respectivamente [CO3−2] e [CO2]atm. Global­\nmente, o aumento da [CO2]atm provoca um aumento do pH \ndos oceanos e, consequentemente, uma menor degradação \ndos corais.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}
