@@ -1,0 +1,46 @@
+{
+  "metadados": {
+    "codigo": "str",
+    "edital": "str",
+    "numero": "int",
+    "tipo_ou_cor": "str",
+    "ano": "int"
+  },
+  "conteudo": {
+    "enunciado": "str",
+    "url_img": "str[]" (opcional),
+    "dificuldade": "str",
+    "resolucao": "str",
+    "dica": "str[]"
+  },
+  "especificacao": {
+    "materia": "str",
+    "tags": "str[]"
+  },
+  "alternativas": {
+    "a": {
+      "texto": "str",
+      "url_img": "str[]",
+      "correta": bool
+    },
+    "b": {
+      "texto": "str",
+      "url_img": "str[]",
+      "correta": bool
+    },
+    "c": {
+      "texto": "str",
+      "url_img": "str[]",
+      "correta": bool
+    },
+     "d": {
+      "texto": "str",
+      "url_img": "str[]",
+      "correta": bool
+    },
+     "e": {
+      "texto": "str",
+      "url_img": "str[]",
+      "correta": bool
+    },            --------- A alternativa "e" é opcional, algumas provas, como a da Unicamp, não tem opção e.
+}

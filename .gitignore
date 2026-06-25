@@ -1,0 +1,46 @@
+# ==========================================
+# Configurações Locais e Segredos
+# ==========================================
+.env
+.env.local
+.env.*.local
+
+# ==========================================
+# Python (Cache, Compilados e Ambientes)
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+.venv/
+venv/
+ENV/
+env/
+
+# ==========================================
+# Pastas de Teste e Arquivos Temporários
+# ==========================================
+# Ignorar as pastas de saída geradas pelos testes automáticos
+*_test_*/
+# Ignorar arquivos temporários e zips locais
+temp.db
+temp.zip
+provas-e-gabaritos-unicamp-2026/
+provas-e-gabaritos-unicamp-2026.zip
+Históricos/
+
+# ==========================================
+# IDEs, Editores e Arquivos de Sistema
+# ==========================================
+.vscode/
+.idea/
+*.suo
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini

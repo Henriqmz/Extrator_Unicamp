@@ -1,0 +1,9 @@
+{
+  "metadadosComp": {
+    "codigos_questoes": "str[]"
+  },
+  "conteudoComp": {
+    "enunciado": "str",
+    "img_url": "str[]"
+  }
+}
