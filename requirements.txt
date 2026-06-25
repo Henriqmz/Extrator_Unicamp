@@ -1,0 +1,7 @@
+# Dependências obrigatórias para o processamento de PDFs e imagens
+pymupdf>=1.22.0
+pillow>=9.0.0
+pydantic>=2.0.0
+
+# Dependência opcional para o preenchimento automático por IA (Google Gemini)
+google-genai>=0.1.0
