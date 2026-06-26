@@ -11,11 +11,13 @@
     "url_img": "str[]" (opcional),
     "dificuldade": "str",
     "resolucao": "str",
-    "dica": "str[]"
+    "dica": "str[]",
+    "objetiva": bool
   },
   "especificacao": {
-    "materia": "str",
-    "tags": "str[]"
+    "disciplina": "str[]",
+    "assunto": "str[]",
+    "topicos": "str[]"
   },
   "alternativas": {
     "a": {
@@ -43,4 +45,5 @@
       "url_img": "str[]",
       "correta": bool
     },            --------- A alternativa "e" é opcional, algumas provas, como a da Unicamp, não tem opção e.
+  }
 }

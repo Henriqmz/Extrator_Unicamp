@@ -251,20 +251,21 @@ def main():
             assert "dificuldade" in conteudo, "dificuldade ausente no JSON"
             assert "resolucao" in conteudo, "resolucao ausente no JSON"
             assert "dica" in conteudo, "dica ausente no JSON"
+            assert "objetiva" in conteudo, "objetiva ausente no JSON"
+            assert conteudo["objetiva"] is True, "Questão 1 deveria ter objetiva=True"
             
             especificacao = js["especificacao"]
-            assert "area" in especificacao, "area ausente na especificacao no JSON"
+            assert "area" not in especificacao, "area não deveria estar no JSON segundo o contrato"
             assert "disciplina" in especificacao, "disciplina ausente na especificacao no JSON"
             assert "assunto" in especificacao, "assunto ausente na especificacao no JSON"
-            assert "topico" in especificacao, "topico ausente na especificacao no JSON"
+            assert "topicos" in especificacao, "topicos ausente na especificacao no JSON"
             
-            assert especificacao["area"] == "desconhecida", f"area deveria ser 'desconhecida', obtido: {especificacao['area']}"
             assert isinstance(especificacao["disciplina"], list), "disciplina deveria ser lista"
             assert isinstance(especificacao["assunto"], list), "assunto deveria ser lista"
-            assert isinstance(especificacao["topico"], list), "topico deveria ser lista"
+            assert isinstance(especificacao["topicos"], list), "topicos deveria ser lista"
             assert len(especificacao["disciplina"]) == 0, "disciplina deveria estar vazia"
             assert len(especificacao["assunto"]) == 0, "assunto deveria estar vazia"
-            assert len(especificacao["topico"]) == 0, "topico deveria estar vazia"
+            assert len(especificacao["topicos"]) == 0, "topicos deveria estar vazia"
     suite.run("R11", "Campos do schema presentes no JSON de Q1", t_r11)
 
     # R12 - dica é lista ou null
@@ -620,11 +621,10 @@ def main():
     def t_d02():
         q1 = next(q for q in data_2026_2fase["questoes"] if q.metadados.numero == 1)
         assert q1.alternativas is None, "Questão dissertativa não deve conter alternativas"
-        assert q1.sub_itens is not None, "Questão dissertativa deve conter sub_itens"
-        assert len(q1.sub_itens) == 2, f"Questão 1 deveria ter 2 sub_itens, tem {len(q1.sub_itens)}"
-        assert q1.sub_itens[0].letra == "a", "Primeiro sub-item deve ser 'a'"
-        assert q1.sub_itens[1].letra == "b", "Segundo sub-item deve ser 'b'"
-        assert "mecanismo linguístico" in q1.sub_itens[0].texto.lower(), "Texto do sub-item a incorreto ou incompleto"
+        assert not hasattr(q1, "sub_itens") or q1.sub_itens is None, "Questão dissertativa não deve conter o campo sub_itens"
+        assert "a)" in q1.conteudo.enunciado, "Sub-item a) deve estar no enunciado"
+        assert "b)" in q1.conteudo.enunciado, "Sub-item b) deve estar no enunciado"
+        assert "mecanismo linguístico" in q1.conteudo.enunciado.lower(), "Texto do sub-item a) incorreto ou incompleto"
     suite.run("D02", "2026 2ª Fase: estrutura e conteúdo dos sub-itens da Q1", t_d02)
 
     suite.report()

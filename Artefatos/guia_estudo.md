@@ -84,12 +84,12 @@ class Conteudo(BaseModel):
     url_img: List[str] = []
     resolucao: Optional[str] = None
     dica: Optional[List[str]] = None
+    objetiva: bool
 
 class Especificacao(BaseModel):
-    area: str
     disciplina: List[str]
     assunto: List[str]
-    topico: List[str]
+    topicos: List[str]
 ```
 
 #### Exemplo de Exportação Prática:
@@ -97,12 +97,11 @@ class Especificacao(BaseModel):
 # Criando a questão
 questao = Questao(
     metadados=Metadados(codigo="unicamp_2026_q1", edital="unicamp", numero=1, tipo_ou_cor="Q-X", ano=2026),
-    conteudo=Conteudo(enunciado="Qual é o valor de X?"),
+    conteudo=Conteudo(enunciado="Qual é o valor de X?", objetiva=True),
     especificacao=Especificacao(
-        area="Exatas",
         disciplina=["Matemática"],
         assunto=["Geometria"],
-        topico=["Teorema de Pitágoras"]
+        topicos=["Teorema de Pitágoras"]
     ),
     alternativas=Alternativas(
         a=AlternativaItem(texto="Opção A", correta=True),
