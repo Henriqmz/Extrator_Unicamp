@@ -315,8 +315,11 @@ class ExtratorGUI:
                             gabarito_respostas = respostas
                             break
                     if not gabarito_respostas:
-                        gabarito_respostas = gabarito_res[0][0]
-                    questoes = aplicar_gabarito(questoes, gabarito_respostas)
+                        msg_aviso = f"Nenhum gabarito correspondente ao tipo '{tipo_prova}' foi encontrado no PDF de gabarito fornecido. As respostas não serão aplicadas."
+                        print(f"[Aviso] {msg_aviso}")
+                        self.root.after(0, lambda: messagebox.showwarning("Aviso de Gabarito", msg_aviso))
+                    else:
+                        questoes = aplicar_gabarito(questoes, gabarito_respostas)
                 else:
                     respostas, _ = gabarito_res
                     questoes = aplicar_gabarito(questoes, respostas)
