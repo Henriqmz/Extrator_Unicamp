@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q42",
+    "edital": "unicamp",
+    "numero": 42,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A figura abaixo exibe três círculos tangentes dois a dois e\nos três tangentes a uma mesma reta. Os raios dos círculos\nmaiores têm comprimento 𝑅 e o círculo menor tem raio de\ncomprimento 𝑟.\nA razão 𝑅/𝑟 é igual a",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "3.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "√10.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "4.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "2√5.\n\n![figura](./imgs/unicamp_2021_Q-Z_p13_img5.webp)\n\n",
+      "url_img": [
+        "./imgs/unicamp_2021_Q-Z_p13_img5.webp"
+      ],
+      "correta": false
+    },
+    "e": null
+  }
+}

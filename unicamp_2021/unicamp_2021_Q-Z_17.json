@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q17",
+    "edital": "unicamp",
+    "numero": 17,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "OUR WORD OF THE YEAR FOR 2019 IS THEY\nEnglish lacks a gender-neutral singular pronoun to\ncorrespond \nwith \nsingular \npronouns\nlike everyone or someone, and as a consequence they has\nbeen used for this purpose for over 600 years. Recently\nthough, they has also been\n\n\n![figura](./imgs/unicamp_2021_Q-Z_p6_img2.webp)\n\nused to refer to a person\nwhose \ngender \nidentity\nis nonbinary, a sense that is\nincreasingly \ncommon \nin\npublished text, social media,\nand in daily personal\ninteractions between English speakers. There's no doubt\nthat its use is established in the English language, which is\nwhy it was added to the Merriam-Webster dictionary in\nSeptember of 2019.\nNonbinary they was also prominent in the news in 2019.\nCongresswoman Pramila Jayapal (WA) revealed in April\nthat her child is gender-nonconforming and uses they. And\nthe American Psychological Association’s blog officially\nrecommended that \nsingular they be \npreferred \nin\nprofessional writing over “he or she” when the reference is\nto a person whose gender is unknown or to a person who\nprefers they.\n(Adaptado de https://www.merriam-webster.com/words-at-play/word-of-the-year/\nthey. Acessado em 29/04/2020.)\nDe acordo com o texto, o fato de uma palavra simples,\ncomo o pronome “they”, ter sido escolhida como a palavra\ndo ano de 2019 se justifica pela necessidade de",
+    "url_img": [
+      "./imgs/unicamp_2021_Q-Z_p6_img2.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "fazer justiça a uma palavra que já é usada há mais de\n600 anos.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "legitimar os sentidos recentes dessa palavra que\npermeiam diversas instâncias da vida social.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "esclarecer dúvidas quanto ao emprego gramatical\nadequado dessa palavra em textos escritos.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "atender às recomendações de órgãos oficiais quanto\nao uso dessa palavra em textos escritos.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

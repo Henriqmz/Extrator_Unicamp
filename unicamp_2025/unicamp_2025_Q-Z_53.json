@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q53",
+    "edital": "unicamp",
+    "numero": 53,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Uma empresa produz arruelas (discos perfurados) pretos no for­\nmato indicado na figura a seguir:\n\n\n![figura](./imgs/unicamp_2025_Q-Z_p17_drawing3.webp)\n\nO círculo externo tem 60 cm de diâmetro; o interno, 40 cm de\ndiâmetro. Para pintá-las de preto, são adquiridas latas de tinta,\nsendo que cada lata é suficiente para pintar uma área total de\n10 m2. Sabendo que somente uma das faces da arruela será\npintada, a quantidade mínima de latas que precisarão ser ad­\nquiridas para conseguir pintar 90 arruelas é:",
+    "url_img": [
+      "./imgs/unicamp_2025_Q-Z_p17_drawing3.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "4.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "5.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "6.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "7.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

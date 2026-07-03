@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q72",
+    "edital": "unicamp",
+    "numero": 72,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Em 1913, Alfred Sturtevant – em seu estudo com Drosophila\nmelanogaster (mosca-das-frutas) – estabeleceu o primeiro mapa\ngenético capaz de determinar a posição relativa e a ordem de\ngenes nessa espécie. O mapa genético do terceiro cromossomo\nda mosca mostra que os alelos da cor dos olhos (A/a), da cor do\ncorpo (B/b) e das cerdas (C/c) estão ligados nessa sequência. Na\nfigura a seguir, encontram-se as quantidades de gametas pro­\nduzidos por uma mosca macho, considerando apenas o terceiro\ncromossomo.\nA\na\nA\na\nB\nb\nB\nb\nC\nc\nc\nC\n3453\n3453\n476\n476\ngametas\ngametas\ngametas\ngametas\nA\na\nA\na\nb\nB\nb\nB\nC\nc\nc\nC\n6\n6\n134\n134\ngametas\ngametas\ngametas\ngametas\nEm vista das informações apresentadas, é correto afirmar que\nos cromossomos recombinantes apresentam",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "crossing-over único. A distância entre os genes da cor dos\nolhos (A/a) e os da cor do corpo (B/b) é maior que a distância\nentre os genes da cor do corpo (B/b) e os das cerdas (C/c).",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "crossing-over único ou duplo. A distância entre os genes da\ncor dos olhos (A/a) e os da cor do corpo (B/b) é maior que\na distância entre os genes da cor do corpo (B/b) e os das\ncerdas (C/c).",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "crossing-over único. A distância entre os genes da cor dos\nolhos (A/a) e os da cor do corpo (B/b) é menor que a dis­\ntância entre os genes da cor do corpo (B/b) e os das cerdas\n(C/c).",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "crossing-over único ou duplo. A distância entre os genes da\ncor dos olhos (A/a) e os da cor do corpo (B/b) é menor que\na distância entre os genes da cor do corpo (B/b) e os das\ncerdas (C/c).",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

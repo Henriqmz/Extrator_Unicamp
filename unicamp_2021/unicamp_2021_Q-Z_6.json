@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q6",
+    "edital": "unicamp",
+    "numero": 6,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "“─ Reputação! Ora, mamãe, e é a senhora quem me fala\nnisso!\nCamila estacou, sem atinar com a resposta,\ncompreendendo o alcance das palavras do filho.\nA surpresa paralisou-lhe a língua; o sangue arrefeceu-se-\nlhe nas veias; mas, de repente, a reação sacudiu-a e\nentão, num desatino, ferida no coração, ela achou para o\nMário admoestações mais ásperas. Percebeu que a língua\nmais dizia que a sua vontade; mas não poderia contê-la. A\ndor atirava-a para diante, contra aquele filho, até então\npoupado.”\n(Júlia Lopes de Almeida, A falência. Campinas: Editora da Unicamp, 2018, p.\n123.)\nA passagem apresenta a reação de Camila às palavras de\nseu filho. Assinale a alternativa que explica corretamente o\ncomentário de Mário.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Mário contrapõe-se à censura materna com sentimento\nde compaixão.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "Mário rejeita as reservas maternas com censura moral.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Mário contrapõe-se à censura materna com desdém\npela família.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Mário rejeita as reservas maternas com vergonha\npelas dívidas acumuladas.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

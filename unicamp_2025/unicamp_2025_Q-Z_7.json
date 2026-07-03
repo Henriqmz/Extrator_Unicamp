@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q7",
+    "edital": "unicamp",
+    "numero": 7,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O mar contém uma grande quantidade de recursos vivos e não\nvivos e, por isso, se torna cada vez mais um espaço de disputa\nno contexto global. O Estado brasileiro vem utilizando o ter­\nmo “Amazônia Azul”, em analogia com “Amazônia Verde”,\npara, com isso, designar uma extensa faixa oceânica costeira\ndo Atlântico Sul, de elevada importância para o país. Essa faixa\nconta com grandes reservas de petróleo do pré-sal, elevada bio­\ndiversidade e outras riquezas naturais.\nA figura a seguir apresenta a compartimentação do espaço ma­\nrítimo brasileiro.\n\n\n![figura](./imgs/unicamp_2025_Q-Z_p4_img0.webp)\n\n(Elaboração: COMVEST (2024), baseado na Agência de Notícias Marítimas (Marinha do\nBrasil). https://www.marinha.mil.br/agenciadenoticias/novo-mapa-do-brasil-e-expandi­\ndo-com-5-7-milhoes-de-km2-de-area-maritima. Acesso em 04/07/2024.)\nConsiderando o espaço marítimo brasileiro e tendo como re­\nferência o traçado da linha da costa, é correto afirmar que o\nBrasil tem",
+    "url_img": [
+      "./imgs/unicamp_2025_Q-Z_p4_img0.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "o controle da plataforma continental estendida, mas não o\ndireito exclusivo de exploração econômica dos recursos no\nlimite do Mar Territorial.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "soberania de exploração de recursos em toda a extensão da\nárea da plataforma continental, conforme os tratados inter­\nnacionais sobre o Direito do Mar.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "o controle das águas em alto mar com a autorização das\nNações Unidas (ONU), ampliando a exploração para além do\nlimite da Zona Econômica Exclusiva (ZEE).",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "soberania sobre a área do Mar Territorial e detém o direito\nde exploração e de uso dos recursos até o limite da Zona\nEconômica Exclusiva (ZEE).",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

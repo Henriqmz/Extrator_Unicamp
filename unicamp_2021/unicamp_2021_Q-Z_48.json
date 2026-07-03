@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q48",
+    "edital": "unicamp",
+    "numero": 48,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Se um tetraedro regular e um cubo têm áreas laterais\niguais, então a razão entre o comprimento da aresta do\ntetraedro e o comprimento da aresta do cubo é igual a",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "ర √2 √3.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "య √2 √3.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "√2√3 య .",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "√2√3 ర .\nNas questões de 49 a 56, sempre que necessário, use\n3 e g  10 m/s 2 \nTexto comum para questões 49 e 50.\nRecentemente, uma equipe internacional de cientistas\ndetectou a explosão de uma estrela conhecida como\nSN2016aps, que teria sido a explosão de supernova mais\nbrilhante já registrada.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

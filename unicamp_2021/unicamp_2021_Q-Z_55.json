@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q55",
+    "edital": "unicamp",
+    "numero": 55,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Em outro processo de esterilização, uma lâmpada UV de\npotência P  60 W funciona sob uma diferença de\npotencial elétrico U  100 V.  A potência elétrica pode ser\nexpressa \ntambém \nem \nkVA, \nsendo\n1 kVA  1000 V  1 A  1000 W. A corrente elétrica i do\ncircuito que alimenta a lâmpada é igual a",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "0,36 A.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "0,60 A.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "1,6 A.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "3,6 A.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q20",
+    "edital": "unicamp",
+    "numero": 20,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "‘The Complete Stories,’ by Clarice Lispector\nBy Terrence Rafferty\nJuly 27, 2015\nThere’s a whiff of madness in the fiction of Clarice\nLispector. The “Complete Stories” of the Brazilian writer,\nedited by Benjamin Moser and sensitively translated by\nKatrina Dodson, is a dangerous book to read quickly or\ncasually because it’s so consistently delirious. Sentence by\nsentence, page by page, Lispector is exhilaratingly,\n\n\n![figura](./imgs/unicamp_2021_Q-Z_p7_img1.webp)\n\narrestingly strange,\nbut her perceptions\ncome so fast, veer so\nwildly between the\nmundane and the\nmetaphysical, \nthat\nafter a while you don’t\nknow where you are,\neither in the book or in\nthe world. So it’s best\nto approach her with\nsome caution. For the\nordinary reader — that\nis to say, for most of\nus — immersion in the\nteeming mind of\nClarice Lispector can\nbe an exhausting,\neven a deranging,\nexperience, not to be\nundertaken lightly. (Pack food, water, a first aid kit and\nplenty of sunblock.)\nHer stories are full of strange words, in strange\ncombinations, and her “Complete Stories” is a remarkable\nbook, proof that she was — in the company of Jorge Luis\nBorges, Juan Rulfo and her 19th-century countryman\nMachado de Assis — one of the true originals of Latin\nAmerican literature.\nTHE COMPLETE STORIES\nBy Clarice Lispector\nEdited by Benjamin Moser\nTranslated by Katrina Dodson\n645 pp. New Directions. $28.95.\n(Adaptado de https://www.nytimes.com/2015/08/02/books/review/the-complete-\nstories-by-clarice-lispector.html. Acessado em 21/07/20.)\nNo texto acima, o livro de Clarice Lispector recebe uma\ncrítica",
+    "url_img": [
+      "./imgs/unicamp_2021_Q-Z_p7_img1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "positiva, apesar das ressalvas quanto aos cuidados\nque a leitura da obra exige.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "negativa, apesar dos elogios à originalidade da autora\ne à tradução para o inglês.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "positiva, apesar dos alertas quanto às temáticas\nperigosas da obra.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "negativa, apesar da comparação com grandes nomes\nda literatura latino-americana.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

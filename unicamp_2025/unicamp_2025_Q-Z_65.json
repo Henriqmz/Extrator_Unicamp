@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q65",
+    "edital": "unicamp",
+    "numero": 65,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Os repelentes tópicos para a pele foram projetados para pro­\nteger – por contato ou à pequena distância – contra picadas\nde insetos. Além desses, há os repelentes ditos “espaciais”,\ncompostos cuja ação repelente é garantida para distâncias um\npouco maiores. Um repelente espacial cria uma zona livre de\nmosquitos causadores de arboviroses. Óleo de cravo, icaridina\ne transflutrina foram então testados para a prevenção contra\nfêmeas do mosquito Aedes aegypti, que são as responsáveis\npela transmissão dessas doenças. Os resultados desses testes\nsão mostrados na figura a seguir.\nTransﬂutrina (repelência)\nTransﬂutrina (mortalidade após 24 h)\nIcaradina (repelência)\nIcaradina (mortalidade após 24 h)\nÓleo de cravo (repelência)\nÓleo de cravo (mortalidade após 24 h)\n100\nEfeito Repelente 80\nEfeito Inseticida\n60\n40\n20\n0\n0.001 mg 0.003 mg 0.01 mg 0.03 mg 0.1 mg 0.3 mg 1 mg 3 mg 6 mg 15 mg 30 mg 60 mg\nConcentração (mg de princípio ativo/80 L)\nCom base nos resultados experimentais, é correto afirmar que,\nna faixa considerada,",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "a transflutrina, a icaridina e o óleo de cravo têm ação repe­\nlente, mas não ação inseticida.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "apenas a transflutrina e a icaridina têm ação repelente, mas\nnão ação inseticida.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "a transflutrina, a icaridina e o óleo de cravo têm ação repe­\nlente, mas somente um deles tem ação inseticida.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "apenas a transflutrina e a icaridina têm ação repelente, mas\nsomente uma delas tem ação inseticida.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

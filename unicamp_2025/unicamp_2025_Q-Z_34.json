@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q34",
+    "edital": "unicamp",
+    "numero": 34,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Texto 1\nEm Raízes do Brasil (São Paulo, Companhia das Letras, 2016),\nSérgio Buarque de Holanda argumenta que as formas de conví­\nvio social no país seriam ditadas preferencialmente por uma éti­\nca de fundo emotivo: a cordialidade. No entanto, a cordialidade\nnão seria sinônimo de afetividade ou de gentileza. Ela corres­\nponderia a um mecanismo de defesa do indivíduo diante da so­\nciedade e reforçaria sentimentos particularistas e antipolíticos,\ncaracterísticos do ambiente doméstico. Ao tipo social guiado\npela ética da cordialidade, o autor dá o nome de homem cordial.\nTexto 2\n\"Sabe, no fundo eu sou um sentimental\nTodos nós herdamos no sangue lusitano uma boa dosagem de\nlirismo (além da sífilis, é claro)\nMesmo quando as minhas mãos estão ocupadas em torturar,\nesganar, trucidar\nMeu coração fecha os olhos e sinceramente chora...\n(...)\nSe trago as mãos distantes do meu peito\nÉ que há distância entre intenção e gesto”\n(Trecho da canção “Fado Tropical”, de Chico Buarque de Holanda, 1973).\nTendo em vista os textos 1 e 2, é possível afirmar que o homem\ncordial\n\n![figura](./imgs/unicamp_2025_Q-Z_p13_img0.webp)\n\n",
+    "url_img": [
+      "./imgs/unicamp_2025_Q-Z_p13_img0.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "manifesta adesão a normas de convívio pessoalizadas, mar­\ncadas pela ética da cordialidade e pela centralidade de vín­\nculos privados mesmo em espaços coletivos e públicos.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "é um tipo social que se originou na colonização portuguesa,\nmarcado pela ética emotiva e solidária da cordialidade e por\numa prática de cunho coletivo e supraindividual.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "percebe, como ambiente propício ao seu desenvolvimento\nindividual, a vida em sociedade; para ele, a ética da cordiali­\ndade permite a impessoalidade dos vínculos sociais.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "manifesta um apego aos valores da personalidade configu­\nrada pelo recinto doméstico, ambiente próprio da concor­\nrência entre os cidadãos.\nTexto comum às questões 35 e 36.\nLeia o trabalho da grafiteira e muralista Simone Siss (Texto 1),\nreconhecida por abordar temáticas femininas em sua obra.\nTexto 1\n\n\n![figura](./imgs/unicamp_2025_Q-Z_p13_img0.webp)\n\nAbri 1 livro. Me li inteira!\nSim... Eu falo meus nãos.\nSou Maria... E vou com as outras!\nMoro mesmo dentro de mim.\n(SISS, S. O que tenho dentro de nós. Grafite em muro no centro de Campinas. 2024.\nReprodução fotográfica.)",
+      "url_img": [
+        "./imgs/unicamp_2025_Q-Z_p13_img0.webp"
+      ],
+      "correta": false
+    },
+    "e": null
+  }
+}

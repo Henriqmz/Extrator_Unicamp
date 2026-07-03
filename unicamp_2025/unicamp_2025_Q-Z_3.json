@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q3",
+    "edital": "unicamp",
+    "numero": 3,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Os dez maiores produtores de grãos de cacau no\nmundo − em mil toneladas (2022)\n2500\n\n\n![figura](./imgs/unicamp_2025_Q-Z_p2_drawing1.webp)\n\n2000\nToneladas 1500\n1000\n500\n0\nCosta do Marﬁm Gana Indonésia Equador Camarões Nigéria Brasil República Dominicana Peru Colômbia\n(https://www.fao.org/faostat/es/#rankings/countries_by_commodity. Acesso em\n23/05/2024.)\nOriginário do continente americano, o cacau pôde se difundir\nem regiões africanas com características naturais similares às en­\ncontradas na América do Sul, de tal modo que, na atualidade, o\ncontinente africano se tornou o maior produtor e exportador de\ncacau do mundo, sendo elo fundamental dos circuitos espaciais\nde produção, distribuição e consumo do chocolate no mundo.\nIndique a principal região cacaueira do continente africano,\nassociando-a às condições socioambientais de produção.",
+    "url_img": [
+      "./imgs/unicamp_2025_Q-Z_p2_drawing1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "África ocidental, na costa do Golfo da Guiné, em áreas de\nfloresta equatorial-tropical; cultivo sob forte custo ecológico\ne colheita manual.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "África setentrional, na costa do Estreito de Gibraltar, em áre­\nas de floresta mediterrânea; cultivo com manejo sustentável\nda floresta e colheita mecanizada.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "África ocidental, na costa do Golfo da Guiné, em áreas de\nfloresta mediterrânea; cultivo com manejo sustentável da\nfloresta e colheita mecanizada.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "África setentrional, na costa do Estreito de Gibraltar, em\náreas de floresta equatorial-tropical; cultivo sob forte custo\necológico e colheita manual.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

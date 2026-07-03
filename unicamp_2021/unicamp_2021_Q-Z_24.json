@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q24",
+    "edital": "unicamp",
+    "numero": 24,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Uma equipe de paleontólogos descreveu recentemente um\npapagaio gigante a partir de fósseis encontrados na Nova\nZelândia. O Heracles inexpectatus viveu no Mioceno,\npesava aproximadamente 7 kg e não voava. Sabemos que\nas aves atuais são descendentes dos dinossauros e\nherdaram características importantes desses seres que\nviveram há milhões de anos.\n(T. H. Worthy e outros. Biology Letters, Londres, v. 15, 2019047, ago. 2019.)\nAssinale a alternativa que indica corretamente\ncaracterísticas das aves atuais possivelmente herdadas\ndos dinossauros.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Viviparidade e bico.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Ectotermia e ossos pneumáticos.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Oviparidade e dentes.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "Endotermia e penas.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

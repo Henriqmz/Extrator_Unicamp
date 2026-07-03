@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q54",
+    "edital": "unicamp",
+    "numero": 54,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Sejam ƒ (x) = x – 2 e g(x) = x2 – 4x funções reais. A quantidade\nde números que satisfazem à inequação g(ƒ(x)) < 0 é: x ∈",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "2.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "3.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "4.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "5.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

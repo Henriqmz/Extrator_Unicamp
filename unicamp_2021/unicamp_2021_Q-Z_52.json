@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q52",
+    "edital": "unicamp",
+    "numero": 52,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A temperatura do argônio nos tanques é T  184  C .\nAr\nUsualmente, a grandeza “temperatura” em física é\nexpressa na escala Kelvin (K). Sabendo-se que as\ntemperaturas aproximadas do ponto de ebulição ( T ) e do\nE\nponto de solidificação ( T ) da água à pressão atmosférica\nS\nsão, respectivamente, T  373 K e T  273 K , a\nE\nS\ntemperatura do argônio nos tanques será igual a",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "20 K.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "89 K.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "189 K.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "457 K.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

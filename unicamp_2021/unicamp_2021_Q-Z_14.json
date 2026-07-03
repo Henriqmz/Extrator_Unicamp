@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q14",
+    "edital": "unicamp",
+    "numero": 14,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Os tweets abaixo remetem ao contexto do trabalho\ndomiciliar durante o período de isolamento social.\n\n\n![figura](./imgs/unicamp_2021_Q-Z_p5_img2.webp)\n\n(Disponível em https://twitter.com/ajdewerd/status/1237495536036581379.\nAcessado em 30/07/2020.)\nA resposta de Andrea ao tweet de Julieanne",
+    "url_img": [
+      "./imgs/unicamp_2021_Q-Z_p5_img2.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "questiona a eficácia de reuniões online no período de\nisolamento social.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "complementa a crítica a comportamentos que devem\nser evitados em reuniões online.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "ilustra uma experiência que elas vivenciaram juntas em\numa reunião online.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "acrescenta outro tipo de dificuldade vivenciado em\nreuniões online.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

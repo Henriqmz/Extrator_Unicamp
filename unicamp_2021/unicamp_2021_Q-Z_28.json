@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q28",
+    "edital": "unicamp",
+    "numero": 28,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A partícula viral do novo coronavírus (SARS-CoV-2),\nconhecida como vírion, é constituída por poucas proteínas,\numa fita de RNA e um envelope derivado de estruturas\ncelulares, como membrana plasmática e organelas. A\nOrganização Mundial de Saúde recomenda hábitos de\nhigiene para prevenção da contaminação ao SARS-CoV-2,\nincluindo lavar com frequência as mãos com água e sabão.\n(Adaptado de https://www.bbc.com/portuguese/geral-52096406. Acessado em\n25/07/2020.)\nConsiderando seus conhecimentos sobre vírus, assinale a\nalternativa que justifica a recomendação apresentada no\ntexto.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "As poucas proteínas que compõem o nucleocapsídeo\nsão diluídas em contato com sabão e água, na qual\nexiste pouca tensão superficial, e, portanto, a partícula\nviral não é capaz de infectar a célula humana.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "O envelope viral é formado por lipídios, moléculas\nanfipáticas, que, em contato com sabão e água\n(moléculas apolar e polar respectivamente), têm sua\nestrutura rompida, inativando assim a partícula viral.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A fita de RNA é formada por nucleotídeos que contêm\nribose, açúcar e fosfato, e, em contato com sabão e\nágua, têm sua capacidade de integração ao DNA da\ncélula humana bloqueada.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "As organelas, constituídas por lipídios, carboidratos e\nproteínas, em contato com sabão e água, são clivadas\ne perdem a capacidade de produzir moléculas\nessenciais ao metabolismo viral.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

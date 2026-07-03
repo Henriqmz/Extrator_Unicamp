@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q34",
+    "edital": "unicamp",
+    "numero": 34,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "O aumento dos casos da Covid-19 provocou a escassez de\nálcool etílico em gel no comércio, o que fez a população\nbuscar outros tipos de álcool para se prevenir. No entanto,\nas opções de álcool disponíveis não eram eficazes. O\nrecomendado é o álcool 70 INPM (% massa/massa). As\nopções de álcool disponíveis comercialmente à época da\nescassez aparecem na tabela abaixo.\nTipo de álcool Concentração INPM\n(%massa/massa)\nAbsoluto \n99,6\nHidratado \n92,6\nCombustível \n92,5\nLimpeza \n46,0\nPara produzir álcool 70 INPM a partir dos outros tipos\ndisponíveis comercialmente, uma opção possível seria\nmisturar",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "álcool para limpeza com álcool hidratado, utilizando\nmaior quantidade de álcool para limpeza.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "álcool combustível com o álcool absoluto, utilizando\nmaior quantidade de álcool combustível.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "álcool absoluto com álcool hidratado, utilizando maior\nquantidade de álcool absoluto.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "álcool para limpeza com álcool hidratado, utilizando\nmaior quantidade de álcool hidratado.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

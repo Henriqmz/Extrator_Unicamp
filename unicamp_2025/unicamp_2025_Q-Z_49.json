@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q49",
+    "edital": "unicamp",
+    "numero": 49,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Um telefone celular custava R$ 2.000,00 em janeiro. Em abril,\nseu preço foi reajustado em 10%. Em junho, o preço foi nova­\nmente reajustado em 10%. Numa promoção, em novembro,\nRogério finalmente comprou, com um desconto de 20%, o ce­\nlular. Quanto ele pagou pelo aparelho?",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "R$ 1.896,00.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "R$ 1.936,00.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "R$ 2.000,00.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "R$ 2.052,00.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

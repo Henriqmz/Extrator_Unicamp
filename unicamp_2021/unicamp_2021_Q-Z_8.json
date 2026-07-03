@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q8",
+    "edital": "unicamp",
+    "numero": 8,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A Amazônia em chamas, a censura voltando, a economia\nestagnada, e a pessoa quer falar de quê? Dos cafonas. Do\nimpério da cafonice que nos domina. O cafona fala alto e\nse orgulha de ser grosseiro e sem compostura. Acha que\npode tudo. Não há ética que caiba a ele. Enganar é ok.\nAgredir é ok. Gentileza, educação, delicadeza, para um\nconvicto e ruidoso cafona, é tudo coisa de maricas. O\ncafona fura filas, canta pneus e passa sermões. Despreza\na ciência, porque ninguém pode ser mais sabido que ele. O\ncafona quer ser autoridade, para poder dar carteiradas.\nQuer bajular o poderoso e debochar do necessitado. Quer\nandar armado. Quer tirar vantagem em tudo. Unidos, os\ncafonas fazem passeatas de apoio e protestos a favor.\nAtacam como hienas e se escondem como ratos. Existe\nalgo mais brega do que um rico roubando? Algo mais\nchique do que um pobre honesto? É sobre isso que a\npessoa quer falar, apesar de tudo que está acontecendo.\nPorque só o bom gosto pode salvar este país.\n(Adaptado de Fernanda Young, Bando de cafonas. Publicado em https:\n//oglobo.globo.com/cultura/em-sua-ultima-coluna-fernanda-young-sent encia-\ncafonice-detesta-arte-23903168. Acessado em 27/05/2020.)\n*cafona: quem tem ou revela mau gosto (roupa cafona); que\nrevela gosto ou atitude vulgares. (Adaptado de aulete.com.br.)\nEssa releitura do significado de “cafona” salienta",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "a importância das atitudes de determinado grupo de\npessoas em relação aos problemas que o país de fato\nenfrenta.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "o controle do poder político nas mãos de pessoas\ndesprovidas de ética e educação nas formas como se\nrelacionam com o meio ambiente.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "a incorporação de padrões de comportamento e de\nconvivência social baseada na vulnerabilidade das\nclasses minoritárias.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "o privilégio de uma parcela da sociedade em relação a\noutras e a forma como isso determina os dilemas\nenfrentados pelo país.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

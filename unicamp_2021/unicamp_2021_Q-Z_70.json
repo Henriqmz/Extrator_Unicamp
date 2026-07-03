@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q70",
+    "edital": "unicamp",
+    "numero": 70,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "O que se costuma chamar popularmente de “bioma Mata\nAtlântica” e de “bioma “Mata Amazônica” não são, na\nverdade, biomas, mas conjuntos de biomas, uma vez que\nnão apresentam a condição básica do conceito\ninternacional de biomas, isto é: um espaço geográfico\nnatural que se caracteriza pela uniformidade de condições\nclimáticas, edáficas e de fitofisionomias.\n(Adaptado de Leopoldo Magno Coutinho, Biomas brasileiros. São Paulo: Oficina\nde Textos, 2016, p. 34.)\nA partir da leitura do texto e de seus conhecimentos sobre\nos biomas brasileiros, assinale a alternativa correta.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A ocorrência de savanas no Brasil restringe-se à\nregião Centro-Oeste e a porções interioranas da\nregião Nordeste, em climas que apresentam uma\nestação seca definida.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "As florestas no Brasil só ocorrem na zona intertropical,\npois esses biomas são adaptados a climas quentes,\ncom precipitação superior a 2.000mm anuais e\ntemperaturas médias superiores a 25ºC.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "O Pantanal tem clima uniforme e não apresenta\nuniformidade nas suas características edáficas e na\nsua fitofisionomia, como exige o conceito de bioma;\npor isso é considerado um sistema complexo.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "No clima subtropical, com temperaturas médias\nanuais de 10ºC a 18ºC, a região Sul do Brasil tem um\núnico bioma, caracterizado por apresentar um dossel\nformado exclusivamente pela Araucária.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q46",
+    "edital": "unicamp",
+    "numero": 46,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Leia os versos da canção “Silêncio de um cipreste” – composi­\nção de Cartola e Carlos Cachaça.\nTodo mundo tem o direito\nDe viver cantando.\nO meu único defeito\nÉ viver pensando\nEm que não realizei\nE é difícil realizar.\nSe eu pudesse dar um jeito\nMudaria o meu pensar.\nO pensamento é uma folha desprendida\nDo galho de nossas vidas\nQue o vento leva e conduz,\nÉ uma luz vacilante e cega,\nÉ o silêncio do cipreste\nEscoltado pela cruz.\nNesta canção, é possível afirmar que o eu-lírico",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "acredita que, assim como todas as pessoas, tem o direito de\nviver cantando, embora isso seja algo difícil de ser realizado.\nA principal imagem poética utilizada é a da alegria do canto,\no qual é capaz de mudar a vida.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "gostaria de mudar o seu pensamento, aproximando-o da\nrealidade de sua vida, da qual ele se desprendeu. A principal\nimagem poética utilizada é a do sonho e do devaneio, dis­\nsociados da vida real.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "gostaria de mudar o seu pensamento, porque este é mar­\ncado pela tristeza e melancolia. A principal imagem poética\nutilizada é a da morte, presente nas figuras do cipreste e da\ncruz.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "acredita que pensar seja um defeito que ele gostaria de cor­\nrigir, mas não consegue. A principal imagem poética utili­\nzada é a do vento, o qual carrega o eu-lírico independente­\nmente de sua vontade.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

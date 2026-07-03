@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q51",
+    "edital": "unicamp",
+    "numero": 51,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Uma cápsula destinada a levar astronautas à Estação\nEspacial Internacional (ISS) tem massa m  7500 kg ,\nincluindo as massas dos próprios astronautas. A cápsula é\nimpulsionada até a órbita da ISS por um foguete lançador e\npor propulsores próprios para os ajustes finais. O aumento\nda energia potencial gravitacional devido ao deslocamento\nda cápsula desde a superfície da Terra até a aproximação\ncom a ISS é dado por  U  3,0 10 J  10 . A velocidade da\nISS é v  8000 m/s. A velocidade inicial da cápsula em\nISS\nrazão do movimento de rotação da Terra pode ser\ndesprezada. Sem levar em conta a energia perdida pelo\natrito com o ar durante o lançamento, pode-se dizer que o\ntrabalho realizado pelo foguete e pelos propulsores sobre a\ncápsula é de",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "2,1 10 J  11 .",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "2,4 10 J  11 .",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "2,7 10 J  11 .",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "5,1 10 J  11 .\nTexto comum para questões 52 e 53.\nEm março de 2020, a Unicamp e o Fermi National\nAccelerator Laboratory (Fermilab), dos Estados Unidos,\nassinaram um acordo de cooperação científica com o\nobjetivo de desenvolver tanques para conter argônio\nlíquido a baixíssimas temperaturas (criostatos). Esses\ntanques abrigarão detectores para o estudo dos neutrinos.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

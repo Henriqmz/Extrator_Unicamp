@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q9",
+    "edital": "unicamp",
+    "numero": 9,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Uma sonda descreve, em torno da Lua, uma órbita circular de\nraio r = 1,848 × 106 m e dá uma volta completa num período\nT = 2,0 h. Nesse movimento circular uniforme, qual a velocida­\nde escalar da sonda em relação ao centro da Lua?\nSe necessário, use π ≈ 3,0.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "256,6 m/s.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "1540 m/s.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "3696 km/s.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "5544 km/s.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

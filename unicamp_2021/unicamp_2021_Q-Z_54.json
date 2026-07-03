@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q54",
+    "edital": "unicamp",
+    "numero": 54,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Considere uma lâmpada UV de potência P  100 W que\nfuncione por  t 15 minutos durante o processo de\nesterilização de um objeto. A energia elétrica consumida\npela lâmpada nesse processo é igual a",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "0,0066 kWh.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "0,015 kWh.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "0,025 kWh.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "1,5 kWh.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

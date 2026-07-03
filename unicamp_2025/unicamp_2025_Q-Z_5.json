@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q5",
+    "edital": "unicamp",
+    "numero": 5,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Considerando os fenômenos meteorológicos atuantes no Brasil\ne tendo em vista as informações do texto e da figura anterior,\npode-se afirmar que a ocorrência das",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "precipitações extremas no período apresentado ficou restri­\nta ao Rio Grande do Sul, pois a frente fria não avançou, por\nconta do bloqueio decorrente da Baixa Pressão, em direção\nao interior do país.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "ondas de calor no período está associada a eventos de pre­\ncipitação extrema, pois as Altas Pressões Atmosféricas dão\norigem às nuvens de tempestades que formam as frentes\nfrias.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "precipitações extremas no período ocorreu no centro das\náreas de Alta Pressão e de Baixa Pressão, sendo que nas\nbordas desses sistemas se formaram as ondas de calor com\ntempo seco e temperaturas altas.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "ondas de calor tem origem na formação de zonas de Alta\nPressão; essas zonas, além de formarem tempo seco e, nes­\nse caso, temperatura elevada, bloqueiam o avanço de fren­\ntes frias para o interior do país.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

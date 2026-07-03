@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q35",
+    "edital": "unicamp",
+    "numero": 35,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Um estudo recente avaliou como determinados plásticos se\ndegradam na água do mar quando expostos à luz\nultravioleta. Os plásticos estudados foram: NPG (plásticos\ndiversos do Giro do Pacífico Norte), EPS (poliestireno\nexpandido), PP (polipropileno) e PE (polietileno).\nConsiderando que somente 2% do plástico despejado no\nmar está à deriva, esse estudo tentou descobrir para onde\nvão os microplásticos no ambiente marinho. Um dos\nresultados do estudo é mostrado nos gráficos abaixo.\nNesses gráficos, observam-se as produções de carbono\norgânico dissolvido (DOC) por grama de carbono na\namostra de plástico utilizado. O DOC foi identificado como\no maior subproduto da fotodegradação de plásticos.\n\n\n![figura](./imgs/unicamp_2021_Q-Z_p12_img1.webp)\n\n(Adaptado de L. Zhu e outros. Journal of Hazardous Materials 383, 2020,\n121065.)\nOs resultados mostram que",
+    "url_img": [
+      "./imgs/unicamp_2021_Q-Z_p12_img1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "para os quatro plásticos, a velocidade de degradação\naumenta com o tempo de exposição; após 50 dias, a\nmaior degradação foi a do PP.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "para três plásticos, a velocidade de degradação\naumenta com o tempo de exposição; após 50 dias, a\nmaior degradação foi a do EPS.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "para apenas um plástico, a velocidade de degradação\nnão aumenta com o tempo de exposição; após 50 dias,\na maior degradação foi a do PP.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "duas velocidades de degradação aumentam com o\ntempo e duas permanecem constantes; após 50 dias,\na maior degradação foi a do EPS.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

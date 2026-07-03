@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q42",
+    "edital": "unicamp",
+    "numero": 42,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A citação a seguir, de Vida e morte de M. J. Gonzaga de Sá, de\nLima Barreto, apresenta como o narrador conheceu o protago­\nnista.\nNum país em que, com tanta facilidade, se fabricam manipan­\nsos milagrosos, ídolos aterradores e deuses onipotentes, causa\npasmo que a Secretaria dos Cultos não seja tão conhecida como\na da Viação. Há, entretanto, nela, no seu Museu e nos seus re­\ngistros, muita cousa interessante e digna de exame.\nFoi, por ocasião de desempenhar-me da incumbência do meu\ndiretor, que vim a conhecer Gonzaga de Sá, afogado num mar\nde papeis, na seção de “alfaias, paramentos e imagens”, in­\nformando muito seriamente a consulta do vigário de Sumaré,\nversando sobre o número de setas que devia ter a imagem de\nS. Sebastião.\n(BARRETO, Lima. Vida e morte de M. J. Gonzaga de Sá. São Paulo: Edição da Revista do\nBrasil, p. 17, 1919.)\nA partir dessa citação e da leitura do romance, é correto afirmar\nque Lima Barreto usa a personagem Gonzaga de Sá para",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "criticar um funcionário que prejudica o andamento da bu­\nrocracia estatal.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "representar um sujeito que usa o serviço público para impor\nsua fé ao Estado.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "mostrar o valor do indivíduo em meio à sátira da burocracia\nestatal.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "figurar um sujeito que usa a religião para sua ascensão no\nserviço público.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

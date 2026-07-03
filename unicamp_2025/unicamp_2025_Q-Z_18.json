@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q18",
+    "edital": "unicamp",
+    "numero": 18,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "De acordo com o texto 1, a escassez de autores afro-americanos\nem obras de ficção científica representa um",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "pesadelo que retrata o apagamento sistemático dos avanços\nculturais da comunidade negra.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "protesto contra o processo de exclusão e de subalternização\ndessas pessoas na sociedade.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "movimento explícito que tem por objetivo deslegitimar o\npassado e a história do movimento negro.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "paradoxo que se deve à semelhança entre as violências que\nvivem e ações retratadas nessas obras.\nPara responder questão 19, leia o texto 2 e retome o texto 1.\nTexto 2\n“Parable of the Talents”\n(Octavia E. Butler)\n“To survive,\nLet the past\nTeach you--\nPast customs,\nStruggles,\nLeaders and thinkers.\nLet\nThese\nHelp you.\nLet them inspire you,\nWarn you,\nGive you strength.\nBut beware:\nGod is Change.\nPast is past.\nWhat was\nCannot\nCome again.\nTo survive,\nknow the past.\nLet it touch you.\nThen let\nThe past Go.”\n(BUTLER, Octavia E. Parable of the Talents. New York, Durham and London: Open Road,\n1998.)",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

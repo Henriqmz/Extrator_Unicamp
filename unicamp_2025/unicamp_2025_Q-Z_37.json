@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q37",
+    "edital": "unicamp",
+    "numero": 37,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Na tira de Wesley Samp, a relação entre o verbal e o não verbal\nse dá por meio de uma",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "troca nas posições de autoridade a partir de mudanças na\naltura de uma das personagens.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "alteração na dimensão física das personagens em função\ndaquilo que é enunciado.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "reafirmação das experiências sociais de poder em consonân­\ncia com o tamanho daquele que fala.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "inversão de proporcionalidade entre o conteúdo do que é\nafirmado e a estatura de quem o afirma.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

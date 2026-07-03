@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q40",
+    "edital": "unicamp",
+    "numero": 40,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "![figura](./imgs/unicamp_2025_Q-Z_p14_img0.webp)\n\n(Postagem de Renato Janine Ribeiro em seu perfil no Facebook, publicada em 27/2/2024.)\nO “duplo sentido” a que o autor se refere está relacionado a\numa\n\n![figura](./imgs/unicamp_2025_Q-Z_p14_img0.webp)\n\n",
+    "url_img": [
+      "./imgs/unicamp_2025_Q-Z_p14_img0.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "visão bem-humorada sobre as inovações do celular e é pro­\nduzido pelas interpretações de “mais”, que expressa inten­\nsidade e adição ao mesmo tempo.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "perspectiva crítica sobre os usos que vêm sendo feitos do ce­\nlular e resulta dos significados de “ligar”, que pode indicar\ntanto uma ação quanto um juízo de valor.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "postura irônica sobre os usuários do celular e deriva dos\nusos de “ninguém”, que indetermina o sujeito e o objeto\nno parágrafo em que ocorre.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "visão pessimista sobre o futuro do celular e depende dos\nsentidos de “para”, que remete ao destinatário de uma\nmensagem e ao lugar em que se encontra.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

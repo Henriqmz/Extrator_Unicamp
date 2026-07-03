@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q16",
+    "edital": "unicamp",
+    "numero": 16,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Catherine Fletcher, Tue 4 Feb 2020\nThe decision by a UK University to close history, modern\nlanguages and politics degrees in favour of more “career-\nfocused” courses has been widely criticised. The problem\nlies in reducing university education to what sells to\nemployers. A society – and a world – urgently needs people\nwho have the education to think about big issues, which\naren’t only scientific or technological: they’re also about the\nways that people have made, and continue to make,\ndecisions. The humanities matter. And it matters that\nstudents from all backgrounds have the opportunity to join\nin these world-changing discussions.\nRoger Brown, Mon 10 Feb 2020\nCatherine Fletcher is completely correct to warn about the\ndamage that current policies are doing to the humanities.\nBut her warning comes much too late. As I and other\nscholars have shown, the problem started with a\ngovernment green paper which declared that the\nfundamental purpose of higher education was to serve the\neconomy. Until we recover the idea that higher education is\nas much about the public good as anything else, we will\nnever be able to sustain the humanities as an essential\ncomponent of a balanced curriculum. Unfortunately, there is\nvery little sign that this has been grasped by any of our\ncurrent policymakers.\n(Adaptado de www.theguardian.com/education/2020/feb/10/humanities-are-not-\nthe-right-courses-to-cut. Acessado em 22/05/2019.)\nOs textos acima concordam quanto à identificação de\num problema nos cursos universitários no Reino Unido,\nmas divergem quanto",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "à função do ensino universitário nos dias de hoje.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "ao momento em que esse problema se originou.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "ao objetivo principal do ensino das Humanidades.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "à solução proposta para o problema.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

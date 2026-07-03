@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q52",
+    "edital": "unicamp",
+    "numero": 52,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Ana está treinando as habilidades matemáticas de seu ir­\nmão mais novo. Ela escolheu dois números reais x, y e avisou\npara seu irmão que os números satisfazem às desigualdades\n| x – 2 | ≤ 2 e | y – 3 | ≤ 1. O que o irmão de Ana pode concluir\ncorretamente sobre esses números?",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "x2 + y2 ≤ 1.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "x + y ≥ 10.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "x + y ≤ 8.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "x2 + y2 ≥ 36.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

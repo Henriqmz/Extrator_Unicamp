@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q70",
+    "edital": "unicamp",
+    "numero": 70,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Considera-se que a evolução cria e sustenta a biodiversidade via\nmudanças adaptativas em características ecologicamente rele­\nvantes. A especiação é um processo contínuo que dá origem à\ndiversidade biológica, e está intimamente associada a mudan­\nças no fenótipo e à adaptação ao ambiente ecológico.\nAssinale a alternativa correta.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A deriva genética é um componente da especiação, levando\na uma maior diversidade genética devido ao fluxo de genes\nentre populações.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A seleção natural contribui para a adaptação ecológica tan­\nto na presença como na ausência de isolamento geográfico\nentre populações.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "A especiação é induzida por barreiras de fluxo gênico entre\npopulações, sendo resultante da seleção convergente base­\nada na ecologia entre ambientes.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "O isolamento geográfico é necessário para que ocorra a es­\npeciação, com as novas espécies ocupando nichos ecológi­\ncos distintos.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

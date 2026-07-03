@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q30",
+    "edital": "unicamp",
+    "numero": 30,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A maioria dos países africanos tornaram-se independentes en­\ntre 1950 e 1975. Amílcar Cabral foi uma das lideranças que\nformularam projetos políticos para criar unidades nacionais\nno pós-independência. Ele havia nascido na Guiné-Bissau em\n1924; depois de seu nascimento, sua família se mudou para\nCabo Verde. Em 1945, obteve bolsa para estudar em Portu­\ngal; na Europa, entrou, então, em contato com as teorias do\nmovimento da negritude, panafricanismo e marxismo. De volta\nà África em 1952, ajudou a fundar o Partido Africano para a\nIndependência de Guiné e Cabo Verde (PAIGC, 1953), iniciando\na luta armada contra a metrópole em 1963. Em um discurso,\nCabral afirmou: “No nosso Partido ninguém dividiu; pelo con­\ntrário, cada dia nos unimos mais. Aqui não há papel, nem fula,\nnem mandinga, nem filhos de caboverdianos, nada disso.”\n(Adaptado de MALACCO, F. Unidade nacional e unidade continental: uma discussão\nacerca dos projetos políticos de Amílcar Cabral e Kwame Nkrumah. Revista Ars Historica,\n17, p. 78-100, jul/dez 2018.)\nCom base no excerto, marque a alternativa correta sobre o\nideário nacional proposto por Amílcar Cabral e pelo movimento\npor ele liderado.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Almejava, com base nas fronteiras dos reinos africanos que\nexistiam antes da chegada dos europeus, construir nações\nindependentes.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Buscava formar, para o enaltecimento das identidades\nétnicas que antecediam o colonialismo, uma grande unida­\nde pan-africanista.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Propunha um movimento de descolonização das culturas\nafricanas, o qual demandava a adoção de dialetos locais e a\nrejeição, como idioma nacional, das línguas europeias.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Defendia, para fortalecer a luta contra a colonização e ideo­\nlogia portuguesa, as unidades políticas nacionais posiciona­\ndas acima da diversidade de etnias africanas.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

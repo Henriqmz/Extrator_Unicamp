@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q23",
+    "edital": "unicamp",
+    "numero": 23,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Mary Wollstonecraft abre sua obra, Reivindicações dos direitos\nda mulher (1792), com uma carta ao Sr. Talleyrand-Périgord,\nantigo bispo de Autun e político ativo durante a Revolução\nFrancesa. O bispo propõe nova Constituição, o que foi apre­\nsentado e discutido na Assembleia revolucionária. Nessa carta,\nWollstonecraft afirma:\n“Mas, se as mulheres devem ser excluídas, sem voz, da partici­\npação dos direitos naturais da humanidade, prove antes, para\nafastar a acusação de injustiça e inconsistência, que elas são\ndesprovidas de razão; de outro modo, essa falha em sua NOVA\nCONSTITUIÇÃO sempre mostrará que o homem deve de algu­\nma forma agir como um tirano, e a tirania, quando mostra sua\nface despudorada em qualquer parte da sociedade, sempre so­\nlapa a moralidade”.\n(WOLLSTONECRAFT, M. Reivindicações dos direitos da mulher. São Paulo: Boitempo Edi­\ntorial, p. 20, 2016.)\nAssinale a opção que melhor sintetiza a crítica de Wollstone­\ncraft apresentada no excerto.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Ao abordar tanto a possibilidade de uma nova constituição\nquanto a tirania masculina, Wollstonecraft faz uma crítica\nao absolutismo, finalmente derrubado, através da instaura­\nção da República e da Declaração dos Direitos do Homem,\nno contexto da Revolução Francesa.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A crítica de Wollstonecraft recai sobre os homens que, ao\nserem tiranos com as mulheres, destroem a moral da socie­\ndade. Ela defende a necessidade de uma nova constituição:\nque não seja injusta com o sexo feminino e conceda direitos\nàs mulheres, ainda que não sejam racionais como os homens.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A nova Constituição, defendida pelo Sr. Talleyrand-Périgord,\né injusta porque retira das mulheres direitos conquistados\nem decorrência da Revolução Francesa, quando as mulheres\npassaram a ser reconhecidas como seres racionais e partici­\npantes da humanidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "A menos que seja provado que a racionalidade das mulhe­\nres é deficiente, se comparada à dos homens, excluí-las da\nConstituição é ato injusto, ainda que coerente com uma cul­\ntura que aceita a tirania masculina.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

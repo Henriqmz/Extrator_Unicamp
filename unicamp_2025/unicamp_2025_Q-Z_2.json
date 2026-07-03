@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q2",
+    "edital": "unicamp",
+    "numero": 2,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Para além das guerras Rússia-Ucrânia e Israel-Palestina, estão\nem curso, em quase todos os continentes, conflitos que retra­\ntam mutações geopolíticas aceleradas. Há um movimento de\nredefinição de fronteiras até então reconhecidas pela comuni­\ndade internacional e, de certo modo, protegidas por um com­\nplexo arcabouço normativo. Na América Latina, por exemplo,\na Venezuela reivindica da Guiana a região de Essequibo, cujo\nlimite fronteiriço foi definido há 125 anos.\n(Adaptado de https://www.courrierinternational.com/article/analyse-depuis-les-guerres­\n-en-ukraine-et-a-gaza-les-frontieres-ne-sont-plus-intangibles. Acesso em 06/06/2024.)\nTendo em vista seus conhecimentos e considerando o texto an­\nterior, é correto dizer que a fronteira entre países é essencial­\nmente",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "geométrica: trata-se de uma linha demarcada por formas\ngeográficas tais como muros, cercas ou vias de circulação.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "política: trata-se de uma zona definida por meio de disputas\ne acordos internacionais pelo direito de uso de um determi­\nnado território.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "natural: trata-se de uma linha demarcada por meio de mar­\ncos geográficos tais como rios, mares, lagos, geleiras e mon­\ntanhas.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "técnica: trata-se de uma zona definida por tratados e con­\nvenções locais que protegem a soberania do Estado-nação.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

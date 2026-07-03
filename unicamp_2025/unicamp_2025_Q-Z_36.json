@@ -1,0 +1,49 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q36",
+    "edital": "unicamp",
+    "numero": 36,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Texto 2\nMaria era uma boa moça\nPra turma lá do Gantois*\nEra Maria vai com as outras\nMaria de coser, Maria de casar\nPorém o que ninguém sabia\nÉ que tinha um particular\nAlém de coser, além de rezar\nTambém era Maria de pecar\n(Fragmento da canção Maria vai com as outras, de Vinícius de Moraes e Toquinho, gra­\nvada em 1971.)\n------\n* Um dos principais terreiros de candomblé da cidade de Salvador. Pronuncia-se gantoá.\nA partir da forma e do significado da expressão “maria vai com\nas outras”, podemos afirmar que\n\n![figura](./imgs/unicamp_2025_Q-Z_p13_img1.webp)\n\n",
+    "url_img": [
+      "./imgs/unicamp_2025_Q-Z_p13_img1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "o texto 1 e o texto 2 a ressignificam, visando tanto subverter\no senso comum sobre a condição feminina na sociedade\nquanto introduzir uma perspectiva a partir da qual a mulher\nseja vista como a responsável por suas escolhas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "o texto 1 preserva o sentido da expressão, no intuito de va­\nlorizar o lugar da mulher na produção artística, enquanto o\ntexto 2 o altera para mostrar uma personagem em disso­\nnância com as expectativas da sociedade.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "enquanto o texto 1 altera a forma da expressão para lhe\natribuir um valor positivo na associação com outras mulhe­\nres, o texto 2 explora o sentido original da mesma expressão\ne singulariza a personagem retratada.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "o significado da expressão é preservado tanto no texto 1\nquanto no texto 2, mas a sua forma é alterada para destacar\na figura feminina como tendo uma personalidade própria,\nque não se deixa influenciar por outras mulheres.\nTexto comum às questões 37 e 38.\n\n\n![figura](./imgs/unicamp_2025_Q-Z_p13_img1.webp)\n\n*Legenda das falas do último quadrinho:\n“Quantos títulos eu tenho? / Quem foi meu avô?”\n(Quadrinhos de Wesley Samp. Disponível em https://westrips.com.br/author/wesley­\nsamp/. Acesso em 04/05/2024.)",
+      "url_img": [
+        "./imgs/unicamp_2025_Q-Z_p13_img1.webp"
+      ],
+      "correta": false
+    },
+    "e": null
+  }
+}

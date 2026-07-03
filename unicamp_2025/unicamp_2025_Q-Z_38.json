@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q38",
+    "edital": "unicamp",
+    "numero": 38,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Enquanto o povo da cidade se sentia muito importante, eu,\npor minha vez, me sentia necessário. Eles, porém, não me viam\ncomo alguém necessário, me viam como alguém útil. Para eles\neu era um servidor, um serviçal. Eu era útil, mas poderia ser\nsubstituído porque não era necessário. Percebi que o povo da\ncidade tinha relações de utilidade e importância, mas não tinha\nrelações de necessidade. Para nós, a pessoa que é importante\nnão é quase nada. É aquela pessoa que se acha ótima, mas não\nserve. O termo que tem valor para nós é necessário. Há pessoas\nque são necessárias e há pessoas que são importantes. As pes­\nsoas que são importantes acham que as outras pessoas existem\npara servi-las. As pessoas necessárias são diferentes, são pes­\nsoas que fazem falta. Pessoas que precisam estar presentes, de\nquem se vai atrás.\n(SANTOS, Antônio Bispo dos. A terra dá, a terra quer. São Paulo: UBU/Piseagrama, p.\n24, 2023.)\nConsiderando o ponto de vista apresentado no texto de Antô­\nnio Bispo dos Santos sobre os “tipos de pessoa”, a personagem\nque fala nos quadrinhos de Wesley Samp pode ser caracteriza­\nda como alguém que",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "se acha ótimo por ser importante.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "não é importante, embora se considere ótimo.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "é desnecessário, porque não tem importância.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "se considera útil, apesar de ser importante.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

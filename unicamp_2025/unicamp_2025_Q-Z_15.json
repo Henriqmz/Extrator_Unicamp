@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q15",
+    "edital": "unicamp",
+    "numero": 15,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Leia o texto a seguir.\nPolice under fire after threat to arrest\n‘openly Jewish’ man near pro-Palestinian\nprotest\nScotland Yard criticised after suggesting Gideon Falter’s presence was\n‘provocative’ and he was ‘antagonising’ protesters\n(https://www.telegraph.co.uk/news/2024/04/19/. Acesso em 20/04/2024.)\nDepreende-se, da leitura desse texto, que",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "a polícia sofreu ameaças depois de prender um cidadão ju­\ndeu que estaria provocando participantes de um protesto\npró-Palestina.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "em um protesto pró-Palestina, a ação da polícia foi criticada,\npois os policiais teriam cogitado prender Gideon Falter, que\nestaria confrontando manifestantes.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "a Scotland Yard criticou a ação do cidadão Gideon Falter,\nque estaria provocando participantes de um protesto pró­\n-Palestina.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "em um protesto pró-Palestina, a Scotland Yard criticou a in­\nsinuação de que a polícia teria ameaçado prender um cida­\ndão que estaria confrontando manifestantes.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

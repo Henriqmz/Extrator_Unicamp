@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q12",
+    "edital": "unicamp",
+    "numero": 12,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Pesquisas recentes demonstraram que alguns compostos, como\no ZnW2O8, apresentam coeficiente de dilatação térmica linear\n( α ) negativo, diferentemente da maioria dos materiais, que se\nexpandem com o aquecimento. O gráfico a seguir ilustra a va­\nriação, em função da temperatura, do comprimento L de uma\nbarra dessa classe de materiais.\n\n\n![figura](./imgs/unicamp_2025_Q-Z_p5_drawing0.webp)\n\n2,0000\n•\n1,9995\n•\n•\nL(mm)\n1,9990\n•\n•\n1,9985\n•\n1,9980\n0\n50\n100\n150\n200\nTemperatura (oC)\nConsiderando que o coeficiente de dilatação α seja aproxima­\ndamente constante no intervalo de temperatura entre 0o C e\n50o C , pode-se dizer que o valor de α nesse intervalo é igual a",
+    "url_img": [
+      "./imgs/unicamp_2025_Q-Z_p5_drawing0.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "– 1,0×10–7 oC–1.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "– 5,0×10–6 oC–1.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "– 2,5×10–4 oC–1.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "– 4,0×10–2 oC–1.\nTexto comum às questões 13 e 14.\nA energia solar desempenha papel substancial nas soluções\nenergéticas de desenvolvimento sustentável: além de fazer uso\nde tecnologia pouco agressiva ao ambiente, é uma enorme fon­\nte de energia renovável.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

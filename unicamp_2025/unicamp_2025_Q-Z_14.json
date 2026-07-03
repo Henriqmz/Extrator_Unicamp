@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q14",
+    "edital": "unicamp",
+    "numero": 14,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A área de um painel solar que gera uma potência elétrica\nP = 462 W é A = 2,5 m2. A intensidade da radiação solar que\nincide no painel, ou seja, a potência da radiação solar por uni­\ndade de área do painel, é Isolar = 924 W/m2. Qual é a eficiência\ndo painel solar, ou seja, qual é a razão entre a energia elétrica\ngerada e a energia solar que incide no painel num dado inter­\nvalo de tempo?",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "5 %.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "20 %.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "50 %.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "80 %.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

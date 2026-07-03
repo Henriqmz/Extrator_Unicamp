@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q68",
+    "edital": "unicamp",
+    "numero": 68,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Brasil – Produção Agrícola Municipal – 2017\nCana-de-açúcar\n\n\n![figura](./imgs/unicamp_2021_Q-Z_p19_group0.webp)\n\nBrasil – Produção Agrícola Municipal – 2017\nManga\n(Fonte: Atlas Escolar do IBGE. Disponível em https://mapas.ibge.gov.br/\nescolares/ensino-medio/brasil.html). Acessado em 10/09/2020.\nA produção agrícola nacional, para os mercados interno e\nexterno, aparece como ponto fundamental para o Produto\nInterno Bruto nacional. Sobre as culturas de cana-de-\naçúcar e manga é correto afirmar:",
+    "url_img": [
+      "./imgs/unicamp_2021_Q-Z_p19_group0.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Pouco concentrada espacialmente, a cana-de-açúcar é\numa cultura permanente voltada para exportação.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "A manga é uma cultura permanente, que tem\nimportante produção nas áreas irrigadas no Nordeste.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A cana-de-açúcar é uma cultura temporária no litoral\nnordestino e permanente na região Sudeste.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Inteiramente voltada para o mercado interno, a cultura\nda manga é uma cultura temporária na região Sudeste.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

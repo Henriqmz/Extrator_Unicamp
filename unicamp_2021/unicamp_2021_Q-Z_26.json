@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q26",
+    "edital": "unicamp",
+    "numero": 26,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "As doenças tropicais negligenciadas afetam principalmente\nas populações que vivem em condições de pobreza, sem\nacesso ao saneamento básico e em contato com diversos\nvetores. Nesse contexto, a esquistossomose é uma das\nmais emblemáticas doenças parasitárias causadas por\nplatelmintos no Brasil.\nAssinale a alternativa que preenche corretamente as\nlacunas na frase a seguir.\nO ciclo de vida do Schistosoma mansoni envolve a fase\nadulta, com fecundação e produção de ovos principalmente\nnas veias do fígado e mesentéricas do intestino do ser\nhumano, considerado o hospedeiro (i) __________. Os\novos são então excretados nas fezes e, em contato com a\nágua, eclodem e liberam os (ii) __________, os quais\npenetram no corpo de um caramujo, considerado o\nhospedeiro (iii) __________. No caramujo, dão origem às\n(iv) __________, que se locomovem na água e penetram\nna pele humana, migrando para os vasos sanguíneos\nviscerais, onde se tornam um esquistossomo adulto.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "(i) definitivo; (ii) esporocistos; (iii) intermediário; (iv)\nplanárias.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "(i) intermediário; (ii) esporocistos; (iii) definitivo (iv)\ncercárias.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "(i) definitivo; (ii) miracídios; (iii) intermediário; (iv)\ncercárias.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "(i) intermediário; (ii) miracídios; (iii) definitivo; (iv)\nplanárias.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

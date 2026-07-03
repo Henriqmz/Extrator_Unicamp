@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q4",
+    "edital": "unicamp",
+    "numero": 4,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "O conto “O espelho”, de Machado de Assis, apresenta o\nesboço de uma teoria sobre a alma humana. A tese\napresentada defende a existência de duas almas (interior e\nexterior), que completam o homem. Contudo, o narrador\nfaz uma distinção entre as almas que mudam de natureza\ne estado e aquelas que são enérgicas. Escolha a\nalternativa que ilustra, no conto, a mutabilidade da alma\nexterior.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A liderança é a força sem a qual o poder político de\nOliver Cromwell se extingue.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A patente é a marca de distinção, sem a qual Jacobina\nse extingue.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Os versos de Luís de Camões são uma declaração de\namor à pátria, pela qual o poeta se dispõe a morrer.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "As moedas de ouro são o valor visível sem o qual\nShylock prefere morrer.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

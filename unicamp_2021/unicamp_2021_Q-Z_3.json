@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q3",
+    "edital": "unicamp",
+    "numero": 3,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Leia o poema e responda à questão que se segue.\nA fermosura desta fresca serra\ne a sombra dos verdes castanheiros,\no manso caminhar destes ribeiros,\ndonde toda a tristeza se desterra;\no rouco som do mar, a estranha terra,\no esconder do Sol pelos outeiros,\no recolher dos gados derradeiros,\ndas nuvens pelo ar a branda guerra;\nenfim, tudo o que a rara natureza\ncom tanta variedade nos oferece,\nse está, se não te vejo, magoando.\nSem ti, tudo me enoja e me aborrece;\nsem ti, perpetuamente estou passando,\nnas mores alegrias, mor tristeza.\nÉ correto afirmar que, no soneto de Camões,",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "a beleza natural aborrece o eu lírico, uma vez que se\ntransforma em objeto de suas maiores tristezas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "a variedade da paisagem está em harmonia com o\nsentimento do eu lírico porque a relação amorosa é\nimperfeita.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "a harmonia da natureza consola o eu lírico das\nimperfeições da vida e da ausência da pessoa amada.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "a singularidade da natureza entristece o eu lírico\nquando ele está distante da pessoa amada.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

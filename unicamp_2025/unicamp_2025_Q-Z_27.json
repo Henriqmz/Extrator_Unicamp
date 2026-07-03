@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q27",
+    "edital": "unicamp",
+    "numero": 27,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“A terra [Rio de Janeiro] continua ainda a parecer-me muito mal.\nÉ rodeada de serras inacessíveis, a maior parte delas são uma\nrocha viva, e de todas fazem uma vista sumamente desagra­\ndável. Acho estes povos sumamente pobres e, como não têm\ngêneros seus que lhes constituam ao menos um ramo certo de\ncomércio, pouca esperança tenho de os pôr melhor nesta parte.\nEm uma palavra, meu colega, isto está um cadáver que vai para\na sepultura [...]; parece-me ser este o mais próprio retrato em\nque presentemente se acha o Governo do Rio de Janeiro.”\n(Marquês de Lavradio (Governador do Rio de Janeiro, 1769-1779). Carta de Amizade\nEscrita a Manuel da Cunha de Menezes em Pernambuco, em 13 de dezembro de 1769.\nIn: Marquês de Lavradio. Cartas do Rio de Janeiro, 1769-1776. Rio de Janeiro: Secretaria\nde Estado de Educação e Cultura, p. 10, 1978.)\nTendo em vista seus conhecimentos sobre o século XVIII e con­\nsiderando as informações do excerto, assinale a alternativa cor­\nreta.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A geografia montanhosa e rochosa impedia tanto o desen­\nvolvimento do Rio de Janeiro quanto o uso do porto dessa\ncidade, no Brasil colonial, como centro de trocas comerciais.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A concepção que se tem sobre o que seja “paisagem” é um\nconstruto histórico que envolve projeções políticas e ideoló­\ngicas a respeito do que se vê.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "A concepção sobre o que seja uma paisagem bonita foi um\nargumento utilizado pela elite para convencer, contra a von­\ntade de Lavradio, a corte portuguesa a migrar para o Brasil.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "O eurocentrismo impediu Lavradio de reconhecer o sucesso\ne a beleza dos arcos de pedra construídos com técnicas indí­\ngenas locais no Rio de Janeiro.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

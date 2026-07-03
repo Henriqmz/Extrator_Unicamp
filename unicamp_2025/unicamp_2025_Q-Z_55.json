@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q55",
+    "edital": "unicamp",
+    "numero": 55,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A figura a seguir mostra um triângulo ABC que contém dois\nquadrados em seu interior.\nB\n\n\n![figura](./imgs/unicamp_2025_Q-Z_p18_drawing0.webp)\n\n•\nH\nG\nA\nC\n•\nD\nE\nF\n•\nO segmento GH é lado de um dos quadrados e está contido\nno segmento AB. O segmento EF, contido no segmento AC, é\nlado do outro quadrado. Sabendo que AG mede 4 cm e que o\nlado GH do quadrado menor mede 3 cm, o comprimento do\nsegmento EF é:",
+    "url_img": [
+      "./imgs/unicamp_2025_Q-Z_p18_drawing0.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "121/20.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "111/20.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "102/15.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "98/15.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

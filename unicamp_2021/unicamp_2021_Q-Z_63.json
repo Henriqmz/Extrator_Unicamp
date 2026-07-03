@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q63",
+    "edital": "unicamp",
+    "numero": 63,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Lélia Gonzalez (1935–1994) teve um papel pioneiro na\ncriação de uma teoria do feminismo negro brasileiro. O\nmomento mais intenso de sua militância ocorreu durante a\nDitadura Militar (1964–1985), que coibiu a organização\npolítica da sociedade civil. A Lei de Segurança Nacional,\nde setembro de 1967, estabelecia que era crime “incitar\npublicamente ao ódio ou à discriminação racial”. O que, na\nverdade, poderia ser usado contra o movimento negro,\numa vez que denunciar o racismo e expor o mito da\ndemocracia racial poderia ser considerado uma ameaça à\nordem social, um estímulo ao antagonismo e uma incitação\nao preconceito.\n(Adaptado de Raquel Barreto, “Memória – Lélia Gonzalez”. Revista Cult 247.\nSão Paulo, julho, 2019. Disponível em https://revistacult.uol.com.br/home/ lelia-\ngonzalez-perfil/. Acessado em 01/05/2020.)\nA partir do excerto sobre Lélia Gonzalez e seu contexto\nhistórico, assinale a alternativa correta.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A Ditadura Militar perseguiu o feminismo negro no\nBrasil por ele pregar a supremacia das mulheres\nnegras.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "A Ditadura Militar criou mecanismos para recolher\ndenúncias contra a discriminação e combater o\nracismo estrutural no país.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A Lei de Segurança Nacional criou instrumentos\njurídicos que possibilitavam a criminalização de\ndenúncias contra o racismo.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "A Lei de Segurança Nacional possibilitou a harmonia\ndas relações étnico-raciais e a igualdade de gênero no\nBrasil.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

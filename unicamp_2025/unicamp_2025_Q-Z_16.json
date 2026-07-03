@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q16",
+    "edital": "unicamp",
+    "numero": 16,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A imagem a seguir apresenta a transcrição de um diálogo em\num vídeo publicado no Instagram.\n\n\n![figura](./imgs/unicamp_2025_Q-Z_p6_img1.webp)\n\n(Adaptado de https://www.instagram.com/dhar.mann. Acesso em 12/04/2024.)\nNo diálogo, a principal característica da reformulação da fala da\nmédica é a inserção de",
+    "url_img": [
+      "./imgs/unicamp_2025_Q-Z_p6_img1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "expressões que utilizam verbos frasais para recontextualizar\no tratamento da paciente.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "abreviações de substantivos, através das quais a médica am­\nplia as informações do caso.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "gírias que utilizam diversas classes de palavras para especifi­\ncar melhor o diagnóstico da paciente.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "vocábulos marcados pela oralidade, através dos quais a mé­\ndica atualiza os procedimentos futuros.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

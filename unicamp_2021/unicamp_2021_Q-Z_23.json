@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q23",
+    "edital": "unicamp",
+    "numero": 23,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A osteoporose é uma doença caracterizada pela baixa\ndensidade de massa óssea total e pela deterioração da\nmicroarquitetura do tecido, levando a um aumento da\nfragilidade óssea. Algumas células presentes no tecido\nósseo são representadas na figura a seguir.\n\n\n![figura](./imgs/unicamp_2021_Q-Z_p8_img2.webp)\n\n(Adaptado de G.M. Pagnotti e outros. Nature Reviews, Londres, v. 15, p. 339-\n355, jun. 2019.)\nConsiderando as informações apresentadas e os\nconhecimentos sobre o tecido ósseo, é correto afirmar que\nna osteoporose pode ocorrer",
+    "url_img": [
+      "./imgs/unicamp_2021_Q-Z_p8_img2.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "aumento da degradação da matriz óssea pelos\nosteoclastos.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "aumento da reabsorção da matriz orgânica pelos\nosteoblastos.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "redução da degradação da matriz óssea pelos\nosteoblastos.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "redução da reabsorção da matriz orgânica pelos\nosteoclastos.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

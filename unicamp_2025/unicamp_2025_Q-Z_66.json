@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q66",
+    "edital": "unicamp",
+    "numero": 66,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Rosana Paulino é uma artista visual brasileira e suas obras têm\nfoco nas questões sociais, étnicas e de gênero. A obra a se­\nguir foi exposta na 35ª Bienal de São Paulo (2023) e promove\na integração da arte com a natureza brasileira, retratando um\nimportante ecossistema costeiro.\n\n\n![figura](./imgs/unicamp_2025_Q-Z_p21_img0.webp)\n\n(Adaptado de https://www.rosanapaulino.com.br/blank-5. Acesso em 02/04/2024.)\nTendo em vista seus conhecimentos sobre biologia e conside­\nrando a obra apresentada, é correto afirmar que",
+    "url_img": [
+      "./imgs/unicamp_2025_Q-Z_p21_img0.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "as árvores com raízes expostas representam a vegetação\nhalófita característica de áreas alagadiças dos manguezais,\nsendo o solo úmido, salino, pobre em oxigênio e rico em\nnutrientes.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "os caranguejos são crustáceos e constituem a base de uma\nextensa cadeia alimentar, característica de áreas lodosas das\nrestingas, com solo arenoso, pobre em nutrientes e em oxi­\ngênio.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "as árvores com raízes aéreas representam a vegetação xe­\nrófita característica de áreas lodosas das restingas, sendo o\nsolo arenoso, salobre, rico em carbono e em matéria orgâ­\nnica.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "os caranguejos são moluscos característicos de áreas alaga­\ndiças dos manguezais, habitam o solo úmido e salino, se\nalimentam da matéria orgânica em decomposição e de uma\nvariedade de pequenos animais.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

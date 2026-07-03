@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q53",
+    "edital": "unicamp",
+    "numero": 53,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A pressão exercida na base de certo tanque do Fermilab\npela coluna de argônio líquido no seu interior é\nP  5,6 1 0 N  4 /m 2 . A densidade do argônio líquido no\ntanque é d  1 400 kg/m 3 . Assim, a altura do tanque será\nde",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "2,0 m.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "4,0 m.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "7,8 m.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "25,0 m.\nTexto comum para questões 54, 55 e 56.\nLâmpadas de luz ultravioleta (UV) são indicadas para\nhigienização e esterilização de objetos e ambientes em\nrazão do seu potencial germicida.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q58",
+    "edital": "unicamp",
+    "numero": 58,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A epidemia de sífilis golpeou Nápoles, pela primeira vez,\nem 1494. Os ingleses a chamaram de “enfermidade\nfrancesa”, os franceses disseram que era um “mal\nnapolitano” e os napolitanos achavam que vinha da\nAmérica. O vírus, por definição, é o outro. Sexualmente\ntransmissível, a sífilis materializou nos corpos, dos séculos\nXVI ao XIX, as formas de repressão e exclusão social da\nmodernidade.\n(Adaptado de Paul B. Preciado, Aprendendo do vírus, em Sopa de Wuhan.\nAPOS, 2020, p. 184-187.)\nConsiderando as referências acima sobre a epidemia de\nsífilis na época moderna, é possível afirmar:",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A história da sífilis baseia-se em experiências mundiais\nunívocas. Ela transcorre simultaneamente em toda\nparte e promove uma compreensão tolerante da\ndiversidade dos sujeitos a partir da noção de raça.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A história da sífilis a descreve como uma epidemia\nlocal. Ela implica uma percepção neutra do outro, na\nmedida em que ele seria considerado a fonte e o fator\nde transmissão da doença.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A história da sífilis teve longa duração na Euro-américa.\nO medo da doença contribuiu para a formação e o\nfortalecimento de políticas de repressão racial, que\nincidiam nos corpos dos sujeitos sociais.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "A história da sífilis mostra um trajeto fixo de expansão\nda epidemia, que começou em Nápoles e alcançou a\nAmérica. Ela conta uma história do passado de\nexclusão dos burgueses, dos médicos e dos\nengenheiros da sociedade.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

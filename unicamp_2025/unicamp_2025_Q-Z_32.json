@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q32",
+    "edital": "unicamp",
+    "numero": 32,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Texto 1\nNo final do século XIX, a escritora Charlotte Perkins Gilman ob­\nservava a necessidade de reformas urbanas e habitacionais que\ncombinassem a privacidade da família com a vida em coletivo.\nEla defendia que grandes cidades fossem equipadas com con­\njuntos amplos de apartamentos que contariam com cozinhas\ncomuns e com pessoas contratadas coletivamente pelas famílias\npara serviços domésticos. A atenção às crianças seria garantida\npor cuidadores profissionais e professores dentro das creches.\n(Adaptado de GILMAN, C.P. Mulheres e economia. In: DAFLON, V.; SORJ, B. Clássicas do\npensamento social. Rio de Janeiro: Rosa dos Tempos, p.129-130, 2021.)\nTexto 2\nQuase um século depois, em 1996, o então presidente dos EUA\nBill Clinton implementou reformas nas políticas de proteção so­\ncial daquele país. Entre as mudanças, o Estado deixou de prover\nauxílio financeiro a mães pobres que criam os filhos sozinhas e\nessa responsabilidade passou para o pai biológico da criança.\nEssa reforma acentuou um vínculo social entre mulheres e ho­\nmens, vínculo este que elas não necessariamente gostariam de\nmanter. A reforma as tornou sobretudo dependentes economi­\ncamente deles.\n(Adaptado de COOPER, M. Family values: between neoliberalism and the new social\nconservatism. New York: Zone Books, p. 67-68, 2017.)\nConsiderando os textos 1 e 2, é correto afirmar que os efeitos,\npara as relações sociais, das reformas neles descritas",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "são convergentes, pois fortalecem a importância, para a\nvida moderna, dos lares individualizados e das famílias bio­\nlógicas. As reformas indicam a prevalência de ambos em\nrelação ao Estado.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "são divergentes, pois apenas a reforma descrita no texto 2\nfortalece a autonomia das mães, por ampliar a responsabili­\ndade dos pais biológicos e por desresponsabilizar o Estado.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "são convergentes, pois facilitam o desenvolvimento da pri­\nvacidade das famílias e ampliam a autonomia individual. Es­\nsas reformas favorecem o desenvolvimento da vida coletiva.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "são divergentes, pois apenas a reforma descrita no texto 1\ndesvincula, da responsabilidade das famílias e das mulhe­\nres, as tarefas de cuidado e de reprodução social da vida,\nvinculando-as também ao Estado.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

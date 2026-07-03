@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q47",
+    "edital": "unicamp",
+    "numero": 47,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O texto e o gráfico a seguir foram adaptados do documento\n“Notas sobre o Brasil no PISA 2022”, do INEP/MEC:\nNo Brasil, 27% dos estudantes atingiram pelo menos o Nível 2\nde proficiência em matemática, percentagem significativamen­\nte menor do que a média dos estudantes entre os países da\nOCDE, que é de 69%. No mínimo, esses estudantes podem\ninterpretar e reconhecer, sem instruções diretas, como uma si­\ntuação simples pode ser representada matematicamente (por\nexemplo, comparar a distância total de duas rotas alternativas\nou converter preços em uma moeda diferente).\nAlunos de baixo desempenho (pontuação abaixo do Nível 2)\nAlunos de alto desempenho (pontuação no Nível 5 ou superior)\nMatemática\nBrasil\n73\nMédia OCDE\n31\n9\nLeitura Brasil\n50\n2\nMédia OCDE\n26\n7\nCiências Brasil\n55\nMédia OCDE\n24\n7\n0%\n25%\n50%\n75%\n100%\nConsiderando o texto e o gráfico – que tratam do desempenho\ndos estudantes brasileiros no PISA 2022 –, é correto afirmar que\no percentual de alunos do Brasil",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "que atingiu pelo menos o nível 2 de proficiência em ciências\né de 45%.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "que tem baixo desempenho em leitura é maior do que o\npercentual de alunos com baixo desempenho em ciências.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "com baixo desempenho em Matemática é o dobro do per­\ncentual da média da OCDE.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "que teve alto desempenho em Leitura é de 5%.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

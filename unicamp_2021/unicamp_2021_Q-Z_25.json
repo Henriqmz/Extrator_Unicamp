@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q25",
+    "edital": "unicamp",
+    "numero": 25,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "O primeiro relatório do desmatamento no Brasil, publicado\npelo MapBiomas, apresentou dados preocupantes sobre a\nsituação no ano de 2019. Foram cortados cerca de 12.000\nkm2 de vegetação nativa no país. Após sobreposição com\nbases de dados oficiais, constatou-se que 99,5% da área\nde desmatamento detectada pelos alertas apresentaram\nirregularidades que incluem desde a localização em áreas\nprotegidas ou com restrição legal até a ausência de\nautorização para supressão da vegetação.\n(Adaptado de Relatório anual do desmatamento no Brasil 2019. São Paulo, SP,\nMapBiomas, 2020.)\nO mapa a seguir representa os biomas brasileiros. As\nbarras indicam as respectivas áreas desmatadas no ano de\n2019, conforme o relatório.\n\n\n![figura](./imgs/unicamp_2021_Q-Z_p9_img1.webp)\n\n(Adaptado de M. Pivetta. Pesquisa Fapesp, São Paulo, v. 292, p. 73-75, jun.\n2020.)\nConsiderando os conhecimentos sobre os biomas\nbrasileiros e as informações fornecidas, é correto afirmar:",
+    "url_img": [
+      "./imgs/unicamp_2021_Q-Z_p9_img1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "O bioma com menor área de desmatamento apresenta\nplanície aluvial e é influenciado por rios que alagam a\nregião, processo fundamental para a abundância de\nnutrientes no solo.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Um terço do total da área desmatada corresponde ao\nbioma característico de savana, com floresta\nestacional e campo, e elevado potencial aquífero que\nfavorece a biodiversidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "O bioma com maior área de desmatamento é\nexclusivamente brasileiro, sendo o mais fragilizado em\nrazão de sua grande biodiversidade, que inclui\nvegetação típica de floresta tropical.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Dois terços da área desmatada representam o bioma\ncom grande reserva de madeira tropical, vegetação\nrica em espécies de plantas suculentas e com\nespinhos, e fonte de riqueza natural.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

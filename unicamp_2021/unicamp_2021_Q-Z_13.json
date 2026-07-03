@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q13",
+    "edital": "unicamp",
+    "numero": 13,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A situação abaixo ocorreu em uma entrevista com a atriz\nScarlett Johansson e o ator Robert Downey Junior, que\natuaram juntos em um filme.\n\n\n![figura](./imgs/unicamp_2021_Q-Z_p5_drawing2.webp)\n\n(Disponível em https://www.cracked.com/blog/14-epic-comebacks-stars-gave-to-\nstupid-interview-questions/. Acessado em 25/06/20.)\nEm sua resposta, a atriz",
+    "url_img": [
+      "./imgs/unicamp_2021_Q-Z_p5_drawing2.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "evidencia o seu descontentamento por meio de uma\nmudança de assunto.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "rechaça a pergunta e sugere que Robert Downey Jr. a\nresponda.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "desaprova a pergunta com um comentário sarcástico\ndirigido a Robert Downey Jr.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "critica o teor da pergunta e sugere uma mudança de\nassunto.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

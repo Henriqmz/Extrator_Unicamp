@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q11",
+    "edital": "unicamp",
+    "numero": 11,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Dizer que Caetano falou \"X” porque \"é um leonino vaidoso\"\nquer dizer que: a) todo leonino é vaidoso (se leonino,\nvaidoso), ou",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "“Em um determinado universo de crenças, leoninos\nsão vaidosos. Isso é um clichê, um senso comum.”",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "“‘É um leonino vaidoso’ = é como qualquer leonino, no\ncaso, vaidoso. É vaidoso porque é vaidoso. Alternativa\na.”",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "“Entendo como a opção 2. Para que eu entendesse\ncomo opção 1, deveria ser: ‘como todo leonino, é\nvaidoso’, ou algo do tipo.”",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "“Fico com a restritiva ‘leonino que é vaidoso’. Entendo\nque, ao trazer vaidoso a leonino, acentua o vaidoso já\nimplicado em leonino.”",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q64",
+    "edital": "unicamp",
+    "numero": 64,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "O SUS (Sistema Único de Saúde) foi definido a partir de\nprincípios universalistas e igualitários, quer dizer, para\ntodos e de forma igual, embasado na concepção de saúde\ncomo direito de todos e dever do Estado. Essa construção\ndo SUS rompeu com o caráter meritocrático que\ncaracterizava a assistência à saúde no Brasil até a\nConstituição de 1988. Os seus princípios, presentes no\nartigo 196 da Constituição de 1988, foram implementados\ngradualmente. Um de seus marcos é a Lei Orgânica da\nSaúde (nº 8.080) de 19 de setembro de 1990, que fundou e\noperacionalizou o SUS.\n(Adaptado de Telma Menicucci, História da reforma sanitária brasileira e do\nSistema Único de Saúde: mudanças, continuidades e a agenda atual. História,\nCiências, Saúde – Manguinhos. Rio de Janeiro, v. 21, n.1, jan-mar. 2014, p.77-\n92.)\nCom base no excerto e em seus conhecimentos sobre a\nhistória do Brasil, assinale a alternativa correta.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Os princípios universais e inclusivos do SUS foram\ndesmantelados durante década de 1990 em razão da\ncrise inflacionária que assolou o país e das reformas\nneoliberais que aumentaram os gastos do Estado com\na saúde e o saneamento.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A criação do SUS aconteceu no contexto de reabertura\npolítica e da expansão democrática que sucedeu ao\nregime militar. O seu funcionamento mostra as\ndificuldades de financiamento da saúde pública entre\nas décadas de 1990 e 2000.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "O modelo que inspirou os princípios do SUS foi o\nsistema universal de saúde de Cuba, cujos\nprofissionais prestaram consultoria ao Estado brasileiro\ndurante a formulação dos artigos referentes à saúde\nda Constituição de 1988.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Durante o governo do presidente Fernando Collor\n(1990-1992), houve a suspensão do SUS e a\nexpansão dos sistemas de saúde baseados em planos\nprivados oferecidos por instituições estrangeiras que\npassaram a atuar no país.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

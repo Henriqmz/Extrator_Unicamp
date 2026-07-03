@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q60",
+    "edital": "unicamp",
+    "numero": 60,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O percentual da energia metabólica de um macronutriente em\num alimento pode ser obtido levando em conta tanto o percen­\ntual em massa desse macronutriente quanto a sua respectiva\nenergia metabólica por massa. Dos macronutrientes que nos\ninteressam, os principais são proteínas, carboidratos e gorduras;\nas fibras só entram nesses cálculos quando são digeríveis. As\ngorduras apresentam um valor de energia metabólica por mas­\nsa cerca de 2,25 vezes o valor da energia metabólica associada\na carboidratos ou a proteínas.\nConsidere uma barra de chocolate cujos percentuais de energia\nsejam os apresentados conforme a tabela a seguir.\nproteínas gorduras carboidratos\nPercentual de energia\n5%\n52%\n43%\nA partir dessas informações, pode-se afirmar que, em compara­\nção com os respectivos percentuais em energia, os percentuais\nem massa de",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "proteínas e carboidratos serão maiores e o percentual de\ngordura será menor.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "proteínas, carboidratos e gorduras serão maiores.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "proteínas e carboidratos serão menores e o percentual de\ngordura será maior.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "proteínas, carboidratos e gorduras serão menores.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q43",
+    "edital": "unicamp",
+    "numero": 43,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“Vou ao espelho tentar descobrir o que há de errado em mim.\nVejo olheiras negras no meu rosto, meu Deus, grandes olheiras!\nTendo andado a chorar muito por estes dias, choro até de mais”.\n(CHIZIANE, Paulina. Niketche. Uma história de Poligamia. São Paulo: Companhia das\nLetras [Companhia de Bolso], p. 14, 2021.)\n“Lembro-me ainda do temor de minha mãe nos dias de fortes\nchuvas. Em cima da cama (...) ela nos protegia com seu abraço\n(...). Nesses momentos os olhos de minha mãe se confundiam\ncom os olhos da natureza. Chovia, chorava! Chorava, chovia!\nEntão, por que eu não conseguia lembrar a cor dos olhos dela?”\n(EVARISTO, Conceição. Olhos D’água. Rio de Janeiro: Pallas; Fundação Biblioteca Nacio­\nnal, p. 17-18, 2016.)\nA partir da leitura dos trechos e da compreensão do todo da\nnarrativa, podemos afirmar que, comparativamente, os textos\nexprimem,",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "pelo par “olheiras/abraço”, o medo feminino diante dos\nproblemas econômicos e ecológicos do Sul Global.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "pelo par “espelho/águas”, o narcisismo feminino em um\nambiente sociocultural altamente desigual.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "pela relação entre as águas e as lágrimas, a submissão fe­\nminina diante dos problemas econômicos e ecológicos do\nSul Global.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "pela relação entre as águas e as lágrimas, o desamparo fe­\nminino em um ambiente sociocultural altamente desigual.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

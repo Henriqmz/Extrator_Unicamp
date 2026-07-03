@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q37",
+    "edital": "unicamp",
+    "numero": 37,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Duas impressoras funcionando simultaneamente imprimem\ncerta quantidade de páginas em 36 segundos. Sozinha,\numa delas imprime a mesma quantidade de páginas em 90\nsegundos. Funcionando sozinha, para imprimir a mesma\nquantidade de páginas, a outra impressora gastaria",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "48 segundos.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "54 segundos.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "60 segundos.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "72 segundos.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

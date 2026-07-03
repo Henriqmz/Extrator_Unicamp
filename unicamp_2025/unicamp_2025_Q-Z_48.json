@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q48",
+    "edital": "unicamp",
+    "numero": 48,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Márcia vai sortear um número entre 1 e 2025. Qual a probabili­\ndade de o número sorteado ser múltiplo de 3 ou de 7?",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": ".\t868\n2025",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": ". 289\n2025",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": ".\t675\n2025",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": ". 951\n2025",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

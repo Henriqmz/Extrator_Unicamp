@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q62",
+    "edital": "unicamp",
+    "numero": 62,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Os submarinos nucleares conseguem submergir por longos\nperíodos, pois geram uma quantidade enorme de energia elé­\ntrica para ser usada internamente. Um dos desafios a serem\nenfrentados diz respeito à manutenção da atmosfera interna da\nembarcação, o que garantiria condições respiráveis. Para tanto,\ncontrolam-se as concentrações de oxigênio e gás carbônico. Em\nvista dessa descrição, você, como responsável por essa manu­\ntenção, sugeriria a combinação das seguintes ações:",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "para gerar O2: destilação direta da água do mar; para absor­\nver o CO2: uso de uma solução ácida.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "para gerar O2: eletrólise da água purificada do mar; para\nabsorver o CO2: uso de uma solução básica.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "para gerar O2: destilação da água purificada do mar; para\nabsorver o CO2: uso de uma solução básica.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "para gerar O2: eletrólise direta da água do mar; para absor­\nver o CO2: uso de uma solução ácida.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

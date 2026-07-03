@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2025_q57",
+    "edital": "unicamp",
+    "numero": 57,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O gráfico de uma parábola de equação y = ax2 + bx + c passa\npelos pontos P = (0,–4), Q = (2,–1) e M = (–2,5). O valor do\nproduto a ⋅ b ⋅ c é:",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "6.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "7.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "8.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "9.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

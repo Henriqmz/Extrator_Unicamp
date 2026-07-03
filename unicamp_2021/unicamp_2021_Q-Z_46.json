@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q46",
+    "edital": "unicamp",
+    "numero": 46,
+    "tipo_ou_cor": "Q-Z",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Considere que as medidas dos lados de um triângulo\nretângulo estão em progressão geométrica. Sendo 𝑎 a\nmedida do menor lado e 𝐴 a área desse triângulo, é correto\nafirmar que",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topicos": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "𝐴ൌ𝑎ଶඥଶ√ହାଶ .\nସ",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "𝐴ൌ𝑎ଶඥଶ√ହିଶ .\nସ",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "𝐴ൌ𝑎ଶඥଶ√ହାଶ .\nଶ",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "𝐴ൌ𝑎ଶඥଶ√ହିଶ .\nଶ",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}
