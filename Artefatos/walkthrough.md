@@ -1,57 +1,43 @@
-# Walkthrough: Suporte Global a 2ª Fase e API Isolada
+# Walkthrough: Correção na Extração de Questões Dissertativas (2ª Fase)
 
-Este documento resume a conclusão de todas as etapas de desenvolvimento do suporte para a extração de provas de segunda fase (questões dissertativas) e a criação da interface de API isolada com funções programáticas de alto nível.
+Este documento resume as correções aplicadas no parser de questões dissertativas de 2ª fase nas pastas `Projeto/` e `Projeto_API/`.
 
 ---
 
 ## 🛠️ Alterações Efetuadas
 
-Todas as modificações foram consolidadas com sucesso diretamente no workspace:
+Foram implementadas as seguintes melhorias e correções para garantir a compatibilidade com provas dissertativas de todos os anos:
 
-### 1. Suporte a Questões Dissertativas (2ª Fase) na pasta `Projeto/`
-* **Schema de Dados (`models.py`)**:
-  - Introdução do modelo `SubItem` (`letra: str`, `texto: str`, `url_img: List[str]`).
-  - Atualização do modelo `Questao` para conter `sub_itens: Optional[List[SubItem]]` (para discursivas) e tornar `alternativas` opcional (pois discursivas não possuem alternativas de múltipla escolha).
-* **Mecanismo de Extração (`processor.py`)**:
-  - Implementação de `extrair_questoes_dissertativas` baseada em quebra por cabeçalho de página, uma vez que na Unicamp cada questão discursiva ocupa exatamente uma página, e o bloco de enunciado e a área de resolução aparecem em ordem sequencial.
-  - Salvaguardas aplicadas nas rotinas de mapeamento de imagens e textos complementares para aceitarem `alternativas=None` e atribuírem imagens de forma precisa ao enunciado de questões dissertativas.
-* **Interface Interativa (`main.py`)**:
-  - Removida a tentativa de detecção automática da fase da prova por PDF, que poderia induzir a erros.
-  - Implementada uma tela de diálogo (Tkinter GUI pop-up) que explicitamente pergunta ao usuário se a prova selecionada é de 1ª Fase (Objetiva) ou de 2ª Fase (Dissertativa). A extração prossegue conforme a seleção.
-* **Cobertura de Testes (`test_runner.py`)**:
-  - Configurado o caminho da prova de 2ª fase de 2026.
-  - Inclusão dos testes `D01` (quantidade de questões discursivas) e `D02` (estrutura e conteúdo dos sub-itens da Q1) na suíte principal.
+### 1. Robustez no Split das Questões (`processor.py`)
+* **Regex para divisões de caixas de resolução**:
+  Substituímos o split estático baseado em uma string rígida de caneta preta por uma expressão regular flexível:
+  `r"Resolu[çc]\u00e3o\s+\(ser\u00e1\s+considerado\s+apenas\s+o\s+que\s+estiver\s+(?:escrito\s+com\s+caneta\s+(?:preta\s+)?)?dentro\s+deste\s+espa[çc]o\)\s*\.?\s*(?:RASCUNHO)?"`
+  Isso permite processar provas de anos como 2021 (que não citavam "caneta" ou continham marcas como "RASCUNHO") e 2022 (que citavam apenas "caneta" em vez de "caneta preta").
 
-### 2. Criação do Módulo Programático `Projeto_API/`
-Criamos uma pasta totalmente nova e isolada no workspace contendo o código necessário para uso como biblioteca independente por outros desenvolvedores.
-* **Módulos Copiados**: `extractor.py`, `models.py`, `processor.py` e `saver.py`.
-* **Módulo de Interface (`api.py`)**:
-  Implementa e expõe exatamente 4 funções públicas de alto nível:
-  1. `extrair_prova_objetiva(caminho_prova, caminho_gabarito=None) -> List[Questao]`
-  2. `extrair_prova_dissertativa(caminho_prova) -> List[Questao]`
-  3. `extrair_e_salvar_prova_objetiva(caminho_prova, pasta_destino, caminho_gabarito=None) -> None`
-  4. `extrair_e_salvar_prova_dissertativa(caminho_prova, pasta_destino) -> None`
-* **Documentação (`README.md`)**:
-  Explica claramente como instalar requisitos, realizar as importações e invocar cada função com exemplos de uso.
-* **Script de Testes (`test_api.py`)**:
-  Roda validações automatizadas em memória e em disco para ambas as fases da prova de 2026, garantindo a integridade e precisão dos dados retornados.
+### 2. Extração Dinâmica do Número de Questões
+* **Fim do laço estático**:
+  Removemos o limite fixo de 10 iterações na função `extrair_questoes_dissertativas`. O parser agora calcula dinamicamente a quantidade de questões presentes no caderno (`len(partes) - 1`), permitindo extrair corretamente as 22 questões presentes nas provas dissertativas de Ciências Exatas e Biológicas da Unicamp.
+
+### 3. Melhoria na Detecção Automática de Tipo e Ano
+* **Identificação de Prova de 2ª Fase**:
+  Aprimoramos `detectar_edital_ano` para inspecionar tanto o nome do arquivo quanto o caminho da pasta em busca de palavras-chave como `exatas`, `biologicas`, `humanas` e `redacao`, configurando o tipo correto da prova (`EXATAS`, `BIOLOGICAS`, etc.) de forma robusta e evitando fallbacks indesejados para `Q-X`.
+
+### 4. Acentuação em Cabeçalhos de Questões
+* **Mapeamento de Imagens**:
+  Ajustamos as expressões regulares de localização de questões (`localizar_questoes` e `mapear_imagens_a_questoes_e_alternativas`) para suportar acentuação e letras minúsculas em inícios de parágrafos (ex: `1. Água...`), evitando que imagens fiquem órfãs ou agrupadas sob uma única questão.
 
 ---
 
-## 🧪 O que foi Testado e Resultados
+## 🧪 Verificação e Testes Realizados
 
-### 1. Suíte de Testes Geral (`Projeto/`)
-A suíte foi executada e passou com **100% de sucesso**:
-```powershell
-& "C:\Python314\python.exe" test_runner.py
-```
-* **Total de Testes**: 57/57 PASS (incluindo testes `D01` e `D02`).
-* **Falhas**: 0.
+1. **Prova de Exatas de 2022**:
+   * Validamos manualmente a extração da prova `prova-exatas-tecnologicas.pdf` de 2022 com o script `scratch_test_2022.py`.
+   * **Resultado**: 100% de sucesso (22 questões detectadas e extraídas corretamente sob o tipo `EXATAS`).
 
-### 2. Suíte de Testes da API (`Projeto_API/`)
-A nova API foi validada localmente com sucesso:
-```powershell
-& "C:\Python314\python.exe" test_api.py
-```
-* **Total de Testes**: 4/4 PASS (validação de extração objetiva/dissertativa em memória e em disco).
-* **Falhas**: 0.
+2. **Testes do Extrator Principal (`Projeto/`)**:
+   * Executamos `test_runner.py` para garantir que as alterações não introduziram regressões.
+   * **Resultado**: 57/57 testes PASS (Sucesso).
+
+3. **Testes da API (`Projeto_API/`)**:
+   * Executamos `test_api.py` para garantir que o comportamento da biblioteca permaneça estável e correto.
+   * **Resultado**: 4/4 testes PASS (Sucesso).
