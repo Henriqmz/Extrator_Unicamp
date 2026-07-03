@@ -35,7 +35,7 @@ def formatar_tempo(segundos):
 def chave_valida(key: str) -> bool:
     return bool(key and key.strip() and key.strip() != "INSIRA_SUA_CHAVE_GEMINI_AQUI")
 
-def obter_subtopicos_por_materia(materia: str) -> Optional[List[str]]:
+def obter_subtopico_por_materia(materia: str) -> Optional[List[str]]:
     """
     Stub: retorna subtópicos conhecidos para a matéria informada.
     Implementar futuramente com o mapeamento completo matéria -> subtópicos.
@@ -152,7 +152,7 @@ def extrair_questoes(texto, edital="unicamp", ano=2026, tipo_prova="Q-X"):
                     ano=ano
                 ),
                 conteudo=Conteudo(enunciado=enunciado, objetiva=True),
-                especificacao=Especificacao(disciplina=[], assunto=[], topicos=[]),
+                especificacao=Especificacao(disciplina=[], assunto=[], topico=[]),
                 alternativas=Alternativas(
                     a=alt_dict.get("a", AlternativaItem()),
                     b=alt_dict.get("b", AlternativaItem()),
@@ -205,7 +205,7 @@ def extrair_questoes_dissertativas(texto, edital="unicamp", ano=2026, tipo_prova
                         ano=ano
                     ),
                     conteudo=Conteudo(enunciado=bloco.strip(), objetiva=False),
-                    especificacao=Especificacao(disciplina=[], assunto=[], topicos=[])
+                    especificacao=Especificacao(disciplina=[], assunto=[], topico=[])
                 )
             )
     return questoes
@@ -393,6 +393,80 @@ def mapear_imagens_a_questoes_e_alternativas(questoes, imagens, doc):
                         elif tag not in alt.texto:
                             alt.texto += tag
 
+    # 3. Renomear fisicamente as imagens e atualizar as referências nos objetos Questao
+    caminho_absoluto = {os.path.basename(img['arquivo']): img for img in imagens}
+    renomeados = {}
+    
+    for q_obj in questoes:
+        edital = q_obj.metadados.edital
+        ano = q_obj.metadados.ano
+        tipo = q_obj.metadados.tipo_ou_cor.replace('/', '-')
+        num = q_obj.metadados.numero
+        
+        # Coletar todas as imagens da questão na ordem em que aparecem
+        imagens_da_questao = []
+        for img in q_obj.conteudo.url_img:
+            if img not in imagens_da_questao:
+                imagens_da_questao.append(img)
+        if q_obj.alternativas:
+            for letra in ["a", "b", "c", "d", "e"]:
+                alt = getattr(q_obj.alternativas, letra)
+                if alt and alt.url_img:
+                    for img in alt.url_img:
+                        if img not in imagens_da_questao:
+                            imagens_da_questao.append(img)
+                            
+        # Renomear cada imagem e atualizar referências
+        for idx, img_rel_old in enumerate(imagens_da_questao):
+            basename_old = os.path.basename(img_rel_old)
+            
+            if basename_old in renomeados:
+                img_rel_new = renomeados[basename_old]
+            else:
+                img_dict = caminho_absoluto.get(basename_old)
+                if img_dict:
+                    abs_old = img_dict["arquivo"]
+                    if os.path.exists(abs_old):
+                        if "group" in basename_old:
+                            img_dict["grupo"] = True
+                        
+                        ext = os.path.splitext(basename_old)[1] or ".webp"
+                        # Exemplo: unicamp_2019_Q-Y_q6_img_1.webp
+                        basename_new = f"{edital}_{ano}_{tipo}_q{num}_img_{idx + 1}{ext}"
+                        abs_new = os.path.join(os.path.dirname(abs_old), basename_new)
+                        
+                        try:
+                            if os.path.exists(abs_new):
+                                os.remove(abs_new)
+                            os.rename(abs_old, abs_new)
+                            img_rel_new = f"{IMG_REL_PREFIX}{basename_new}"
+                            renomeados[basename_old] = img_rel_new
+                            img_dict["arquivo"] = abs_new
+                        except Exception as e:
+                            print(f"[Aviso] Falha ao renomear {abs_old} para {abs_new}: {e}")
+                            img_rel_new = img_rel_old
+                    else:
+                        img_rel_new = img_rel_old
+                else:
+                    img_rel_new = img_rel_old
+            
+            # Atualizar referências no objeto Questao
+            if img_rel_old != img_rel_new:
+                # 1. No enunciado
+                if img_rel_old in q_obj.conteudo.url_img:
+                    q_obj.conteudo.url_img = [img_rel_new if x == img_rel_old else x for x in q_obj.conteudo.url_img]
+                q_obj.conteudo.enunciado = q_obj.conteudo.enunciado.replace(img_rel_old, img_rel_new)
+                
+                # 2. Nas alternativas
+                if q_obj.alternativas:
+                    for letra in ["a", "b", "c", "d", "e"]:
+                        alt = getattr(q_obj.alternativas, letra)
+                        if alt:
+                            if alt.url_img and img_rel_old in alt.url_img:
+                                alt.url_img = [img_rel_new if x == img_rel_old else x for x in alt.url_img]
+                            if alt.texto:
+                                alt.texto = alt.texto.replace(img_rel_old, img_rel_new)
+
 def extrair_gabarito(gabarito_path):
     doc = fitz.open(gabarito_path)
     resultados_paginas = []
@@ -524,9 +598,9 @@ Abaixo estão listadas as questões a analisar:
                     prompt += f"[TEXTO COMPLEMENTAR DE APOIO]:\n{texto_comp}\n\n"
                 
                 materia_principal = q.especificacao.disciplina[0] if q.especificacao.disciplina else "desconhecida"
-                subtopicos = obter_subtopicos_por_materia(materia_principal)
-                if subtopicos is not None:
-                    prompt += f"\n[SUBTÓPICOS CONHECIDOS PARA {materia_principal}]: {', '.join(subtopicos)}\n"
+                subtopico = obter_subtopico_por_materia(materia_principal)
+                if subtopico is not None:
+                    prompt += f"\n[SUBTÓPICOS CONHECIDOS PARA {materia_principal}]: {', '.join(subtopico)}\n"
                     prompt += "Ao escolher as tags, prefira termos desta lista quando aplicável.\n"
 
                 prompt += f"ENUNCIADO:\n{q.conteudo.enunciado}\n"
@@ -576,8 +650,8 @@ Abaixo estão listadas as questões a analisar:
                             not any(b in a.strip().lower() for b in ["unicamp", "fuvest", "enem", "vestibular"])
                         ]
                         
-                        q_obj.especificacao.topicos = [
-                            t.strip() for t in analise.topicos
+                        q_obj.especificacao.topico = [
+                            t.strip() for t in analise.topico
                             if t.strip().lower() not in TAG_BLACKLIST and 
                             len(t.strip()) > 1 and 
                             not any(b in t.strip().lower() for b in ["unicamp", "fuvest", "enem", "vestibular"])

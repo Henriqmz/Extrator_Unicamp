@@ -211,7 +211,7 @@ def main():
     def t_r06():
         q2 = next(q for q in data_2026["questoes"] if q.metadados.numero == 2)
         assert len(q2.conteudo.url_img) == 1, f"Questão 2 deveria ter exatamente 1 imagem de grupo, mas tem {len(q2.conteudo.url_img)}"
-        assert "group" in q2.conteudo.url_img[0], f"A imagem da Q2 deveria ser um grupo, mas é: {q2.conteudo.url_img[0]}"
+        assert "img_1" in q2.conteudo.url_img[0], f"A imagem da Q2 deveria ter img_1, mas é: {q2.conteudo.url_img[0]}"
     suite.run("R06", "Questão 2 tem exatamente 1 imagem de grupo", t_r06)
 
     # R07 - Gabarito Q46: alternativa C correta
@@ -258,14 +258,14 @@ def main():
             assert "area" not in especificacao, "area não deveria estar no JSON segundo o contrato"
             assert "disciplina" in especificacao, "disciplina ausente na especificacao no JSON"
             assert "assunto" in especificacao, "assunto ausente na especificacao no JSON"
-            assert "topicos" in especificacao, "topicos ausente na especificacao no JSON"
+            assert "topico" in especificacao, "topico ausente na especificacao no JSON"
             
             assert isinstance(especificacao["disciplina"], list), "disciplina deveria ser lista"
             assert isinstance(especificacao["assunto"], list), "assunto deveria ser lista"
-            assert isinstance(especificacao["topicos"], list), "topicos deveria ser lista"
+            assert isinstance(especificacao["topico"], list), "topico deveria ser lista"
             assert len(especificacao["disciplina"]) == 0, "disciplina deveria estar vazia"
             assert len(especificacao["assunto"]) == 0, "assunto deveria estar vazia"
-            assert len(especificacao["topicos"]) == 0, "topicos deveria estar vazia"
+            assert len(especificacao["topico"]) == 0, "topico deveria estar vazia"
     suite.run("R11", "Campos do schema presentes no JSON de Q1", t_r11)
 
     # R12 - dica é lista ou null
@@ -279,14 +279,14 @@ def main():
     def t_n01():
         q66 = next(q for q in data_2026["questoes"] if q.metadados.numero == 66)
         assert len(q66.conteudo.url_img) >= 1, f"Q66 deveria ter pelo menos uma imagem, mas tem {len(q66.conteudo.url_img)}"
-        assert any("group" in img for img in q66.conteudo.url_img), "Q66 deveria conter uma imagem combinada agrupada (group)"
+        assert any("img_1" in img for img in q66.conteudo.url_img), "Q66 deveria conter a imagem combinada agrupada mapeada como img_1"
     suite.run("N01", "Q66 tem imagem de grupo (bloco A-H)", t_n01)
 
     # N02 - Q66: nenhuma imagem individual antiga
     def t_n02():
         q66 = next(q for q in data_2026["questoes"] if q.metadados.numero == 66)
         for img in q66.conteudo.url_img:
-            assert "group" in img or "img0" in img, f"Q66 contém imagem individual incorreta em url_img: {img}"
+            assert "img_" in img, f"Q66 contém imagem individual incorreta em url_img: {img}"
     suite.run("N02", "Q66 sem imagens individuais antigas", t_n02)
 
     # N03 - Todas as imagens geradas são .webp
@@ -387,19 +387,22 @@ def main():
 
     # E08 - Q68 não agrupa página inteira
     def t_e08():
-        imgs_dir = os.path.join(data_2021["pasta_saida"], "imgs")
-        for f in os.listdir(imgs_dir):
-            if "group" in f:
-                with Image.open(os.path.join(imgs_dir, f)) as img:
+        for img_dict in data_2021["imagens"]:
+            if img_dict.get("grupo") or "group" in os.path.basename(img_dict["arquivo"]):
+                with Image.open(img_dict["arquivo"]) as img:
                     largura_real = img.width / 2
-                    assert largura_real <= 595.2 * 0.61, f"Imagem de grupo muito larga: {f} ({largura_real}px)"
+                    assert largura_real <= 595.2 * 0.61, f"Imagem de grupo muito larga: {img_dict['arquivo']} ({largura_real}px)"
     suite.run("E08", "Agrupamentos visuais respeitam limite de largura de coluna (60%)", t_e08)
 
     # E09 - Q70 e Q71 não misturam imagens
     def t_e09():
         q70 = next(q for q in data_2021["questoes"] if q.metadados.numero == 70)
-        for img in q70.conteudo.url_img:
-            assert "p19_" in img or "p20_" in img, f"Q70 tem imagem inválida: {img}"
+        for img_rel in q70.conteudo.url_img:
+            basename = os.path.basename(img_rel)
+            img_dict = next((x for x in data_2021["imagens"] if os.path.basename(x["arquivo"]) == basename), None)
+            assert img_dict is not None, f"Imagem não encontrada na lista global: {basename}"
+            pagina = img_dict["pagina"]
+            assert pagina in [19, 20], f"Q70 tem imagem da página {pagina} (deveria ser 19 ou 20): {basename}"
     suite.run("E09", "Associação correta de imagens nas questões Q70/71", t_e09)
 
     # E10 - Filtro de drawings com texto
