@@ -38,7 +38,7 @@ class Conteudo(BaseModel):
 class Especificacao(BaseModel):
     disciplina: List[str]
     assunto: List[str]
-    topicos: List[str]
+    topico: List[str]
 
 class Alternativas(BaseModel):
     a: AlternativaItem
@@ -68,7 +68,7 @@ class AnaliseQuestaoIA(BaseModel):
     numero: int
     disciplina: List[str]
     assunto: List[str]
-    topicos: List[str]
+    topico: List[str]
     resolucao: str
     dica: List[str]
 

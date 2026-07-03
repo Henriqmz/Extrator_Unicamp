@@ -89,7 +89,7 @@ class Conteudo(BaseModel):
 class Especificacao(BaseModel):
     disciplina: List[str]
     assunto: List[str]
-    topicos: List[str]
+    topico: List[str]
 ```
 
 #### Exemplo de Exportação Prática:
@@ -101,7 +101,7 @@ questao = Questao(
     especificacao=Especificacao(
         disciplina=["Matemática"],
         assunto=["Geometria"],
-        topicos=["Teorema de Pitágoras"]
+        topico=["Teorema de Pitágoras"]
     ),
     alternativas=Alternativas(
         a=AlternativaItem(texto="Opção A", correta=True),

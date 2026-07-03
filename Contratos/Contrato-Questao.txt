@@ -17,7 +17,7 @@
   "especificacao": {
     "disciplina": "str[]",
     "assunto": "str[]",
-    "topicos": "str[]"
+    "topico": "str[]"
   },
   "alternativas": {
     "a": {
