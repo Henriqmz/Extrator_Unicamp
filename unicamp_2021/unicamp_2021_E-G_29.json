@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q29",
+    "edital": "unicamp",
+    "numero": 29,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Considere 𝑎, 𝑏, 𝑐, 𝑑 termos consecutivos de uma progressão\naritmética de números reais com razão 𝑟്0. Denote por 𝐷\no determinante da matriz\nቀ𝑎 𝑑ቁ. 𝑏\n𝑐\nÉ correto afirmar que ௥మ vale ஽",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "െ1",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "െ2.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "െ3.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "െ4.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

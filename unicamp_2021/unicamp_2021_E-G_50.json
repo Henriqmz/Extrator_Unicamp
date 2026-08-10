@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q50",
+    "edital": "unicamp",
+    "numero": 50,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A dupla fecundação é um processo característico em\nangiospermas, resultando na formação do zigoto e do\nnúcleo triploide. As sementes com cotilédones, embrião,\nendosperma e casca são formadas e protegidas no interior\ndos frutos. Considerando a origem e a ploidia das\nestruturas citadas, assinale a alternativa correta.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "O núcleo triploide (3n) é formado pela junção dos\nnúcleos polares com o núcleo espermático.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "O zigoto (2n) é formado a partir dos núcleos polares e\nda oosfera, oriundos dos sacos embrionário e polínico.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Os carpelos originam o ovário, que se transforma nos\ncotilédones (2n) e na casca da semente.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "O endosperma (3n) origina-se do núcleo triploide,\nformando posteriormente os cotilédones da semente.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q27",
+    "edital": "unicamp",
+    "numero": 27,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Considere que os ângulos internos de um triângulo formam\numa progressão aritmética. Dado que 𝑎, 𝑏, 𝑐 são as\nmedidas dos lados do triângulo, sendo 𝑎൏𝑏൏𝑐, é correto\nafirmar que",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "𝑏ଶ൅𝑎𝑐ൌ𝑎ଶ൅𝑐ଶ.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "𝑎ଶ൅𝑏𝑐ൌ𝑏ଶ൅𝑐ଶ.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "𝑎ଶെ𝑏𝑐ൌ𝑏ଶ൅𝑐ଶ.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "𝑏ଶെ𝑎𝑐ൌ𝑎ଶ൅𝑐ଶ.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

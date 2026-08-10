@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q13",
+    "edital": "unicamp",
+    "numero": 13,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "![figura](./imgs/unicamp_2021_E-G_q13_img_1.webp)\n\n(Disponível em https://toonhole.com/comic/what-would-you-like-for-christmas.\nAcessado em 30/07/2020.)\nAo reformular a sua pergunta, o Papai Noel\n\n![figura](./imgs/unicamp_2021_E-G_q13_img_1.webp)\n\n",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q13_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "confere maior formalidade à sua indagação.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "questiona a viabilidade do pedido feito por Sally.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "critica posicionamentos sexistas presentes no pedido\nde Sally.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "satiriza as problemáticas da dívida estudantil e do\nmachismo.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

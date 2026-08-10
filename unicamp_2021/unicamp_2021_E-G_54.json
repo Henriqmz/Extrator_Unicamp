@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q54",
+    "edital": "unicamp",
+    "numero": 54,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Na análise de dois fósseis de animais adultos coletados na\nregião dos Campos Gerais (Paraná), destacaram-se as\nseguintes características:\nFóssil 1: Simetria radiada, esqueleto com espinhos e sulco\nambulacral.\nFóssil 2: Simetria bilateral, esqueleto e dois pares de\nantena.\nConsiderando as características descritas, assinale a\nalternativa que indica animais dos mesmos filos dos fósseis\n1 e 2, respectivamente.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Ouriço-do-mar e mexilhão.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Hidra e camarão.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Estrela-do-mar e caranguejo.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "Lampreia e caramujo.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

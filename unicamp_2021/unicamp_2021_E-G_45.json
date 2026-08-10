@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q45",
+    "edital": "unicamp",
+    "numero": 45,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A figura a seguir mostra uma das formas de se contabilizar\nas tendências no uso de fertilizantes por hectare e por\ntonelada de grão em uma fazenda no Brasil em\ndeterminado período. A partir desse tipo de informação\npode-se saber, por exemplo, como a prática agrícola de um\nsistema de cultivo está influenciando o uso de nutrientes e\na produtividade do solo para o cultivo.\n\n\n![figura](./imgs/unicamp_2021_E-G_q45_img_1.webp)\n\nConsiderando o caso representado pela figura, pode-se\nconcluir que o sistema de cultivo adotado está\ninfluenciando",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q45_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "positivamente o uso dos fertilizantes, aumentando a\nprodutividade de grãos por hectare.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "negativamente o uso dos fertilizantes, diminuindo a\nprodutividade de grãos por hectare.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "positivamente o uso dos fertilizantes, diminuindo a\nprodutividade de grãos por hectare.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "negativamente o uso dos fertilizantes, aumentando a\nprodutividade de grãos por hectare.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

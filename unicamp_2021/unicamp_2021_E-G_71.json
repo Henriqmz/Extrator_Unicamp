@@ -1,0 +1,48 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q71",
+    "edital": "unicamp",
+    "numero": 71,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Os mapas temáticos são elaborados com a utilização de\ntécnicas que objetivam a melhor visualização e\ncomunicação, distinguindo-se essencialmente dos\ntopográficos, que representam fenômenos de qualquer\nnatureza, geograficamente distribuídos sobre a superfície\nterrestre. O nível de organização dos dados, qualitativos,\nordenados ou quantitativos, de um mapa está diretamente\nrelacionado ao método de mapeamento e à utilização de\nvariáveis visuais adequadas à sua representação.\n(Rosely Sampaio Archela e Hervé Théry, Orientação metodológica para\n\n\n![figura](./imgs/unicamp_2021_E-G_q71_img_1.webp)\n\nconstrução e leitura de mapas temáticos. Revista Confins. n.3. 2008, p. 1-36.)\n\n\n![figura](./imgs/unicamp_2021_E-G_q71_img_2.webp)\n\n(Disponível em https://covid.saude.gov.br/) (Acessado em 08/07/2020)\nOs mapas temáticos anteriores mostram o cenário\nbrasileiro da pandemia em 7 de julho de 2020. O mapa 1\napresenta o número de casos confirmados de Covid19 por\nente federativo e o mapa 2, a taxa de incidência da\nCovid19 por Estado brasileiro. No que se refere à análise\ndos dados representados nos mapas, é correto afirmar:",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q71_img_1.webp",
+      "./imgs/unicamp_2021_E-G_q71_img_2.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "O objetivo do mapa 1 é apresentar os dados de forma\nquantitativa, enquanto o mapa 2 prioriza uma\napresentação qualitativa dos dados.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Os mapas 1 e 2 apresentam dados absolutos\nqualitativos referentes à Covid19 obtidos em órgãos\noficiais do governo federal.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "O mapa 1 apresenta os dados absolutos dos casos\nconfirmados de Covid19, enquanto o mapa 2\napresenta a proporção de casos por milhão de\nhabitantes.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "Os mapas 1 e 2 apresentam dados proporcionais\nreferentes à Covid19, pois não é possível apresentar\ncom exatidão dados da área de saúde.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

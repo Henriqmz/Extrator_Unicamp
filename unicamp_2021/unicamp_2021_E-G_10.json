@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q10",
+    "edital": "unicamp",
+    "numero": 10,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Entre todas as palavras do momento, a mais flamejante\ntalvez seja desigualdade. E nem é uma boa palavra,\nincomoda. Começa com des. Des de desalento, des de\ndesespero, des de desesperança. Des, definitivamente,\nnão é um bom prefixo.\nDesigualdade. A palavra do ano, talvez da década, não\nimporta em que dicionário. Doravante ouviremos falar\nmuito nela.\nDe-si-gual-da-de. Há quem não veja nem soletre, mas está\nescrita no destino de todos os busões da cidade, sentido\ncentro/subúrbio, na linha reta de um trem. Solano Trindade,\nno sinal fechado, fez seu primeiro rap, “tem gente com\nfome, tem gente com fome, tem gente com fome”, somente\ncom esses substantivos. Você ainda não conhece o\nSolano? Corra, dá tempo. Dá tempo para você entender\nque vivemos essa desigualdade. Pegue um busão da\nAvenida Paulista para a Cidade Tiradentes, passe o vale-\ntransporte na catraca e simbora – mais de 30 quilômetros.\nO patrão jardinesco vive 23 anos a mais, em média, do que\num humaníssimo habitante da Cidade Tiradentes, por\ntodas as razões sociais que a gente bem conhece.\nEvitei as estatísticas nessa crônica. Podia matar de\ndesesperança os leitores, os números rendem manchete,\nmas carecem de rostos humanos. Pega a visão, imprensa,\nsó há uma possibilidade de fazer a grande cobertura: mire-\nse na desigualdade, talvez não haja mais jeito de achar\nque os pontos da bolsa de valores signifiquem a ideia de\nfazer um país.\n(Adaptado de Xico Sá, A vidinha sururu da desigualdade brasileira. Em El País,\n28/10/2019. Disponível em https://brasil.elpais.com/brasil/2019/10/28/opinion/\n1572287747_637859.html?fbclid=IwAR1VPA7qDYs1Q0Ilcdy6UGAJTwBO_snM\nDUAw4yZpZ3zyA1ExQx_XB9Kq2qU. Acessado em 25/05/2020.)\nA crônica instiga o leitor a ficar atento à desigualdade na\ncidade de São Paulo. Assinale a alternativa que identifica\ncorretamente os recursos expressivos (estilísticos e\nliterários) de que se vale o autor.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A desigualdade está escrita nas linhas de trens e ressoa\nnos versos de Solano Trindade: onomatopeia.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "No destino dos transportes coletivos no sentido centro\nsubúrbio é possível viver a desigualdade: eufemismo.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A desigualdade se mostra na expectativa de vida dos\nmoradores de bairros bem situados e periferias: alusão.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Na cobertura da imprensa, números da desigualdade\nperdem para pontos da bolsa de valores: ambiguidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q16",
+    "edital": "unicamp",
+    "numero": 16,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Apresenta-se, a seguir, um artigo de opinião, seguido da\nresposta de uma leitora.\nIS BURNOUT REAL?\nLast week, the World Health Organization upgraded\nburnout from a “state” of exhaustion to “a syndrome”\nresulting from “chronic workplace stress” in its International\nDisease Classification. That is such a broad definition that it\ncould well apply to most people at some point in their\nworking lives. When a disorder is reportedly so widespread,\nit makes me wonder whether we are at risk of medicalizing\neveryday distress. If almost everyone suffers from burnout,\nthen no one does, and the concept loses all credibility.\nBy Richard A. Friedman\nI'm sure the author's generation also experienced\nworkplace stress. However, his generation also\nexperienced real economic stability and socioeconomic\ngains. There was a light at the end of the tunnel. Currently,\nwe are working tirelessly towards what ends? There doesn't\nseem to be a light at the end of the tunnel. The burnout is\npsychological and existential as much as it is physical.\nAnna B. – New York, June 4, 2019\n(Adaptado de https://www.nytimes.com/2019/06/03/opinion/burnout-stress.html.\nAcessado em 16/09/2020.)\nEm seu comentário, a leitora Anna B. discorda do autor do\ntexto quanto à",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "gravidade de burnout nas condições atuais.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "existência de burnout em gerações passadas.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "influência da economia no avanço de burnout.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "prevalência de burnout no ambiente de trabalho.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

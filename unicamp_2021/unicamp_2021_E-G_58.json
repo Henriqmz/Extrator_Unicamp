@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q58",
+    "edital": "unicamp",
+    "numero": 58,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Segundos os historiadores, pela primeira vez, uma\npotência europeia desenvolveu um projeto planetário que\nabrangia quatro continentes, a fim de assentar as\npretensões universais da monarquia. Para isso, os juristas\nespanhóis invocaram a noção de extensão geográfica sem\nprecedentes de suas possessões. Com a monarquia\ncatólica surgiram a primeira economia mundial e um\nregime capitalista e comercial intercontinental.\n(Adaptado de Serge Gruzinski, “Babel no século XVI. A mundialização e\nGlobalização das Línguas”, em Eddy Stols, Iris Kantor, Werner Thomas e Júnia\nFurtado (orgs.), Um Mundo sobre Papel. São Paulo/Belo Horizonte: EDUSP/\nEditora UFMG, 2014, p. 385.)\nCom base no texto do historiador Serge Gruzinski sobre as\nmonarquias católicas, assinale a alternativa correta.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A noção de monarquia católica inclui Portugal, Espanha\ne Inglaterra, que colocaram em marcha um processo de\nexpansão marítima planetário, calcado no trabalho\nassalariado dos indígenas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "O projeto planetário da monarquia católica calcava-se\nna memória do Império Romano, sendo que Roma\nambicionou estabelecer seu aparato burocrático ágil e\nrepressivo nos quatro continentes.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "O projeto planetário da monarquia católica fundava-se\nem um corpo jurídico criado com argumentos\nteológicos, em uma burocracia exercida a distância e no\ntrabalho compulsório.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "A monarquia católica expandiu seu projeto comercial\nbaseado em estamentos feudais nos moldes das\ncapitanias hereditárias implementadas na América, na\nÁfrica e na Ásia.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

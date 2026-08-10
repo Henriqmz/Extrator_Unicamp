@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q14",
+    "edital": "unicamp",
+    "numero": 14,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A página Greengo Dictionary apresenta, em inglês,\ninterpretações bem-humoradas de expressões do\nportuguês do Brasil.\n\n\n![figura](./imgs/unicamp_2021_E-G_q14_img_1.webp)\n\n(Disponível em https://www.instagram.com/greengodictionary. Acessado em\n26/05/2020.)\nPode-se dizer que a expressão “little lecture”",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q14_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "abrange os sentidos das palavras “mansplaining” e\n“manterrupting”, contextualizando o uso da expressão\nno Brasil.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "contrasta com os sentidos das palavras “mansplaining”\ne “manterrupting”, contemplando aspectos culturais\nespecíficos do Brasil.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "expande os sentidos das palavras “mansplaining” e\n“manterrupting”, indicando um uso em contextos mais\nformais.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "modifica os sentidos das palavras “mansplaining” e\n“manterrupting”, destacando diferenças culturais entre\no inglês e o português.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

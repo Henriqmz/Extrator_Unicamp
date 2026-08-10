@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q70",
+    "edital": "unicamp",
+    "numero": 70,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A região Nordeste brasileira é marcada por contrastes\nclimáticos: áreas úmidas e áreas com longos períodos de\nestiagem. O mapa a seguir mostra a variação da umidade\npor meses em relação à distribuição das chuvas.\n\n\n![figura](./imgs/unicamp_2021_E-G_q70_img_1.webp)\n\n(Adaptado de Mapa de Clima do Brasil. Coordenação De Recursos Naturais e Estudos Ambientais – CREN. Diretoria\nde Geociências – DGC, IBGE. Rio de Janeiro, 2006.)\nSobre as características climáticas e a distribuição das\nchuvas na região Nordeste, é correto afirmar:",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q70_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Todas as áreas sem seca ou subsecas recebem\numidade da zona de convergência intertropical, além\ndo incremento de vapor d’água do processo de\nevapotranspiração das florestas tropicais.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "No centro do Estado da Bahia localiza-se a principal\nárea no interior da região Nordeste com 1 a 3 meses\nsecos, devido ao efeito orográfico da Chapada\nDiamantina na formação de chuvas.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "O período de estiagem das áreas com 4 a 5 meses\nsecos ocorre no verão, enquanto o das áreas com 6 a\n8 meses secos ocorre no outono e inverno na Bahia, e\nna primavera e verão nos demais Estados.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "A distribuição da umidade na região Nordeste tem\nestreita relação com o tipo de vegetação: nas áreas\ncom 9 a 11 meses secos ocorre a vegetação de\ncaatinga; nas áreas com 6 a 8 meses secos, a\nvegetação de cerrado.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

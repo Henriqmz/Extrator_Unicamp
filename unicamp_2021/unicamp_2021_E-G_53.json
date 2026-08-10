@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q53",
+    "edital": "unicamp",
+    "numero": 53,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "O epitélio nasal e o bronquial apresentam receptores às\nproteínas virais do novo coronavírus (SARS-CoV-2). A\nsecreção mucosa liberada pelas células das vias\nrespiratórias é importante para a formação de um gel\nviscoso e lubrificante com grande quantidade de água, que\nfunciona como uma barreira adesiva para muitas partículas\ne patógenos. Entretanto, há vírus capazes de penetrar\nessa barreira formada pelo muco.\n(W. Sungnak e outros. Nature Medicine, Londres, v. 26, p. 681-687, abr. 2020.)\nUtilize a figura abaixo e seus conhecimentos de biologia\ncelular para assinalar a alternativa que preenche\ncorretamente as lacunas na frase a seguir.\n\n\n![figura](./imgs/unicamp_2021_E-G_q53_img_1.webp)\n\n(Adaptado de A. Pompa e outros. International Journal of Molecular Sciences,\nBasel, v. 18, p. 703, mar. 2017.)\nPresente na cavidade nasal, na traqueia e nos brônquios, a\ncélula caliciforme apresenta as organelas (i) __________ e\n(ii) __________ bem desenvolvidas, as quais são\nresponsáveis pela (iii) __________ e (iv) __________,\nrespectivamente, necessárias para a produção do muco.",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q53_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "(i) mitocôndria; (ii) retículo endoplasmático agranular;\n(iii) síntese de ATP; (iv) detoxificação.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "(i) complexo de Golgi; (ii) retículo endoplasmático\ngranular; (iii) adição de açúcares; (iv) síntese proteica.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "(i) retículo endoplasmático agranular; (ii) mitocôndria;\n(iii) detoxificação; (iv) síntese de ATP.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "(i) retículo endoplasmático granular; (ii) complexo de\nGolgi; (iii) síntese proteica; (iv) adição de açúcares.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

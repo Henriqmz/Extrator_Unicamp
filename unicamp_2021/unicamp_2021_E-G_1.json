@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q1",
+    "edital": "unicamp",
+    "numero": 1,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Esses artifícios de montagem, mixagem e scratching dão\nao rap uma variedade de formas de apropriação que\nparecem tão volúveis e imaginativas quanto as das artes\nmaiores – como, digamos, as exemplificadas na “Mona\nLisa de bigode” de Duchamp e nas múltiplas reduplicações\nde imagens comerciais pré-fabricadas de Andy Warhol. O\nrap também apresenta uma variedade de conteúdos. Não\napenas utiliza trechos de canções populares, como\ntambém absorve ecleticamente elementos da música\nclássica, de apresentações de TV, de jingles de\npublicidade e da música eletrônica de videogames. Ele se\napropria até mesmo de conteúdos não musicais, como\nreportagens de jornais na TV e fragmentos de discursos de\nMalcom X e Martin Luther King.\n(Richard Shusterman, Vivendo a arte. São Paulo: Editora 34, 1998, p.149.)\n\n\n![figura](./imgs/unicamp_2021_E-G_q1_img_1.webp)\n\n(Marcel Duchamp, “Mona Lisa de Bigode”, 1919.)\nA emergência e a consolidação do rap como linguagem\nartística foram cercadas de polêmicas de natureza ética,\npolítica e cultural. Com base no excerto acima e no quadro\nde Marcel Duchamp, assinale a alternativa correta.",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q1_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Os elementos poéticos do rap não podem ser\ncomparados aos procedimentos das artes maiores,\npois sua preocupação é mais política do que artística.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A incorporação das referências culturais nas canções\ndos Racionais Mc’s é comparável ao gesto de Marcel\nDuchamp ao pintar um bigode na Mona Lisa, de\nLeonardo da Vinci. Ambos são apropriações\nimaginativas e críticas.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "O modernismo de Marcel Duchamp, os quadros do\npintor norte-americano Andy Wahrol e as canções de\nrap não têm valor artístico, pois expressam a\ndegradação e o ecletismo de uma sociedade de\nmassas.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "O rap dos Racionais Mc’s e as artes modernas não\nfazem distinção entre a cultura erudita e a de massa,\nmisturam os seus elementos e produzem obras\ndestituídas de crítica social.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

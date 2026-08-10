@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q51",
+    "edital": "unicamp",
+    "numero": 51,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A necrose pancreática infecciosa (NPi) é uma doença viral\nque causa elevada mortalidade em salmões de água doce\ne água salgada. Em 2007, descobriu-se que a resistência à\ndoença era hereditária, e as empresas de criação\ncomeçaram a implementar a seleção familiar. Em 2008,\nestudos genéticos identificaram um único locus no\ncromossomo 26 que poderia explicar de 80 a 100% da\nvariação na resistência ao vírus da NPi. Desde 2009, a\nresistência à NPi do salmão pode ser avaliada por\nmarcadores do alelo de resistência. O número de mortes\ndos salmões em decorrência dos surtos de NPi diminuiu\nsignificativamente de 2009 a 2015. O potencial da\nprodução de peixes para alimentar uma crescente\npopulação global pode ser aumentado por avanços na\ngenética e na biotecnologia.\n(R. D. Houston e outros. Nature Reviews Genetics, Londres, v. 21, p. 381-409,\nabr. 2020.)\nConsiderando as informações apresentadas no texto,\nassinale a alternativa que justifica corretamente a\ndiminuição na mortalidade dos salmões.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Por meio da transgenia, o alelo de resistência foi\ninserido no cromossomo 26 em salmões, sendo\ngerados organismos geneticamente modificados e\nmais resistentes.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Por meio do melhoramento genético, os salmões\nportadores do alelo de resistência foram selecionados\ne cruzados entre si, gerando maior proporção de\nindivíduos resistentes.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "Por meio da seleção natural, os salmões com alelo de\nresistência foram os mais adaptados a transferir o\ngene às gerações seguintes por reprodução\ndiferencial.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Por meio das mutações randômicas, o alelo de\nresistência foi selecionado por isolamento entre a\npopulação de salmão de água doce e de água salgada\nao longo do tempo.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

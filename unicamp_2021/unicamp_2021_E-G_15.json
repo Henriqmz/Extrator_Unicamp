@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q15",
+    "edital": "unicamp",
+    "numero": 15,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Em uma entrevista, a escritora nigeriana Ayobami Adebayo\nrefletiu sobre os personagens principais (Yejide e Akin) e o\ncontexto sociopolítico de seu romance Stay With Me.\n\n\n![figura](./imgs/unicamp_2021_E-G_q15_img_1.webp)\n\nWhile writing, I also started thinking\nabout the middle class in Nigeria. When\nYejide visits her mother-in-law, there’s a\nvery low fence in front of their house. It’s\nbarely a fence. When Yejide and Akin\nbuild their own house in the early\nnineties, they erect a fence that’s higher\nthan the house. You can’t see inside.\nThat was something I observed about\narchitecture in Nigeria—that at some\npoint, probably in the eighties and nineties, when things\nbecame quite turbulent and there was all of this insecurity,\none of the ways the people who could afford to insulate\nthemselves against what was going on did was to build\nhigher fences, to use money as a shield in a sense. I\nwanted that political turbulence to play in the background.\n(Adaptado de https://www.theparisreview.org/blog/2017/08/08/great-expectations\n-interview-ayobami-adebayo/. Acessado em 21/07/2020.)\nSegundo a autora, as casas e as cercas na Nigéria\nrepresentam",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q15_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "o poder aquisitivo da classe média e sua tentativa de\nse distanciar da realidade política.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "a desigualdade social e seus impactos para a\nturbulência política enfatizada no romance.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "a tentativa da classe média de exercer um impacto na\nrealidade política nos anos 1980 e 1990.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "a violência e a corrupção dos anos 1980 e 1990 e seus\nimpactos nos personagens do romance.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

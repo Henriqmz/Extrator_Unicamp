@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q68",
+    "edital": "unicamp",
+    "numero": 68,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Brasil – Produção Agrícola Municipal – 2016\n\n\n![figura](./imgs/unicamp_2021_E-G_q68_img_1.webp)\n\nMapa 1\nMapa 2\n(Atlas Escolar do IBGE. Disponível em https://mapas.ibge.gov.br/escolares/ensi\nMapa 3 \nno-medio/brasil.html.) Acessado em 17/09/2020.)\nOs mapas anteriores apresentam três culturas temporárias\nde extrema importância para os mercados interno e\nexterno. Com base na sua espacialização, podemos\nafirmar que os mapas 1, 2, e 3 representam,\nrespectivamente, as culturas de",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q68_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "mandioca, trigo e laranja.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "trigo, laranja e mandioca.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "laranja, mandioca e trigo.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "mandioca, laranja, trigo.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

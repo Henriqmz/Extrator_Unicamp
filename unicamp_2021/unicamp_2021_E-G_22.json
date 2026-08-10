@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q22",
+    "edital": "unicamp",
+    "numero": 22,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A soma dos valores de 𝑥 que resolvem a equação\n\n\n![figura](./imgs/unicamp_2021_E-G_q22_img_1.webp)\n\n2 ൅1 1\n3 ൌ1\n𝑥 4 ൅1 2\n𝑥\né igual a",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q22_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "14/3.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "16/3.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "18/3.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "20/3.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

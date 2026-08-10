@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q7",
+    "edital": "unicamp",
+    "numero": 7,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "De acordo com Heloísa Starling, “Sertão é uma palavra\ncarregada de ambiguidade. Sertão pode indicar a formação\nde um espaço interno, a fronteira aberta, ou um pedaço da\ngeografia brasileira onde a terra se torna mais árida, o\nclima é seco, a vegetação escassa. Mas a palavra é\nigualmente utilizada para apontar uma realidade política: a\ninexistência de limites, o território do vazio, a ausência de\nleis, a precariedade dos direitos. Sertão é, paradoxalmente,\no potencial de liberdade e o risco da barbárie – além de ser\ntambém uma paisagem fadada a desaparecer.\n(Adaptado de Heloisa Murgel Starling, A palavra “sertão” e uma história pouco\nedificante sobre o Brasil. Disponível em https://www.suplementopernambuco.\ncom.br/artigos/2243-a-palavra-sert%C3%A3o-e-uma-hist%C3%B3ria-pouco-edifi\ncante-sobre-o-brasil.html. Acessado em 06/08/2020.)\nAssinale o excerto que corresponde à ideia de sertão\ndesenvolvida pela autora.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "“Se achardes no Sertão muito sertão, lembrai-vos que\nele é infinito, e a vida ali não tem esta variedade que\nnão nos faz ver que as casas são as mesmas, e os\nhomens não são outros.” (Machado de Assis)",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "“Nessa época o sertão parece a terra combusta do\nprofeta; dir-se-ia que por aí passou o fogo e consumiu\ntoda a verdura, que é o sorriso dos campos e a gala\ndas árvores, ou o seu manto, como chamavam\npoeticamente os indígenas.” (José de Alencar)",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "“Lugar sertão se divulga: é onde os pastos carecem de\nfechos; onde um pode torar dez, quinze léguas, sem\ntopar com casa de morador; e onde criminoso vive seu\ncristo-jesus, arredado do arrocho de autoridade.”\n(Guimarães Rosa)",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "“Dilatam-se os horizontes. O firmamento, sem o azul\ncarregado dos desertos, alteia-se, mais profundo, ante\no expandir revivescente da terra. E o sertão é um vale\nfértil. É um pomar vastíssimo, sem dono.” (Euclides da\nCunha)\n(José de Alencar, O sertanejo. São Paulo: Ática, 1995, p.15; Machado de Assis,\nObra completa. Rio de Janeiro: Nova Aguilar, v. 3, p. 765; Euclides da Cunha,\nOs sertões. São Paulo: Ateliê, 2001, p. 135; João Guimarães Rosa, Grande\nsertão: veredas. Rio de Janeiro: José Olympio, 1956, p. 8.)",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

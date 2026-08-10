@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q32",
+    "edital": "unicamp",
+    "numero": 32,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "No início do expediente do dia 16 de março de 2020, uma\nfarmácia colocou à disposição dos clientes um frasco\ncilíndrico de 500 ml (500 𝑐𝑚ଷ) de álcool em gel para\nhigienização das mãos. No final do expediente, a coluna de\nálcool havia baixado 5 cm. Sabendo que a base do cilindro\ntem diâmetro de 6 cm e admitindo o mesmo consumo de\nálcool em gel nos dias seguintes, calcula-se que o frasco\nficou vazio no dia",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "17 de março.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "18 de março.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "19 de março.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "20 de março.\nNas questões de 33 a 40, sempre que necessário, use\n3 e g  10 m/s 2 ",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

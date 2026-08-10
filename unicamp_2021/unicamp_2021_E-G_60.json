@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q60",
+    "edital": "unicamp",
+    "numero": 60,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A casa de morar nas fazendas ou o palacete foram em\ngeral construídos a partir de 1870. Representavam o\npoderio econômico e político do proprietário, assim como o\ngênero da pintura de paisagem que, segundo o historiador\nRafael Marquese, foi mobilizado pela classe senhorial do\nVale do Paraíba como uma resposta direta à crise da\nescravidão negra no Império do Brasil.\n(Adaptado de Ana Luiza Martins, “Representações da economia cafeeira: dos barões\naos ‘Reis do café’, em Wilma Peres Costa e Ana Betraiz Demarchi Barel (orgs.),\nCultura e Poder entre o Império e a República. São Paulo: Alameda, 2018, p. 195.)\nA partir do texto acima, é correto afirmar:",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Os senhores do café incrementaram um sistema de\nprodução cafeeiro moderno que atendia o mercado\ninternacional. Desde a instalação da corte joanina no\nBrasil, eles investiram nas formas de morar como\ncapital simbólico.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Na crise capitalista da década de 1870, os produtores\nde café no Brasil alavancaram o tráfico de\nescravizados vindos de África e investiram na riqueza\nsimbólica de suas propriedades.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "No Segundo Reinado, com a intensa crise na obtenção\nde escravizados para as plantações de café e a\nacirrada disputa na definição das políticas migratórias,\nos cafeicultores redefiniram seu capital simbólico.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "O investimento nas casas de fazenda e na pintura de\npaisagem reafirmava a importância social da classe\nsenhorial. Era uma reação política contra a reforma\nagrária estabelecida na Lei de Terras de 1850.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

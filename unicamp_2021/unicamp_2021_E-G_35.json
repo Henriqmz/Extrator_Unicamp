@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q35",
+    "edital": "unicamp",
+    "numero": 35,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A força normal aplicada pela agulha de um toca-discos \nsobre o disco tem módulo igual a N  2,0 10   2 N. A\nárea de contato entre a agulha e o disco é igual a\n1,6 10   3 mm . Qual é a pressão exercida pela agulha 2\nsobre o disco?\n\nDado: 1,0 atm  1,0 10 N/m .  5\n2",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "1,25 10   4 atm.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "3,20 10   3 atm.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "3,20 10 atm.  1",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "1,25 10 atm.  2",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

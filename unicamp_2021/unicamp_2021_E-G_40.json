@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q40",
+    "edital": "unicamp",
+    "numero": 40,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Um dos fatores que determinam a capacidade de\narmazenamento de dados nos discos laser é o\ncomprimento de onda do laser usado para gravação e\nleitura (ver figura abaixo). Isto porque o diâmetro d do\nfeixe laser no ponto de leitura no disco é diretamente\nproporcional ao comprimento de onda, . No caso do Blu-\nRay, usa-se um comprimento de onda na faixa azul (daí o\nnome, em inglês), que é menor que o do CD e o do DVD.\nAs lentes usadas no leitor de Blu-Ray são tais que vale a\nrelação d  1,2  .\nBR\n BR\n\n\n![figura](./imgs/unicamp_2021_E-G_q40_img_1.webp)\n\nA partir das informações da figura, conclui-se que a\nfrequência do laser usado no leitor Blu-Ray é",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q40_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "3,2  10 14 Hz.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "5,2  10 14 Hz.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "6,2  10 14 Hz.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "7,5  10 14 Hz.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

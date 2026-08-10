@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q11",
+    "edital": "unicamp",
+    "numero": 11,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Assinale a alternativa que identifica corretamente recursos\nlinguísticos explorados pelo autor nessa crônica.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Uso de verbos no imperativo, linguagem informal, texto\nimpessoal.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Marcas de coloquialidade, uso de primeira pessoa,\nlinguagem objetiva.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Marcas de oralidade, uso expressivo de recursos\nortográficos, subjetividade do autor.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "Uso de variação linguística, linguagem neutra, apelo\nao tom coloquial.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

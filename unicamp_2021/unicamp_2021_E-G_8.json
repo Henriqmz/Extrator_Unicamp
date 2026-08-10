@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q8",
+    "edital": "unicamp",
+    "numero": 8,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Entre os versos de Gilberto Gil transcritos a seguir,\npodemos identificar uma relação paradoxal em:",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "“Sou viramundo virado / pelo mundo do sertão.”",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "“Louvo a luta repetida / da vida pra não morrer.”",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "“De dia, Diadorim, / de noite, estrela sem fim.”",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "“Toda saudade é presença / da ausência de alguém.”",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

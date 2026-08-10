@@ -1,0 +1,53 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q23",
+    "edital": "unicamp",
+    "numero": 23,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Sejam 𝑝ሺ𝑥ሻ e 𝑞ሺ𝑥ሻ polinômios de grau 2 tais que 𝑝ሺ0ሻ൏\n𝑞ሺ0ሻ. Sabendo que 𝑝ሺ1ሻൌ𝑞ሺ1ሻ e 𝑝ሺെ1ሻൌ𝑞ሺെ1ሻ, o gráfico\nde 𝑓ሺ𝑥ሻൌ𝑝ሺ𝑥ሻെ𝑞ሺ𝑥ሻ pode ser representado por",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "![figura](./imgs/unicamp_2021_E-G_q23_img_1.webp)",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q23_img_1.webp"
+      ],
+      "correta": true
+    },
+    "b": {
+      "texto": "![figura](./imgs/unicamp_2021_E-G_q23_img_2.webp)",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q23_img_2.webp"
+      ],
+      "correta": false
+    },
+    "c": {
+      "texto": "![figura](./imgs/unicamp_2021_E-G_q23_img_3.webp)",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q23_img_3.webp"
+      ],
+      "correta": false
+    },
+    "d": {
+      "texto": "O texto abaixo será utilizado nas questões 24 e 25.\nO projeto PRODES – Monitoramento do desmatamento\ndas formações florestais na Amazônia Legal -, do INPE\n(Instituto Nacional de Pesquisas Espaciais), monitora as\náreas desmatadas da Amazônia legal e mantém um\nregistro da área desmatada por ano. Um levantamento\nsobre esses dados a partir de 2016 mostrou que em 2019\nhouve um acréscimo de 35% da área desmatada em\nrelação a 2018, de 45% em relação a 2017 e de 28% em\nrelação a 2016.\n(Fonte: http://terrabrasilis.dpi.inpe.br. Acessado em 12/12/2020.)\n\n![figura](./imgs/unicamp_2021_E-G_q23_img_4.webp)\n\n",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q23_img_4.webp"
+      ],
+      "correta": false
+    },
+    "e": null
+  }
+}

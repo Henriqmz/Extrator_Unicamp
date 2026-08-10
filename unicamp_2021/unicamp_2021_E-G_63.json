@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q63",
+    "edital": "unicamp",
+    "numero": 63,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "As feridas da discriminação racial se exibem ao mais\nsuperficial olhar sobre a realidade social do país. Até 1950,\na discriminação em empregos era uma prática corrente,\nsancionada pelas práticas sociais do país. Em geral, os\nanúncios de vagas de trabalho eram publicados com a\nexplícita advertência: “não se aceitam pessoas de cor.”\nMesmo após a Lei Afonso Arinos, de 1951, proibindo\ncategoricamente a discriminação racial, tudo continuou na\nmesma. Depois da lei, os anúncios se tornaram mais\nsofisticados que antes, e passaram a requerer: “pessoas\nde boa aparência”. Basta substituir “pessoas de boa\naparência” por “branco” para se obter a verdadeira\nsignificação do eufemismo.\n(Adaptado de Abdias do Nascimento, O genocídio do negro brasileiro: processo\nde um racismo mascarado. São Paulo: Perspectiva, 2018, p. 97.)\nA partir do excerto, é correto afirmar:",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Apesar da Lei Afonso Arinos de 1951, o racismo que\nexistia há muitos anos no mercado de trabalho\nbrasileiro permaneceu por meio de estratégias\ncamufladas.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "A Lei Afonso Arinos de 1951 possibilitou a eliminação\ndo racismo no mercado de trabalho do mundo da\nmoda, que exigia a boa aparência das pessoas\nbrancas.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Em 1951, o conceito de “pessoas de boa aparência”,\nditado pelo mundo da moda e reproduzido nos\nanúncios de vagas de trabalho, privilegiava o asseio no\nvestir.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "O racismo foi eliminado das relações sociais brasileiras\nsomente na década de 1990, com a consolidação do\nconjunto de leis da democracia racial.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

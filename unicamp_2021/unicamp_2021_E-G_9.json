@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q9",
+    "edital": "unicamp",
+    "numero": 9,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A Equipe AzMina fez um experimento buscando no Google\n“frases para o Dia das Mães”. E o resultado foi um festival\nde frases que romantizam a maternidade. Ativaram, então,\n“sua caneta desromantizadora” para “corrigir” essas frases\nque estamos tão acostumados a ouvir, e muitas vezes\nreproduzir.\n\n\n![figura](./imgs/unicamp_2021_E-G_q9_img_1.webp)\n\n(Adaptado de Equipe AzMina, Caneta desromantizadora de mensagens de dia\ndas mães. Disponível em https://azmina.com.br/reportagens/caneta-desroman\ntizadora-de-mensagens-de-dia-das-maes/. Acessado em 09/05/2020.)\nAs frases são “desromantizadas” porque a Equipe AzMina\nreconhece",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q9_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "o sofrimento como condição para a vocação materna e\npara a realização feminina .",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "o amor materno como herança familiar, mesmo\nquando ele é remunerado.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "a sobrecarga das mães na criação dos filhos,\nconsiderando também outras formas de maternidade.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "a maternidade como sendo difícil, trabalhosa e, ainda\nassim, heroica e instintiva.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

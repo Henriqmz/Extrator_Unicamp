@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q56",
+    "edital": "unicamp",
+    "numero": 56,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Os recifes de coral constituem importantes ecossistemas\ndo planeta, oferecendo abrigo, áreas de desova e proteção\ncontra predadores, e são o habitat de organismos na base\ndas cadeias alimentares oceânicas.\nConsiderando os conhecimentos de biologia, é correto\nafirmar que os corais",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "com organização corporal polipoide são animais fixos\nao substrato, com reprodução sexuada, e os com\norganização medusoide correspondem aos animais\nmóveis, com reprodução assexuada.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "têm vários tentáculos junto à boca, compostos por\ncnidoblastos, os quais são células dotadas de flagelos\nque auxiliam na movimentação da água para favorecer\na filtração do alimento e trocas gasosas.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "são animais triblásticos, pois em sua fase embrionária\ndistinguem-se três folhetos embrionários (endoderme,\nmesoderme e ectoderme), com ausência do celoma e\npresença de disco basal.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "têm duas superfícies epiteliais, a epiderme, que\nreveste externamente o animal, e a gastroderme, que\ndelimita a cavidade gastrovascular; entre elas,\nencontram-se células pertencentes à mesogleia.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q44",
+    "edital": "unicamp",
+    "numero": 44,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Em 2020, o Brasil foi impactado com a notícia de que\nmuitas pessoas haviam se contaminado ao ingerir cerveja.\nComo se apurou mais tarde, a bebida havia sido\ncontaminada por dietilenoglicol. O fabricante argumentou\nque havia comprado monoetilenoglicol, e que o\ndietilenoglicol chegou ao produto por contaminação ou por\nengano. A respeito desse episódio, pode-se afirmar que, se\no dietilenoglicol, que estava dissolvido em água, fosse\nutilizado no sistema de",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "resfriamento na linha de produção de cerveja, esse\nmaterial poderia ser substituído por etanol, mas não\npor sal de cozinha.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "aquecimento na linha de produção de cerveja, esse\nmaterial poderia ser substituído por etanol.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "resfriamento na linha de produção de cerveja, esse\nmaterial poderia ser substituído por sal de cozinha.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "aquecimento na linha de produção de cerveja, esse\nmaterial poderia ser substituído por etanol, mas não\npor sal de cozinha.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

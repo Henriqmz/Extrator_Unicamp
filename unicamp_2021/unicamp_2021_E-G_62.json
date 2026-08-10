@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q62",
+    "edital": "unicamp",
+    "numero": 62,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "No plano da imaginação, os asiáticos, fossem chineses ou\njaponeses, \ngeravam \nassociações \ncontraditórias:\nimpassíveis, teimosos, irredutíveis no preço que fixavam\nnas feiras livres ou em suas casas comerciais, rompendo\ncom o estilo de barganhas e pechinchas incorporado ao dia\na dia dos portugueses, sírios, libaneses, judeus, espanhóis.\nAo mesmo tempo, eram associados às imagens de\ndelicadeza, de gueixa e cerejeiras em flor, que as\nestampas dos calendários, os cartazes de certas peças de\nteatro e das óperas encarregavam de divulgar.\n(Adaptado de Boris Fausto, O Crime do Restaurante Chinês: carnaval, futebol e\njustiça na São Paulo dos anos 30. São Paulo: Companhia das Letras, 2009:\nposição 220 edição Kindle.)\nO texto do historiador Boris Fausto traz informações sobre\nSão Paulo dos anos 1930. A partir do fragmento, assinale a\nalternativa correta.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A história do Brasil registra a convivência de imigrantes\neuropeus e asiáticos, marcada por dinâmicas de\nassimilação e preconceito.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "Imigrantes europeus gozaram da mesma posição\nsocial que a população negra e ambos os grupos se\nadaptaram bem à vida urbana.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "As atividades da greve de 1917 unificaram os\ninteresses de imigrantes asiáticos e europeus no\ncampo e na cidade.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Imigrantes asiáticos e europeus compuseram, junto\ncom a população negra, o novo cenário cultural da\ndemocracia racial da Era Vargas.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

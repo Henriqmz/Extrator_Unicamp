@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q65",
+    "edital": "unicamp",
+    "numero": 65,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "![figura](./imgs/unicamp_2021_E-G_q65_img_1.webp)\n\nMaiores importadores de produtos agrícolas\n(em % do valor total mundial)\n50\nAno de 2016\n40\n30\n20\n10\n0\nMaiores exportadores de produtos agrícolas\n(em % do valor total mundial)\n50\nAno de 2016\n40\n30\n20\n10\n0\n(The state of agricultural commodity markets. Agricultural trade, climate change and foot\nsecurity. Roma: FAO, 2018. Disponível em http://www.fao.org/3/I954 2EN/i9542en.pdf.)\nMuitos autores anunciam o fim da globalização econômica\ne indicam que parte do comércio global de mercadorias\npode estar com seus dias contados depois da pandemia da\nCovid19. Contudo, o comércio internacional de\nmercadorias, especialmente agrícolas, é ainda hoje\nrelevante para o abastecimento de muitos mercados\nnacionais.\nCom base nos gráficos acima e em seus conhecimentos,\nassinale a alternativa correta.\n\n![figura](./imgs/unicamp_2021_E-G_q65_img_1.webp)\n\n",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q65_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A União Europeia não depende do mercado mundial\nde mercadorias, porque o valor total de suas\nexportações é aproximadamente igual ao valor total de\nsuas importações.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A economia brasileira não tem nas commodities\nagrícolas importante ponto de sua pauta de\nexportação, porque 5,7% das exportações mundiais\nrepresentam uma cifra muito pequena.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A economia chinesa é, em grande parte, dependente\ndas importações de commodities agrícolas, sendo o\nBrasil importante parceiro comercial de suas\nimportações.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "Apesar de sua extensão territorial relativamente\npequena, o Japão é um dos maiores produtores de\ncommodities agrícolas, destacando-se a produção\nvoltada para o mercado latino-americano.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

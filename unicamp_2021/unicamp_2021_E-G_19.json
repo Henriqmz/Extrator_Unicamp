@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q19",
+    "edital": "unicamp",
+    "numero": 19,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Reproduz-se abaixo uma carta do poeta inglês John Keats\na sua amada Fanny Brawne.\nSweetest Fanny,\nWhen you passed my window home yesterday, I was filled\nwith as much admiration as if I had then seen you for the\nfirst time. You uttered a half complaint once that I only\nloved your Beauty. Have I nothing else then to love in you\nbut that? Do not I see your heart? Nothing has been able to\nturn your thoughts a moment from me. Even if you did not\nlove me I could not help an entire devotion to you: how\nmuch more deeply then must I feel for you knowing you\nlove me. My Mind has been the most discontented and\nrestless one that ever was put into a body too small for it. I\nnever felt my Mind repose upon anything with complete and\nundistracted enjoyment – upon no person but you. When\nyou are in the room my thoughts never fly out of window:\nyou always concentrate my whole senses.\nYour affectionate,\nJ. Keats\n(Adaptado de http://www.john-keats.com/briefe/. Acessado em 25/08/20.)\nO autor da carta",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "lamenta o fato de que a mulher que ele adora não o\nama da mesma forma.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "revela que o amor por essa mulher lhe trouxe\nintranquilidade e pensamentos negativos.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "mostra sua admiração por uma mulher que, para ele,\nencarna a beleza em sua essência.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "afirma que seus sentimentos pela mulher não\nmudariam mesmo se não fosse correspondido.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q33",
+    "edital": "unicamp",
+    "numero": 33,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Ao passar pelo sensor magnético, a velocidade linear de\num ponto de uma fita cassete é v  0,045 m/s. Depois de\npassar pelo sensor, a fita é enrolada em uma bobina\ncircular de diâmetro  d  6,0 cm. Em quanto tempo a\nbobina completa uma volta?",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "0,65 s.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "1,3 s.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "4,0 s.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "0,27 s.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

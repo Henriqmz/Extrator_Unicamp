@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q48",
+    "edital": "unicamp",
+    "numero": 48,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Um estudo científico desenvolveu um novo concreto\necológico capaz de alcançar uma emissão de CO2 a um\nnível abaixo de zero. Esse material é composto de uma\nmistura especial à base de um silicato duplo de cálcio, em\nvez de cimento. Além de sua produção apresentar baixa\nemissão de CO2, o endurecimento do concreto ocorre pela\nabsorção de CO2. Esse processo de endurecimento,\napesar de lento quando realizado na atmosfera, pode ser\nacelerado ao se capturar o gás numa usina térmica de\nenergia, por exemplo. Também observou-se que a\nabsorção de NOx e SOx pode diminuir a absorção de CO2.\n\n\n![figura](./imgs/unicamp_2021_E-G_q48_img_1.webp)\n\n(Adaptado de I. Yoshioka e outros. Energy Procedia 37, 2013, 6018-6025.)\nDe acordo com o estudo, comparando-se o balanço final\nde CO2 entre o concreto comum e o novo concreto\necológico, após o processo de cura haveria uma diferença\nno CO2 de cerca de",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q48_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "452 kg por metro cúbico de concreto. Testes com NOx\ne SOx foram realizados, pois esses gases podem\ncompor o gás utilizado na produção do cimento.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "452 kg por metro cúbico de concreto. Testes com NOx\ne SOx foram realizados, pois esses gases podem\ncompor o gás utilizado no processo de endurecimento.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "257 kg por metro cúbico de concreto. Testes com NOx\ne SOx foram realizados, pois esses gases podem\ncompor o gás utilizado no processo de endurecimento.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "257 kg por metro cúbico de concreto. Testes com NOx\ne SOx foram realizados, pois esses gases podem\ncompor o gás utilizado na produção do cimento.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

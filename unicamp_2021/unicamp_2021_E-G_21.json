@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q21",
+    "edital": "unicamp",
+    "numero": 21,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "O \nnúmero \nde \nanagramas \nda \npalavra\nREFLORESTAMENTO que começam com a sequência\nFLORES é",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "9!.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "9!/2!.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "9!/ሺ2! 2!ሻ.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "9!/ሺ2! 2! 2!ሻ.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q4",
+    "edital": "unicamp",
+    "numero": 4,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "No conto “O espelho”, de Machado de Assis, uma\npersonagem assume a palavra e narra uma história.\nAssinale a alternativa que explicita sua interlocução com os\ncavalheiros presentes.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "“Lembra-me de alguns rapazes que se davam comigo,\ne passaram a olhar-me de revés, durante algum\ntempo.”",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "“Ah! pérfidos! Mal podia eu suspeitar a intenção\nsecreta dos malvados.”",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "“Imaginai um homem que, pouco a pouco, emerge de\num letargo, abre os olhos sem ver, depois começa a\nver.”",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "“O espelho estava naturalmente muito velho; mas via-\nse-lhe ainda o ouro, comido em parte pelo tempo.”\n(Machado de Assis, O espelho. Campinas: Editora da Unicamp, 2019.)",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

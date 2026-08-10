@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q67",
+    "edital": "unicamp",
+    "numero": 67,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Em nosso planeta em rápida urbanização, a vida cotidiana\nda crescente população de urbanoides é cada vez mais\nsustentada por sistemas vastos e incrivelmente complexos\nde infraestrutura e tecnologia. Ainda que muitas vezes\npassem despercebidos – pelo menos quando funcionam –,\nesses sistemas permitem que a vida urbana moderna\nexista. Seus encanamentos, dutos, servidores, fios e túneis\nsustentam os fluxos, as conexões e os metabolismos que\nsão intrínsecos às cidades contemporâneas.\n(Adaptado de Stephen Graham, Cidades sitiadas. O novo urbanismo militar. São\nPaulo: Editora Boitempo, 2016, p. 345.)\nDepreende-se do texto que",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "a vida na cidade é composta por um conjunto de\nindividualidades autossuficientes, sem a necessidade\nde interconexões e solidariedades.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "as cidades contemporâneas são dependentes de\nsistemas técnicos infraestruturais, mas cada vez\nmenos dependentes do trabalho técnico e social.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "os bastidores infraestruturais e sociais da vida urbana\ncotidiana, em geral ocultos, tornam-se claros e\npalpáveis em momentos de interrupções sistêmicas.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "a dependência das infraestruturas em rede existe\napenas em cidades modernas e tecnologicamente\navançadas, as chamadas cidades hight-tech.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

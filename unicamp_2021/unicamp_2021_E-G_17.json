@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q17",
+    "edital": "unicamp",
+    "numero": 17,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "All aboard the flat earth cruise – just don’t tell them\nabout nautical navigation\nA group of people who believe the Earth is flat have\nannounced their “boldest adventure yet”: a Flat Earth cruise\nscheduled for 2020. Flat earthers will enjoy swimming pools\nand perhaps even an artificial surf wave. There’s just one\nproblem for those celebrating the flatness of the Earth. The\nnavigational systems cruise ships, and other vessels, use\nrely on the fact that the Earth is not flat. “Nautical charts are\ndesigned with that in mind: that the Earth is round. GPS\nrelies on 24 main satellites which orbit the Earth to provide\npositional and navigational information. The reason why 24\nsatellites were used is because of the curvature of the\nEarth,” said Henk Keijer, a former cruise ship captain who\nsailed all over the globe during a 23-year career. “At least\nthree satellites are required to determine a position. But\nsomeone located on the other side of the Earth would also\nlike to know their position, so they also require a certain\nnumber of satellites. Had the Earth been flat, a total of three\nsatellites would have been enough to provide this\ninformation to everyone on Earth. But it is not enough,\nbecause the Earth is round.”\n(Adaptado de https://www.theguardian.com/science/2019/jan/09/flat-earth-cruise-\nnautical-navigation. Acessado em 20/08/2020.)\nA respeito do fato noticiado, o autor do texto ressalta",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "uma contradição.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "uma confirmação.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "um equívoco da ciência.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "uma inversão de valores.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

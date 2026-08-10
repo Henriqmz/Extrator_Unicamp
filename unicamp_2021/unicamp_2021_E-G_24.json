@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q24",
+    "edital": "unicamp",
+    "numero": 24,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Sabendo que a soma das áreas desmatadas nos anos de\n2017, 2018 e 2019 foi de 24.600 km2, a área desmatada no\nano de 2019 está entre",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "8.601 kmଶ e 9.200 kmଶ.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "9.201 kmଶ e 9.800 kmଶ.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "8.801 kmଶ e 10.400 kmଶ.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "10.401 kmଶ e 11.200 kmଶ.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

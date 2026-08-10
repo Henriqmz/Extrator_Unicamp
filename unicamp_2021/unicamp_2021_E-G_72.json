@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q72",
+    "edital": "unicamp",
+    "numero": 72,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Como a maior parte dos franceses, Hamza Esmili,\nprofessor de sociologia em uma Universidade parisiense,\ntem doravante muito tempo para olhar por sua janela.\nHabitando em Seine-Saint-Denis, periferia de Paris, ele\nobserva a atividade da rua abaixo: o movimento de\npessoas é grande e não se respeitam as medidas de\nconfinamento geral impostas pelo governo para combater a\npandemia da Covid19. “Há menos gente que\nhabitualmente, mas a rua permanece muito movimentada”,\nconstata Esmili. “O confinamento é um conceito burguês,\nexplica o sociólogo. Ele implica possuir uma casa burguesa\nna qual se retirar. Isso não corresponde de forma alguma à\nrealidade daqui.”\n(Adaptado de https://www.courrierinternational.com/article/vu-dallemagne-les-banlieue\ns-francaises-grandes-oubliees-du-confinement. Acessado em 02/04/2020.)\nSobre a “casa burguesa” referida no texto, podemos\nconcluir que",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "se trata de um conceito e de uma situação aplicados\napenas à França.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "o conceito de burguesia aplica-se apenas às classes\nsociais e não às habitações.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "as habitações burguesas normalmente localizam-se\nnas periferias e não são sinal de prestígio.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "a habitação é uma das expressões de poder entre as\nclasses sociais.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

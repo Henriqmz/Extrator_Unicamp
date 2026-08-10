@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q59",
+    "edital": "unicamp",
+    "numero": 59,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Seguindo a trajetória das ativistas, vemos que lutaram ao\nlado dos homens no movimento popular urbano e\nparticiparam de várias jornadas populares, como as de 9\nde abril, 20 de junho e 10 de agosto de 1792, as quais\nresultaram na queda da monarquia. Abraçaram a\nRevolução, queriam armar-se para defender a nação dos\ninimigos internos, e tomaram parte nas festas cívicas.\nAlgumas se alistaram no exército e foram lutar nas\nfronteiras. No caso das Republicanas Revolucionárias,\ndurante certo tempo contaram com o apoio dos deputados\nda Montanha e os ajudaram a derrubar os Girondinos.\nNessa ocasião, mereceram elogios públicos. Depois se\naliaram aos radicais e fizeram oposição aos Montanheses.\nAs militantes adquiriram uma visibilidade nunca imaginada\npara mulheres do povo, despertando o interesse e a\ninquietação de integrantes do governo acerca da questão\ndos direitos civis e políticos femininos. Sua presença na\ncena política foi tolerada e até incentivada no início da\nRevolução Francesa, porém reprimida em outubro de\n1793, e depois de forma definitiva em 1795.\n(Adaptado de Tania Machado Morin, Virtuosas e perigosas: as mulheres na\nRevolução Francesa. São Paulo: Alameda, 2013, p. 4-6.)\nCom base no excerto e em seus conhecimentos sobre a\nRevolução Francesa, assinale a alternativa correta.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A Revolução Francesa não garantiu o direito de voto\nàs mulheres, mas a participação delas no movimento\nfez com que sua exclusão da vida pública ganhasse\nvisibilidade e fosse debatida.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "Os ideais de igualdade, liberdade e fraternidade da\nRevolução consolidaram os direitos civis e políticos\ndas mulheres, igualando-os aos direitos dos homens\nde forma inédita na história da França e da Europa.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Os revolucionários consideravam que as tarefas\ndesempenhadas pelas mulheres na Revolução eram\nirrelevantes e restritas às atividades domésticas, por\nisso elas não conquistaram os mesmos direitos civis\nque os homens.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "A Revolução Francesa aboliu a desigualdade de\ngênero em todos os âmbitos da vida pública por meio\nda Declaração Universal dos Direitos Humanos, que\nestabelecia a igualdade e a cidadania.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q28",
+    "edital": "unicamp",
+    "numero": 28,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A figura abaixo exibe um quadrado 𝐴𝐵𝐶𝐷 em que 𝑀 é o\nponto médio do lado 𝐶𝐷.\n\n\n![figura](./imgs/unicamp_2021_E-G_q28_img_1.webp)\n\nCom base na figura, tgሺθሻ൅tgሺαሻ é igual a",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q28_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "7.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "6.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "5.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "4.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

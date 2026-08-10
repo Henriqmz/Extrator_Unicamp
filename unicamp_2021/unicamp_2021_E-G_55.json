@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q55",
+    "edital": "unicamp",
+    "numero": 55,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A caça, que passou a ser proibida no país a partir de 1967,\nreduziu a população de várias espécies de animais e\ncontribuiu para o risco de desequilíbrio ambiental. Entre\n1904 e 1969, estima-se que foram mortos pelo menos 20\nmilhões de animais silvestres nos Estados de Rondônia,\nAcre, Roraima e Amazonas. A caça ilegal de animais\nsilvestres e a falta de fiscalização efetiva em áreas de\nproteção ambiental alertam para a necessidade de\nconservação das espécies.\n(Adaptado de A. Julião e R. Zorzetto. Pesquisa Fapesp, São Paulo, v. 249, p.\n46-51, nov. 2016.)\nA figura a seguir indica o número total de animais terrestres\nmortos no período de 1904 a 1969.\n\n\n![figura](./imgs/unicamp_2021_E-G_q55_img_1.webp)\n\n(Adaptado de A. P. Antunes e outros. Science Advances, Washington, v. 2, p. 1-\n14, out. 2016.)\nConsiderando os conhecimentos sobre biologia e as\ninformações fornecidas, é possível concluir que",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q55_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "o impacto da caça dos mamíferos carnívoros na teia\nalimentar é menor que o da caça dos mamíferos\nherbívoros.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "a função ecológica dos grandes mamíferos caçados é\nsubstituída pela de animais endêmicos de pequeno\nporte, mantendo-se o equilíbrio do ecossistema.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "a caça proporcional dos mamíferos herbívoros e\ncarnívoros mantém o fluxo de energia estável na teia\nalimentar.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "a caça dos grandes mamíferos altera a renovação da\nfloresta, pois eles desempenham um papel\nfundamental na dispersão de sementes grandes.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q26",
+    "edital": "unicamp",
+    "numero": 26,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Se 𝑓ሺ𝑥ሻൌlogଵ଴ሺ𝑥ሻ e 𝑥൐0, então 𝑓ሺ1/𝑥ሻ൅𝑓ሺ100𝑥ሻ é igual a",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "1.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "2.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "3.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "4.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

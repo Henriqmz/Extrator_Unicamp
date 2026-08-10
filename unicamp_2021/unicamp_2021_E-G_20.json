@@ -1,0 +1,53 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q20",
+    "edital": "unicamp",
+    "numero": 20,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Equity is about giving people what they need, in order to\nmake things fair. This is not the same as equality, social\njustice, nor is it the same as inequality. It is giving more to\nthose who need it, which is proportionate to their own\ncircumstances, in order to ensure that everyone has the\nsame opportunities; for example providing more support to\na disadvantaged student so they can reach their full\npotential.\n(Adaptado de https://social-change.co.uk/blog/2019-03-29-equality-and-equity; https://cx.report/2020/06/02/equity/. Acessado em 22/07/2020.)\nSabemos que esses conceitos são complexos. Diante\ndisso, o designer Tony Ruth os representou graficamente,\ncomo ilustram as figuras a seguir. Assinale a alternativa\nque mais se aproxima do conceito destacado no trecho\nanterior.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "![figura](./imgs/unicamp_2021_E-G_q20_img_1.webp)",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q20_img_1.webp"
+      ],
+      "correta": false
+    },
+    "b": {
+      "texto": "![figura](./imgs/unicamp_2021_E-G_q20_img_2.webp)",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q20_img_2.webp"
+      ],
+      "correta": false
+    },
+    "c": {
+      "texto": "![figura](./imgs/unicamp_2021_E-G_q20_img_3.webp)",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q20_img_3.webp"
+      ],
+      "correta": true
+    },
+    "d": {
+      "texto": "![figura](./imgs/unicamp_2021_E-G_q20_img_4.webp)",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q20_img_4.webp"
+      ],
+      "correta": false
+    },
+    "e": null
+  }
+}

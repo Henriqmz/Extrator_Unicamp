@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q47",
+    "edital": "unicamp",
+    "numero": 47,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "“Hospital Municipal de Juruti (PA) recebe mais de 70\ncilindros de oxigênio para tratar pacientes com Covid-19”\n(site G1, 01/06/2020). A oxigenoterapia é indicada para\ntodos os pacientes graves, inicialmente variando de 5 a\n10 L de O2/min. Para uma vazão constante e máxima na\nfaixa considerada, o cilindro de cada paciente deverá,\nnecessariamente, ser trocado após aproximadamente",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "17 horas de uso, sendo o volume de gás restante no\ncilindro igual a 50 L e a pressão 1 atm.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "33 horas de uso, sendo o volume de gás restante no\ncilindro igual a 50 L e a pressão 0 atm.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "33 horas de uso, sendo o volume de gás restante no\ncilindro igual a 0 L e a pressão 0 atm.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "17 horas de uso, sendo o volume de gás restante no\ncilindro igual a 0 L e a pressão 1 atm.\nDados: volume interno do cilindro = 50 L; volume\naproximado do gás a 1 atm de pressão em cada cilindro =\n10 m3; pressão inicial no cilindro = ~200 atm.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

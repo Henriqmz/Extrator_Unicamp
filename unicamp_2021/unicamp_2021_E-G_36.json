@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q36",
+    "edital": "unicamp",
+    "numero": 36,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A força de atrito cinético entre a agulha e um disco de vinil \ntem módulo F  8,0 10   3 N . Sendo o módulo da força\n\nat\nnormal N  2,0 10   2 N , o coeficiente de atrito cinético,\nc , entre a agulha e o disco é igual a",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "1,6 10 .   5",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "5,0 10 .   2",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "4,0 10 .   1",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "2,5 10 .  0",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

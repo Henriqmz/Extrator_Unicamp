@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q66",
+    "edital": "unicamp",
+    "numero": 66,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Concentração de Renda.\nParticipação do 1% mais rico na renda total do\npaís e do mundo (em %)\n1º Qatar\n29,0\n2º Brasil\n28,3\n3º Chile\n23,7\n4º Líbano\n23,4\n5º Emirados Árabes\n23,1\n6º Iraque\n22,0\n7º. Turquia\n21,5\n8º Índia\n21,3\n9º. Rússia\n20,2\n10º Kwait\n19,9\nMundo\n20,6\nDados do World Inequality Database, atualizados de 2015. Acessado em 10/04/2019.\n(Disponível em https://temas.folha.uol.com.br/desigualdade-global/brasil/super-ricos-\nno-brasil-lideram-concentracao-de-renda-global.shtml).\nO gráfico anterior apresenta a concentração de renda no\ntopo da pirâmide social. No Brasil, o 1% de super-ricos\n(aproximadamente 1,4 milhão de adultos) captura 28,3%\ndos rendimentos brutos totais do país, e recebe\nindividualmente, em média, R$ 106,3 mil por mês pelo\nconjunto de todas suas rendas (dados de 2015).\nCom base no gráfico e em seus conhecimentos, assinale a\nalternativa correta.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "O Brasil é o segundo país no ranking e único país\nlatino-americano entre os dez primeiros, fato explicado\npor ter a maior população entre esses dez países.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A concentração da renda indica a capacidade de\ngeração de riqueza em um país e sua distribuição\nentre todas as camadas de renda.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A Índia apresenta alta concentração de renda,\ncontudo, por ter a segunda maior população absoluta\ndo mundo, a renda é bem distribuída.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "A concentração da renda indica que uma pequena\nparcela da população de um país absorve a maior\nparte daquilo que é socialmente produzido.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

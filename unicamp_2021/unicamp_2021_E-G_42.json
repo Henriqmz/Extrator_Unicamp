@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q42",
+    "edital": "unicamp",
+    "numero": 42,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "É comum encontrarmos, nos supermercados, produtos\nsemelhantes em suas finalidades, porém em quantidades,\nconcentrações de ingredientes e preços bem variados.\nImagine três produtos com propriedades desinfetantes,\ncom o mesmo princípio ativo. Os produtos têm as\nseguintes características:\nProduto A: 0,45% (massa/massa) do princípio ativo,\nconteúdo de 1 L, valor R$ 11,90;\nProduto B: 0,17% (massa/massa) do princípio ativo,\nconteúdo de 0,5 L, valor R$ 2,49;\nProduto C: 0,33% (massa/massa) do princípio ativo,\nconteúdo de 2 L, valor R$ 5,19.\nOs produtos que oferecem a melhor relação\ncusto/benefício seriam, em ordem crescente,",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A, B, C.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "C, A, B.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "C, B, A.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "B, C, A.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

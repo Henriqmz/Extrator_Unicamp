@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q5",
+    "edital": "unicamp",
+    "numero": 5,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "“Era Noca, que vinha toda alterada.\n─ Nossa Senhora! Quebrou-se o espelho grande do salão!\n─ Quem foi que o quebrou? Perguntou Nina, para dizer al-\nguma coisa.\n─ Ninguém sabe. Veja só, que desgraça estará para acon-\ntecer! Espelho quebrado: morte ou ruína.\n─ Morte! Se fosse a minha...”\n(Júlia Lopes de Almeida, A Falência. Campinas: Editora da Unicamp, 2018, p.\n257.)\nO diálogo apresenta a reação das personagens femininas\nao incidente doméstico com o objeto de decoração no\npalacete de Botafogo. Assinale a alternativa que justifica a\nfala final de Nina.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A destruição do espelho a leva a desejar a morte, pois\nsugere o alívio para a frustração amorosa.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "A quebra do espelho lhe provoca o temor da morte,\numa vez que antecipa a ruína financeira.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A destruição do espelho traz a certeza da morte, pois\nsinaliza o suicídio do ser amado.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "A quebra do espelho a faz desejar a morte, pois\nsugere a catástrofe amorosa do casamento.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

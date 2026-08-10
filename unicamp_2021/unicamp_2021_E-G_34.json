@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q34",
+    "edital": "unicamp",
+    "numero": 34,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A figura abaixo mostra o braço de um toca-discos de vinil.\nNela são indicadas, nos seus respectivos pontos de \natuação, as seguintes forças: peso do braço ( P ) , peso do\n\nB\ncontrapeso ( P ) e força normal aplicada pelo suporte do\n\nC\nbraço ( N ) . Para que o braço fique em equilíbrio, é\nnecessário que a soma dos torques seja igual a zero. No\ncaso do braço da figura, o módulo do torque de cada força\nem relação ao ponto O (suporte do braço) é igual ao\nproduto do módulo da força pela distância do ponto de\naplicação da força até O . Adote torque positivo para forças\nque tendem a acelerar o braço no sentido horário e torque \nnegativo para o sentido anti-horário. Sendo P  1,5 N ,\n\n\nC\nP  0,3 N e N  1,8 N , qual deve ser a distância D do\nB\ncontrapeso ao ponto O para que o braço fique em\nequilíbrio?\n\n\n![figura](./imgs/unicamp_2021_E-G_q34_img_1.webp)\n\n![figura](./imgs/unicamp_2021_E-G_q34_img_1.webp)\n\n",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q34_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "2,0 cm.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "2,4 cm.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "3,6 cm.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "6,0 cm.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

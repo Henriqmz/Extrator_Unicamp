@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q69",
+    "edital": "unicamp",
+    "numero": 69,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A região denominada Golfo Pérsico abrange, além do\npróprio golfo, os países que se situam inteira ou\nparcialmente no seu litoral, a saber: Kuwait, Bahrein, Qatar,\nEmirados Árabes Unidos e Omã. A Arábia Saudita também\né considerada parte da região, pois, embora a maior parte\nde seu território seja continentalizada e as principais\ncidades se situem no interior ou próximas ao Mar\nVermelho, ela tem mais de 600 quilômetros de litoral\nvoltado para o Golfo, com algumas cidades costeiras (Ad-\nDammam, Al-Jubail) e complexas ligações viárias com\nQatar, Bahrein e Kuwait.\n(L. A. B. Venturi, Água no Oriente Médio: o fluxo da paz. São Paulo: Editora\nSarandi, 2015, p. 93.)\nLitoral é uma faixa de terra emersa, banhada pelo mar, que\npode apresentar diferentes configurações. Para os países\nmencionados no texto, a presença do litoral em formato de\nGolfo é fundamental para o escoamento por via marítima\ndo petróleo, a principal commodity do Oriente Médio.\nAssinale a alternativa que define corretamente “Golfo”.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Reentrância do mar sobre o continente, possuindo\ngrandes dimensões e com uma forma mais aberta para\no mar.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "Parte do continente que avança para o oceano, com\ngrandes extensões e cercada de água por quase todos\nos lados.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Barreira formada no mar e localizada próxima da praia,\npodendo ser formada por rochas, corais e restos de\nanimais marinhos.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Canais que ligam rios com o mar, onde ocorre muita\nsedimentação, com a formação de bancos de areia e a\ndeposição de detritos.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

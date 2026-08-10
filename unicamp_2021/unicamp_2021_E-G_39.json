@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q39",
+    "edital": "unicamp",
+    "numero": 39,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A diferença de potencial elétrico, U , é proporcional à\ncorrente elétrica, i , em um trecho de um circuito elétrico\nresistivo, com constante de proporcionalidade dada pela\nresistência equivalente, R eq, no trecho do circuito. Além\ndisso, no caso de resistores dispostos em série, a\nresistência equivalente é dada pela soma das resistências\n R  R  R  ...  . A corrente elétrica, Bi , no trecho B\neq\n1\n2\ndo circuito abaixo é três vezes maior que a corrente elétrica\nno trecho A , ou seja, i i  3. Quanto vale a resistência\nB A\nR 2 ? \nB\n\n\n\n![figura](./imgs/unicamp_2021_E-G_q39_img_1.webp)\n\n![figura](./imgs/unicamp_2021_E-G_q39_img_1.webp)\n\n",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q39_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "2,0 . ",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "14 . ",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "18 . ",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "66 . ",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

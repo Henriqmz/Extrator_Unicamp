@@ -24,14 +24,16 @@ env/
 # ==========================================
 # Pastas de Teste e Arquivos Temporários
 # ==========================================
-# Ignorar as pastas de saída geradas pelos testes automáticos
+# Ignorar as pastas de saída geradas pelos testes automáticos e execuções em lote
 *_test_*/
+exec_results/
 # Ignorar arquivos temporários e zips locais
 temp.db
 temp.zip
 provas-e-gabaritos-unicamp-2026/
 provas-e-gabaritos-unicamp-2026.zip
 Históricos/
+Provas/provas-e-gabaritos-unicamp-*/
 
 # ==========================================
 # IDEs, Editores e Arquivos de Sistema

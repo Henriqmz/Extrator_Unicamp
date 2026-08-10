@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q46",
+    "edital": "unicamp",
+    "numero": 46,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A remoção de sulfeto de hidrogênio presente em amostras\nde biogás é essencial, já que ele é altamente corrosivo\npara tubulações metálicas. A queima desse H2S também é\nmuito prejudicial ao meio ambiente, pois leva à formação\nde dióxido de enxofre. Um estudo de 2014 sugere que a\nremoção do H2S pode ser realizada pelo uso de esponjas\nde óxido de ferro, que reage com esse gás, mas pode ser\nregenerado. Segundo o estudo, no dispositivo utilizado,\n1,00 kg de óxido de ferro foi capaz de remover entre 0,200\ne 0,716 kg de sulfeto de hidrogênio. Considere que apenas\na reação abaixo equacionada esteja ocorrendo nessa\nremoção.\nFe2O3(s) + 3 H2S(g) → Fe2S3(s) + 3 H2O(l)\nA partir desses dados, pode-se afirmar que, na condição\nde remoção máxima de sulfeto de hidrogênio relatada no\nestudo,",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "restaram cerca de 33% de óxido de ferro para reagir,\ntomando por base a estequiometria da equação\nquímica fornecida.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "restaram cerca de 67% de óxido de ferro para reagir,\ntomando por base a estequiometria da equação\nquímica fornecida.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "foi removida uma quantidade maior de H2S que a\nprevista pela estequiometria da equação química\nfornecida.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "as quantidades reagiram na proporção estequiométrica\nda equação química fornecida.\nMassas molares (g mol-1): Fe = 56, H = 1, O = 16 e S = 32.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q3",
+    "edital": "unicamp",
+    "numero": 3,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Mudam-se os tempos, mudam-se as vontades,\nMuda-se o ser, muda-se a confiança:\nTodo o mundo é composto de mudança,\nTomando sempre novas qualidades.\nContinuamente vemos novidades,\nDiferentes em tudo da esperança:\nDo mal ficam as mágoas na lembrança,\nE do bem (se algum houve) as saudades.\nO tempo cobre o chão de verde manto,\nQue já coberto foi de neve fria,\nE em mim converte em choro o doce canto.\nE afora este mudar-se cada dia,\nOutra mudança faz de mor espanto,\nQue não se muda já como soía*.\n(Luís Vaz de Camões)\n*soía: terceira pessoa do pretérito imperfeito do indicativo\ndo verbo “soer” (costumar, ser de costume).\n(Luís de Camões, 20 sonetos. Campinas: Editora da Unicamp, p.91.)\nIndique a afirmação que se aplica ao soneto escrito por\nCamões.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "O poema retoma o tema renascentista da mudança\ndas coisas, que o poeta sente como motivo de\nesperança e de fé na vida.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A ideia de transformação refere-se às coisas do\nmundo, mas não afeta o estado de espírito do poeta,\nem razão de sua crença amorosa.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Tudo sempre se renova, diferentemente das\nesperanças do poeta, que acolhem suas mágoas e\nsaudades.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "Não apenas o estado de espírito do poeta se altera,\nmas também a experiência que ele tem da própria\nmudança.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

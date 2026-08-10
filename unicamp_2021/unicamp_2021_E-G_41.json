@@ -1,0 +1,63 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q41",
+    "edital": "unicamp",
+    "numero": 41,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "O Brasil ardeu em chamas em 2020. Muitas soluções\nforam propostas, incluindo o uso do “boi bombeiro”, porém\nnem todas eliminam de fato um dos três componentes que\nmantêm o fogo: calor, combustível e comburente. A figura\na seguir representa três ações de bombeiros para extinguir\no fogo.\n\n\n![figura](./imgs/unicamp_2021_E-G_q41_img_1.webp)\n\nNas alternativas a seguir, o componente ausente no\ntriângulo representa o componente eliminado pela ação\ndos bombeiros para a extinção do fogo. Assinale a\nalternativa que apresenta a correlação adequada entre as\nações A, B e C e o componente eliminado do triângulo do\nfogo em cada ação, respectivamente.",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q41_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "![figura](./imgs/unicamp_2021_E-G_q41_img_2.webp)\n\n![figura](./imgs/unicamp_2021_E-G_q41_img_3.webp)\n\n\n\n![figura](./imgs/unicamp_2021_E-G_q41_img_4.webp)\n\n",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q41_img_2.webp",
+        "./imgs/unicamp_2021_E-G_q41_img_3.webp",
+        "./imgs/unicamp_2021_E-G_q41_img_4.webp"
+      ],
+      "correta": false
+    },
+    "b": {
+      "texto": "![figura](./imgs/unicamp_2021_E-G_q41_img_5.webp)\n\n![figura](./imgs/unicamp_2021_E-G_q41_img_6.webp)\n\n\n\n![figura](./imgs/unicamp_2021_E-G_q41_img_7.webp)\n\n",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q41_img_5.webp",
+        "./imgs/unicamp_2021_E-G_q41_img_6.webp",
+        "./imgs/unicamp_2021_E-G_q41_img_7.webp"
+      ],
+      "correta": false
+    },
+    "c": {
+      "texto": "![figura](./imgs/unicamp_2021_E-G_q41_img_8.webp)\n\n![figura](./imgs/unicamp_2021_E-G_q41_img_9.webp)\n\n\n\n![figura](./imgs/unicamp_2021_E-G_q41_img_10.webp)\n\n",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q41_img_8.webp",
+        "./imgs/unicamp_2021_E-G_q41_img_9.webp",
+        "./imgs/unicamp_2021_E-G_q41_img_10.webp"
+      ],
+      "correta": false
+    },
+    "d": {
+      "texto": "![figura](./imgs/unicamp_2021_E-G_q41_img_11.webp)\n\n![figura](./imgs/unicamp_2021_E-G_q41_img_12.webp)\n\n\n\n![figura](./imgs/unicamp_2021_E-G_q41_img_13.webp)\n\n",
+      "url_img": [
+        "./imgs/unicamp_2021_E-G_q41_img_11.webp",
+        "./imgs/unicamp_2021_E-G_q41_img_12.webp",
+        "./imgs/unicamp_2021_E-G_q41_img_13.webp"
+      ],
+      "correta": true
+    },
+    "e": null
+  }
+}

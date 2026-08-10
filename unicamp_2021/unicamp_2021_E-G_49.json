@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q49",
+    "edital": "unicamp",
+    "numero": 49,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A doença de Huntington, que é progressiva e degenerativa\ndo sistema nervoso central, compromete significativamente\na capacidade motora e cognitiva.\nO heredograma a seguir representa o padrão de herança\nentre os indivíduos, sendo os indivíduos doentes\nrepresentados em preto, e os indivíduos não doentes, em\nbranco. Homens são representados pelos quadrados e\nmulheres, pelos círculos.\n\n\n![figura](./imgs/unicamp_2021_E-G_q49_img_1.webp)\n\nConsiderando as informações apresentadas, é correto\nafirmar que a doença de Huntington",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q49_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "é herdada de forma autossômica dominante.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "é herdada de forma autossômica recessiva.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "apresenta herança ligada ao cromossomo X.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "apresenta herança ligada ao cromossomo Y.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

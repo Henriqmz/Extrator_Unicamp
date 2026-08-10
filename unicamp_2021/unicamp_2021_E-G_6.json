@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q6",
+    "edital": "unicamp",
+    "numero": 6,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "“Repartimos a vida em idades, em anos, em meses, em\ndias, em horas, mas todas estas partes são tão duvidosas,\ne tão incertas, que não há idade tão florente, nem saúde\ntão robusta, nem vida tão bem regrada, que tenha um só\nmomento seguro.”\n(Antonio Vieira, “Sermão de Quarta-feira de Cinza – ano de 1673”, em A arte de\nmorrer. São Paulo: Nova Alexandria, 1994, p. 79.)\nNesta passagem de um sermão proferido em 1673,\nAntônio Vieira retomou os argumentos da pregação que\nfizera no ano anterior e acrescentou novas características\nà morte. Para comover os ouvintes, recorreu ao uso de\nanáforas.\nAssinale a alternativa que corresponde ao efeito produzido\npelas repetições no sermão.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A repetição busca sensibilizar os fiéis para o\ndesengano da passagem do tempo.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "A repetição busca demonstrar aos fiéis o temor de uma\nvida longeva.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A repetição busca sensibilizar os fiéis para o valor de\ncada etapa da vida.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "A repetição busca demonstrar aos fiéis a insegurança\nde uma vida cristã.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

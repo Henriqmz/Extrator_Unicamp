@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q31",
+    "edital": "unicamp",
+    "numero": 31,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "No plano cartesiano, considere a reta de equação 𝑥൅2𝑦ൌ\n4, sendo 𝐴, 𝐵 os pontos de interseção dessa reta com os\neixos coordenados. A equação da reta mediatriz do\nsegmento de reta 𝐴𝐵 é dada por",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "2𝑥െ𝑦ൌ3.",
+      "url_img": [],
+      "correta": true
+    },
+    "b": {
+      "texto": "2𝑥െ𝑦ൌ5.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "2𝑥൅𝑦ൌ3.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "2𝑥൅𝑦ൌ5.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

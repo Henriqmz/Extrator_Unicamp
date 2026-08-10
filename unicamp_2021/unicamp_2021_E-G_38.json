@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q38",
+    "edital": "unicamp",
+    "numero": 38,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Um microchip de massa m  2,0 10   6 g é composto\nmajoritariamente de silício. Durante um minuto de\nfuncionamento, o circuito elétrico do dispositivo dissipa, na\nforma térmica, uma quantidade de energia Q  0,96 mJ.\nConsidere que o calor específico do silício é\nc  800 J/kg C o . Caso não houvesse nenhum\nSi\nmecanismo de escoamento de calor para fora do\ndispositivo, em quanto sua temperatura aumentaria após\nesse tempo de funcionamento?",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "4,8 10 C.  1 o",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "1,6 10 C.  2 o",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "6,0 10 C.  2 o",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "1,2 10 C.  3 o",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

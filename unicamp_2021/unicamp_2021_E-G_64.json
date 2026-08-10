@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q64",
+    "edital": "unicamp",
+    "numero": 64,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "![figura](./imgs/unicamp_2021_E-G_q64_img_1.webp)\n\n(Pablo Guimón, Estátuas são o novo alvo do movimento revisionista nos\nEUA. El Pais, 12/06/2020.)\nEstátua de Cristóvão Colombo é derrubada em protestos em Saint\nPaul, Minnesota, Estados Unidos. Policiais armados isolam a\nestátua.\nA partir do registro fotográfico da derrubada da estátua de\nCristóvão Colombo em Saint Paul, Minnesota, Estados\nUnidos, em junho de 2020, e de seus conhecimentos sobre\nas relações entre presente e passado, assinale a\nalternativa correta.\n\n![figura](./imgs/unicamp_2021_E-G_q64_img_1.webp)\n\n",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q64_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "O progresso histórico demonstra que as estátuas do\npassado perdem os seus significados no presente,\njustificando sua derrubada dos espaços públicos.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "As estátuas e os monumentos medeiam formas de\nlembrar o passado e de compreender o presente, e\nseus significados são sempre suscetíveis a disputas\npolíticas e sociais.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "As estátuas e os monumentos testemunham modos de\nviver e conceber o mundo no passado, portanto são\nalheios à ideologia e às disputas políticas.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "As estátuas e os monumentos do passado são\nveículos neutros em termos ideológicos e políticos, por\nisso devem ser preservados e protegidos de\nvandalismo.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

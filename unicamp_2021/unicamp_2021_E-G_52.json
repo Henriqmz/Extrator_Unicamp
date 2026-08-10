@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q52",
+    "edital": "unicamp",
+    "numero": 52,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Arbovírus são assim designados porque parte de seu ciclo\nde replicação ocorre nos insetos; esses vírus podem ser\ntransmitidos aos seres humanos. O Ministério da Saúde\nalertou para o controle das arboviroses e o risco de\nepidemias sazonais no Brasil em 2020.\nAssinale a alternativa correta.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "O vírus da febre amarela e o zika vírus podem ser\ntransmitidos pela picada do mosquito Culex. Para\nambos os casos não existe vacina, sendo considerada\nprofilática a erradicação do inseto vetor e de suas\nlarvas.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "O vírus da dengue e o zika vírus podem ser\ntransmitidos pela picada do mosquito Aedes aegypti. A\neliminação do inseto vetor e a eliminação dos focos de\ncriação das larvas são medidas profiláticas.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "O vírus da febre amarela e o da chikungunya podem\nser transmitidos pela picada do mosquito Aedes\naegypti. Para ambos os casos, foram desenvolvidas\nvacinas e o controle do inseto vetor não é considerado\numa medida profilática.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "O vírus da chikungunya e o da dengue podem ser\ntransmitidos pela picada do mosquito Culex. A\nerradicação do inseto vetor e a eliminação das larvas\nsão consideradas medidas profiláticas.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

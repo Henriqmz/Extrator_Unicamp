@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q57",
+    "edital": "unicamp",
+    "numero": 57,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Leia o trecho do poema da poetisa grega Safo acerca da\nbeleza de uma jovem chamada Anactória.\nuns dizem que é uma hoste de cavalaria, outros de\ninfantaria;\noutros dizem ser uma frota de naus, na terra negra,\na coisa mais bela: mas eu digo ser aquilo\nque se ama.\n(Adaptado de Luísa de Nazaré Ferreira, “Turismo e património na antiguidade\nclássica: o texto atribuído a Fílon de Bizâncio sobre as Sete Maravilhas”, em\nEspaços e Paisagens: Antiguidade Clássica e heranças contemporâneas. 2012.\nV. 1. Coimbra: Imprensa da Universidade de Coimbra e Annablume, p. 73.)\nA partir da leitura do poema, assinale a alternativa correta\nsobre o conceito de beleza na Grécia Antiga.",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "Safo reconhece a beleza como conceito universal e\ndestaca a sua independência em relação ao amor.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "Safo exemplifica o conceito de belo e o define como\ninerente às conquistas militares e territoriais.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "Safo constata a diversidade dos gostos humanos e\nevidencia o valor do amor para o conceito de beleza.",
+      "url_img": [],
+      "correta": true
+    },
+    "d": {
+      "texto": "Safo exemplifica os gostos humanos a partir do\nconceito de amor e o define como inerente às\nconquistas militares.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

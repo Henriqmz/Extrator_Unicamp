@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q61",
+    "edital": "unicamp",
+    "numero": 61,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "![figura](./imgs/unicamp_2021_E-G_q61_img_1.webp)\n\nO bolchevique, Boris Kustodiev, 1920. Disponível em Galeria Tretyakov. Moscou.\nO quadro O Bolchevique foi pintado pelo artista russo Boris\nKustodiev (1878-1927). Ele faz referências à Revolução de\n1917 e tem em seu centro a figura de um proletário\nsegurando uma bandeira pintada na cor vermelha. A partir\nda leitura do quadro (aqui reproduzido em preto e branco)\ne do seu contexto histórico, assinale a alternativa correta.\n\n![figura](./imgs/unicamp_2021_E-G_q61_img_1.webp)\n\n",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q61_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "A movimentação social de 1917 resultou na saída da\nRússia da Primeira Guerra Mundial e resolveu os\nproblemas econômicos do país. O quadro retrata a\npouca adesão popular ao movimento bolchevique.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "A Rússia recém-industrializada foi palco do movimento\nbolchevique, que culminou na ascensão de um regime\ndemocrático ao poder. O quadro retrata o amplo apoio\npopular à bandeira bolchevique.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "A nobreza russa tinha amplo apoio da monarquia e dos\noperários durante o processo de industrialização do\npaís. O quadro foi recebido pelo czar como uma\nafirmação da lealdade popular.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "A Revolução Russa foi responsável pela queda da\nmonarquia e ascensão do Partido Bolchevique ao\npoder. O quadro foi visto pelo governo revolucionário\nsoviético como afirmação de sua ideologia.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

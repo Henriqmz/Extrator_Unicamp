@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q12",
+    "edital": "unicamp",
+    "numero": 12,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "“Se Cabral tivesse uma vaga noção d’ACAPA de hoje,\nvéspera do 22 de abril de 2020, provavelmente teria\ndesviado o curso de suas caravelas rumo a outras terras.”\n\n\n![figura](./imgs/unicamp_2021_E-G_q12_img_1.webp)\n\n(ACAPA. Disponível em https://www.facebook.com/acapabr/. Acessado em 30/\n04/2020.)\nACAPA é um perfil de Facebook, que publica capas\npossíveis de revista. O efeito humorístico na leitura dessa\nedição de ACAPA decorre mais precisamente do uso",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q12_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "da expressão “terra à vista”, que remete à época em\nque a terra ainda era plana.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "da expressão “abundam birutas”, em referência aos\npovos originários do Brasil.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "do pronome relativo “cujo” para indicar o destino\ntraçado para a terra plana há 520 anos.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "da imagem de uma biruta mostrando a direção do\nvento, aliada à referência a “birutas” atuais.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

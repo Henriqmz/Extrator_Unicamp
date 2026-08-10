@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q43",
+    "edital": "unicamp",
+    "numero": 43,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "A calagem é uma prática de manejo do solo que consiste\nna utilização de calcário para proporcionar às plantas um\nambiente de crescimento radicular adequado. Isso diminui\na atividade de elementos potencialmente tóxicos em\nelevadas concentrações (Al e Mn) e favorece a\ndisponibilidade de elementos essenciais (N, P e K) no solo.\nO gráfico a seguir apresenta o grau de disponibilidade de\ndiversos elementos de acordo com o pH do solo.\n\n\n![figura](./imgs/unicamp_2021_E-G_q43_img_1.webp)\n\nConsiderando essas informações e os conhecimentos de\nquímica, é correto afirmar que a calagem atua em solos",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q43_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "ácidos, aumentando o seu pH; a curva D\ncorresponderia a um elemento essencial.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "básicos, diminuindo o seu pH; a curva A\ncorresponderia a um elemento tóxico.",
+      "url_img": [],
+      "correta": false
+    },
+    "c": {
+      "texto": "básicos, diminuindo o seu pH; a curva C\ncorresponderia a um elemento tóxico.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "ácidos, aumentando o seu pH; a curva B\ncorresponderia a um elemento essencial.",
+      "url_img": [],
+      "correta": true
+    },
+    "e": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q2",
+    "edital": "unicamp",
+    "numero": 2,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Certas imagens literárias podem tornar-se nucleares para\numa cultura. Assim, por exemplo, a figura do marinheiro\nem Portugal. Ela adquire significados diferentes em\nperíodos históricos distintos, mas conserva um elemento\npermanente. A semelhança entre a imagem do marinheiro\nem Camões e em Fernando Pessoa reside",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "no realismo moral do povo português, resultado da era\ndas grandes navegações e da expansão do\ncatolicismo.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "na representação de uma identidade coletiva e\nindividual sob o signo da mudança, do risco e da\ntravessia.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "na alegoria da degradação moral dos amantes e dos\naventureiros, movidos pelo desejo sexual e pela cobiça\nmaterial.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "na simbolização dos ideais econômicos de Portugal,\ncom reflexos na vida espiritual.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

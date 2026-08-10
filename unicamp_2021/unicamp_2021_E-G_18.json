@@ -1,0 +1,47 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q18",
+    "edital": "unicamp",
+    "numero": 18,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "![figura](./imgs/unicamp_2021_E-G_q18_img_1.webp)\n\n(Disponível em https://www.who.int/reproductive health/publications/covid-19-vaw-infographics/en/.\nAcessado em 01/08/2020.)\nO cartaz anterior, divulgado pela Organização Mundial da\nSaúde no contexto da atual pandemia, destaca o papel dos\ngovernos em\n\n![figura](./imgs/unicamp_2021_E-G_q18_img_1.webp)\n\n",
+    "url_img": [
+      "./imgs/unicamp_2021_E-G_q18_img_1.webp"
+    ],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "oferecer medidas de proteção e prevenção a mulheres\ne crianças, mais vulneráveis aos sintomas da doença.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "dar apoio a mulheres e crianças vitimas de situações\ndomésticas inseguras agravadas pela doença.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "incluir mulheres e crianças entre aqueles que merecem\nprioridade em tratamentos de emergência da doença.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "preparar serviços de suporte para atender mulheres e\ncrianças diretamente afetadas pela doença.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}

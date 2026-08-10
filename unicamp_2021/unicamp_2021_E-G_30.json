@@ -1,0 +1,45 @@
+{
+  "metadados": {
+    "codigo": "unicamp_2021_q30",
+    "edital": "unicamp",
+    "numero": 30,
+    "tipo_ou_cor": "E-G",
+    "ano": 2021
+  },
+  "conteudo": {
+    "enunciado": "Seja 𝑥 um número real tal que os primeiros três termos de\numa progressão geométrica infinita são 1, 2𝑥, െ3𝑥൅1,\nnesta ordem. Sabendo que todos os termos da progressão\nsão positivos, a soma de todos eles é igual a",
+    "url_img": [],
+    "dificuldade": null,
+    "resolucao": null,
+    "dica": null,
+    "objetiva": true
+  },
+  "especificacao": {
+    "disciplina": [],
+    "assunto": [],
+    "topico": []
+  },
+  "alternativas": {
+    "a": {
+      "texto": "3/2.",
+      "url_img": [],
+      "correta": false
+    },
+    "b": {
+      "texto": "2.",
+      "url_img": [],
+      "correta": true
+    },
+    "c": {
+      "texto": "5/2.",
+      "url_img": [],
+      "correta": false
+    },
+    "d": {
+      "texto": "3.",
+      "url_img": [],
+      "correta": false
+    },
+    "e": null
+  }
+}
