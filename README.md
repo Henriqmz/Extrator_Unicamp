@@ -6,6 +6,31 @@ Este projeto busca extrair todas as questões de provas do Vestibular UNICAMP (1
 
 ---
 
+## 📦 Dependências do Projeto
+
+O projeto utiliza Python 3.10+ e depende das seguintes bibliotecas e pacotes:
+
+### 1. Núcleo de Extração e Processamento (Obrigatório)
+* **`PyMuPDF` (`fitz`):** Leitura, análise geométrica de layout (colunas), extração de textos e dados vetoriais dos PDFs.
+* **`Pillow` (`PIL`):** Processamento, recorte e conversão otimizada de imagens para o formato WebP.
+* **`pydantic`:** Modelagem de dados tipada e validação estrita dos contratos de schema JSON.
+* **`tkinter`:** Biblioteca nativa do Python para renderização da interface gráfica Desktop (`main.py`).
+
+### 2. Módulo Opcional de Inteligência Artificial (Enriquecimento)
+* **`google-genai`:** SDK oficial do Google Gemini para enriquecimento automático de matérias, assuntos, tópicos e resoluções.
+* **`python-dotenv`:** Carregamento de credenciais locais (`GEMINI_API_KEY`) via arquivo `.env`.
+
+### 3. Testes Automatizados
+* **`pytest`:** Framework para execução da suíte formal de testes automatizados (`test_suite_pytest.py`).
+
+### 💻 Como Instalar Todas as Dependências
+Execute no terminal:
+```bash
+pip install pymupdf pillow pydantic google-genai python-dotenv pytest
+```
+
+---
+
 ## 📊 Formato de Saída (JSON Schema)
 
 O extrator gera **1 arquivo JSON por questão**, estruturado da seguinte forma:
@@ -62,5 +87,19 @@ Se a prova contiver um texto de apoio compartilhado entre múltiplas questões, 
 
 ---
 
-### 🚀 Suporte a Edições
+## 🧪 Execução dos Testes Automatizados
+
+O projeto possui suítes completas de testes unitários:
+
+```bash
+# Execução padrão via Runner nativo (57 testes)
+python test_runner.py
+
+# Execução formal via Pytest
+python -m pytest -v test_suite_pytest.py
+```
+
+---
+
+## 🚀 Suporte a Edições
 - **Suporte Oficial Completo:** Vestibulares Unicamp da edição **2006 até 2026** (1ª Fase Objetiva/Discursiva e 2ª Fase Dissertativa por disciplinas).

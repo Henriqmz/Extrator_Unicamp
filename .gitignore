@@ -26,6 +26,7 @@ env/
 # ==========================================
 # Ignorar as pastas de saída geradas pelos testes automáticos e execuções em lote
 *_test_*/
+*_pytest_*/
 exec_results/
 # Ignorar arquivos temporários e zips locais
 temp.db
