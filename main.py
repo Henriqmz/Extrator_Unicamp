@@ -219,6 +219,37 @@ class ExtratorGUI:
             messagebox.showerror("Erro", "Por favor, selecione um arquivo PDF de prova válido.")
             return
 
+        # Validação de integridade do PDF da prova
+        try:
+            doc_prova = validar_e_abrir_pdf(prova_path, tipo_doc="Prova")
+            doc_prova.close()
+        except Exception as e:
+            messagebox.showerror("Erro no Arquivo da Prova", f"O arquivo da prova não pôde ser validado:\n\n{str(e)}")
+            return
+
+        # Se gabarito foi fornecido na 1ª fase, validar integridade e compatibilidade de anos
+        gabarito_path = self.caminho_gabarito.get().strip()
+        fase = self.fase_prova.get()
+        if fase == "1" and gabarito_path:
+            if not os.path.exists(gabarito_path):
+                messagebox.showerror("Erro no Gabarito", "O caminho do arquivo de gabarito especificado não existe.")
+                return
+            try:
+                doc_gab = validar_e_abrir_pdf(gabarito_path, tipo_doc="Gabarito")
+                doc_gab.close()
+            except Exception as e:
+                messagebox.showerror("Erro no Arquivo do Gabarito", f"O arquivo do gabarito não pôde ser validado:\n\n{str(e)}")
+                return
+
+            # Validação cruzada de ano entre prova e gabarito
+            try:
+                _, ano_prova, _ = detectar_edital_ano(prova_path)
+                _, ano_gab, _ = detectar_metadados_gabarito(gabarito_path)
+                validar_compatibilidade_prova_gabarito(ano_prova, ano_gab)
+            except ValueError as ve:
+                messagebox.showerror("Incompatibilidade de Anos", f"{str(ve)}\n\nPor favor, forneça o gabarito oficial correspondente à edição da prova.")
+                return
+
         # Validar chave Gemini se IA estiver ativa
         if self.usar_ia.get():
             key = self.chave_gemini.get().strip()

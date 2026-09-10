@@ -81,10 +81,14 @@ def _run_setup(pdf_path, gabarito_path=None, choose_caderno_name=None, fase=1):
 
 @pytest.fixture(scope="session")
 def data_2026():
+    if not os.path.exists(PDF_PATH):
+        pytest.skip("Arquivo de 2026 não presente no disco")
     return _run_setup(PDF_PATH, GABARITO_PATH)
 
 @pytest.fixture(scope="session")
 def data_2026_2fase():
+    if not os.path.exists(PDF_2FASE_2026_PATH):
+        pytest.skip("Arquivo de 2026 (2ª fase) não presente no disco")
     return _run_setup(PDF_2FASE_2026_PATH, fase=2)
 
 @pytest.fixture(scope="session")
@@ -214,6 +218,8 @@ def test_n06_gabarito_2021_multiplos_tipos():
     assert len(res) >= 2
 
 def test_n07_gabarito_2026_tipo_unico():
+    if not os.path.exists(GABARITO_PATH):
+        pytest.skip("Gabarito de 2026 não presente no disco")
     res = extrair_gabarito(GABARITO_PATH)
     assert isinstance(res, tuple)
     assert len(res) == 2
