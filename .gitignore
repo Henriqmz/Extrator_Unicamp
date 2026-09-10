@@ -35,6 +35,8 @@ provas-e-gabaritos-unicamp-2026/
 provas-e-gabaritos-unicamp-2026.zip
 Históricos/
 Provas/provas-e-gabaritos-unicamp-*/
+test_correcoes.py
+verify_downloaded_pdfs.py
 
 # ==========================================
 # IDEs, Editores e Arquivos de Sistema
